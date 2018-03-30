@@ -1,5 +1,5 @@
 ----------
-## Cheatsheets, competitions, data sets, kernels, libraries, major centra, and YouTube play lists ##
+## Programming Related Resources ##
 ----------
 
 
