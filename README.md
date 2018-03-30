@@ -18,68 +18,14 @@
 - *Sutter, Exceptional C++ Style*
 - *Sutter, More Exceptional C++*
 
-### 1. Cheatsheets ###
-
-| Topic         | Forum                   |
-| ------------- |:-----------------------:|
-| Markdown      | [Adam Pritchard][1]     |
-
-[1]: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-
-### 2. Competitions ###
-
-- [Kaggle Competitions](https://www.kaggle.com/competitions)
-
-### 3. Courses ###
-
-| Location      | Course name                       |
-| ------------- |:---------------------------------:|
-| Udacity       | [Data Analyst Nanodegree][52]     |
-| Coursera      | [Data Science Specialization][51] |
-
-[51]: https://www.coursera.org/specializations/jhu-data-science
-[52]: https://www.udacity.com/course/data-analyst-nanodegree--nd002?v=a4
-
-### 4. Data sets ###
-
-| Data set                 | Forum                     |
-| ------------------------ |:-------------------------:|
-| ImageNet                 | [Google group forum][101] |
-| [Kaggle collection][102] |                           |
-
-[101]: https://groups.google.com/forum/#!forum/imagenet-community
-[102]: https://www.kaggle.com/datasets
-
-### 5. Julia ###
+### 02. Julia ###
 
 - [Jula home page](https://julialang.org/)
 - [stochasticlifestyle](http://www.stochasticlifestyle.com/)
 
-### 6. Kernels ###
+### 03. Loglan ###
 
-- [Kaggle kernels](https://www.kaggle.com/kernels)
-
-### 7. Libraries ###
-
-| Library       | Code           | Installation  | Documentation | Forum                      |
-| ------------- |:--------------:|:-------------:|:-------------:|:--------------------------:|
-| cntk          | [GitHub][1001] | pip           |               |                            |
-| keras         | [GitHub][1002] | pip           | [Doc][1003]   | [Google group forum][1004] |
-| statsmodels   |                | Anaconda      |               | [Google group forum][1005] |
-| tensorflow    | [GitHub][1006] | pip           | [Doc][1007]   |                            |
-| theano        | [GitHub][1008] | pip           |               | [Google group forum][1009] |
-
-[1001]: https://github.com/Microsoft/cntk
-[1002]: https://github.com/keras-team/keras
-[1003]: https://keras.io/
-[1004]: https://groups.google.com/forum/#!forum/keras-users
-[1005]: https://groups.google.com/forum/#!forum/pystatsmodels
-[1006]: https://github.com/tensorflow/tensorflow
-[1007]: https://www.tensorflow.org/
-[1008]: https://github.com/Theano/Theano
-[1009]: https://groups.google.com/forum/#!forum/theano-users
-
-### 8. Loglan template ###
+#### 03.1 Loglan - Template ####
 
 ```loglan
 /* Initilaize local variables
@@ -123,6 +69,64 @@ dowhile GET_FRAME ()
 enddo
 return
 ```
+
+### 04. Python ###
+
+### 04.1 Python - Libraries ###
+
+| Library       | Code           | Installation  | Documentation | Forum                      |
+| ------------- |:--------------:|:-------------:|:-------------:|:--------------------------:|
+| cntk          | [GitHub][1001] | pip           |               |                            |
+| keras         | [GitHub][1002] | pip           | [Doc][1003]   | [Google group forum][1004] |
+| statsmodels   |                | Anaconda      |               | [Google group forum][1005] |
+| tensorflow    | [GitHub][1006] | pip           | [Doc][1007]   |                            |
+| theano        | [GitHub][1008] | pip           |               | [Google group forum][1009] |
+
+[1001]: https://github.com/Microsoft/cntk
+[1002]: https://github.com/keras-team/keras
+[1003]: https://keras.io/
+[1004]: https://groups.google.com/forum/#!forum/keras-users
+[1005]: https://groups.google.com/forum/#!forum/pystatsmodels
+[1006]: https://github.com/tensorflow/tensorflow
+[1007]: https://www.tensorflow.org/
+[1008]: https://github.com/Theano/Theano
+[1009]: https://groups.google.com/forum/#!forum/theano-users
+
+### 1. Cheatsheets ###
+
+| Topic         | Forum                   |
+| ------------- |:-----------------------:|
+| Markdown      | [Adam Pritchard][1]     |
+
+[1]: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+### 2. Competitions ###
+
+- [Kaggle Competitions](https://www.kaggle.com/competitions)
+
+### 3. Courses ###
+
+| Location      | Course name                       |
+| ------------- |:---------------------------------:|
+| Udacity       | [Data Analyst Nanodegree][52]     |
+| Coursera      | [Data Science Specialization][51] |
+
+[51]: https://www.coursera.org/specializations/jhu-data-science
+[52]: https://www.udacity.com/course/data-analyst-nanodegree--nd002?v=a4
+
+### 4. Data sets ###
+
+| Data set                 | Forum                     |
+| ------------------------ |:-------------------------:|
+| ImageNet                 | [Google group forum][101] |
+| [Kaggle collection][102] |                           |
+
+[101]: https://groups.google.com/forum/#!forum/imagenet-community
+[102]: https://www.kaggle.com/datasets
+
+### 6. Kernels ###
+
+- [Kaggle kernels](https://www.kaggle.com/kernels)
 
 ### 9. Major centra ###
 
