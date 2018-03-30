@@ -59,7 +59,14 @@
 [1008]: https://github.com/Theano/Theano
 [1009]: https://groups.google.com/forum/#!forum/theano-users
 
-### 7. Major centra ###
+### 7. Loglan ###
+
+```loglan
+s = "Python syntax highlighting"
+print s
+```
+
+### 8. Major centra ###
 
 - [AI index](https://aiindex.org/)
 - [Algorithmia](https://algorithmia.com/)
@@ -106,7 +113,7 @@
   + [slashML](https://twitter.com/slashML)
   + [swcarpentry](https://twitter.com/swcarpentry)
 
-### 8. Video playlists ###
+### 9. Video playlists ###
 
 - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/featured)
 - [A9](https://www.youtube.com/user/A9Videos/featured)
