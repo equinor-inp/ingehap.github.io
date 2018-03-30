@@ -1,5 +1,5 @@
 ----------
-## Cheatsheets, competitions, data sets, libraries, and major centra ##
+## Cheatsheets, competitions, data sets, kernels, libraries, and major centra ##
 ----------
 
 
@@ -25,7 +25,11 @@
 [101]: https://groups.google.com/forum/#!forum/imagenet-community
 [102]: https://www.kaggle.com/datasets
 
-### 4. Libraries ###
+### 4. Kernels ###
+
+- [Kaggle kernels](https://www.kaggle.com/kernels)
+
+### 5. Libraries ###
 
 | Library       | Code           | Installation  | Documentation | Forum                      |
 | ------------- |:--------------:|:-------------:|:-------------:|:--------------------------:|
@@ -45,7 +49,7 @@
 [1008]: https://github.com/Theano/Theano
 [1009]: https://groups.google.com/forum/#!forum/theano-users
 
-### 5. Major centra ###
+### 6. Major centra ###
 
 - [Facebook](https://www.facebook.com/)
 - [Google Plus](https://plus.google.com/)
