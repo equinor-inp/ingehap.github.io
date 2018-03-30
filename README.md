@@ -1,10 +1,25 @@
-## Data sets, libraries, and major centra ##
+----------
+## Cheatsheets, data sets, libraries, and major centra ##
+----------
+
+
+### 0. Cheat sheets ###
+
+#### 0.1 Markdown ####
+
+- [Adam Pritchard](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ### 1. Data sets ###
 
+| Data set      | Forum                   |
+| ------------- |:-----------------------:|
+| ImageNet      | [Google group forum][1] |
+
+[1]: https://groups.google.com/forum/#!forum/imagenet-community
+
 #### 1.1 ImageNet ####
 
-- [Google group forum](https://groups.google.com/forum/#!forum/imagenet-community)
+- []()
 
 ### 2. Libraries ###
 
@@ -36,7 +51,7 @@ Installtion in Anaconda: **pip install tensorflow**.
 - [Documentation](https://www.tensorflow.org/)
 
 #### 2.6 theano ####
-Installtion in Anaconda: **pip install theano**.
+Installation in Anaconda: **pip install theano**.
 
 - [Code](https://github.com/Theano/Theano)
 - [Google group forum](https://groups.google.com/forum/#!forum/theano-users)
@@ -50,3 +65,4 @@ Installtion in Anaconda: **pip install theano**.
 - [Google Plus](https://plus.google.com/)
 
 #### 3.3 Kaggle ####
+
