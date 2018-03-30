@@ -21,44 +21,23 @@
 
 ### 3. Libraries ###
 
-| Library       | Code          | Cool  |
-| ------------- |:-------------:|:-----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Library       | Code           | Installation  | Documentation | Forum                      |
+| ------------- |:--------------:|:-------------:|:-------------:|:--------------------------:|
+| cntk          | [GitHub][1001] | pip           |               |                            |
+| keras         | [GitHub][1002] | pip           | [Doc][1003]   | [Google group forum][1004] |
+| statsmodels   |                | Anaconda      |               | [Google group forum][1005] |
+| tensorflow    | [GitHub][1006] | pip           | [Doc][1007]   |                            |
+| theano        | [GitHub][1008] | pip           |               | [Google group forum][1009] |
 
-#### 3.1 cntk ####
-Installation in Anaconda: **pip install cntk**.
-
-- [Code](https://github.com/Microsoft/cntk)
-
-#### 3.2 keras ####
-Installation in Anaconda: **pip install keras**.
-
-- [Code](https://github.com/keras-team/keras)
-- [Documentation](https://keras.io/)
-- [Google group forum](https://groups.google.com/forum/#!forum/keras-users)
-
-#### 3.3 keras-lr ####
-
-- [Google group forum](https://github.com/matthiasplappert/keras-rl)
-
-#### 3.4 statsmodels ####
-Included in the full Anaconda installation.
-
-- [Google group forum](https://groups.google.com/forum/#!forum/pystatsmodels)
-
-#### 3.5 tensorflow ####
-Installtion in Anaconda: **pip install tensorflow**.
-
-- [Code](https://github.com/tensorflow/tensorflow)
-- [Documentation](https://www.tensorflow.org/)
-
-#### 3.6 theano ####
-Installation in Anaconda: **pip install theano**.
-
-- [Code](https://github.com/Theano/Theano)
-- [Google group forum](https://groups.google.com/forum/#!forum/theano-users)
+[1001]: https://github.com/Microsoft/cntk
+[1002]: https://github.com/keras-team/keras
+[1003]: https://keras.io/
+[1004]: https://groups.google.com/forum/#!forum/keras-users
+[1005]: https://groups.google.com/forum/#!forum/pystatsmodels
+[1006]: https://github.com/tensorflow/tensorflow
+[1007]: https://www.tensorflow.org/
+[1008]: https://github.com/Theano/Theano
+[1009]: https://groups.google.com/forum/#!forum/theano-users
 
 ### 4. Major centra ###
 
