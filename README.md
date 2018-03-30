@@ -2,6 +2,11 @@
 ## Programming Related Resources ##
 ----------
 
+### 01. C++ ###
+
+#### 01.1 C++ - Boks ####
+
+- *Abrahams, C++ Template Metaprogramming*
 
 ### 1. Cheatsheets ###
 
