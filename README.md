@@ -35,11 +35,16 @@
 [101]: https://groups.google.com/forum/#!forum/imagenet-community
 [102]: https://www.kaggle.com/datasets
 
-### 5. Kernels ###
+### 5. Julia ###
+
+- [Jula home page](https://julialang.org/)
+- [stochasticlifestyle](http://www.stochasticlifestyle.com/)
+
+### 6. Kernels ###
 
 - [Kaggle kernels](https://www.kaggle.com/kernels)
 
-### 6. Libraries ###
+### 7. Libraries ###
 
 | Library       | Code           | Installation  | Documentation | Forum                      |
 | ------------- |:--------------:|:-------------:|:-------------:|:--------------------------:|
@@ -59,7 +64,7 @@
 [1008]: https://github.com/Theano/Theano
 [1009]: https://groups.google.com/forum/#!forum/theano-users
 
-### 7. Loglan ###
+### 8. Loglan template ###
 
 ```loglan
 /* Initilaize local variables
@@ -104,7 +109,7 @@ enddo
 return
 ```
 
-### 8. Major centra ###
+### 9. Major centra ###
 
 - [AI index](https://aiindex.org/)
 - [Algorithmia](https://algorithmia.com/)
@@ -151,7 +156,7 @@ return
   + [slashML](https://twitter.com/slashML)
   + [swcarpentry](https://twitter.com/swcarpentry)
 
-### 9. Video playlists ###
+### 10. Video playlists ###
 
 - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/featured)
 - [A9](https://www.youtube.com/user/A9Videos/featured)
