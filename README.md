@@ -5,7 +5,7 @@
 
 ### 1. Cheat sheets ###
 
-| Cheat sheet   | Forum                   |
+| Topic         | Forum                   |
 | ------------- |:-----------------------:|
 | Markdown      | [Adam Pritchard][1]     |
 
@@ -41,11 +41,8 @@
 
 ### 4. Major centra ###
 
-#### 4.1 Facebook ####
 - [Facebook](https://www.facebook.com/)
-
-#### 4.2 Google Plus ####
 - [Google Plus](https://plus.google.com/)
-
-#### 4.3 Kaggle ####
-
+- [Kaggle](https://www.kaggle.com/)
+  + [Kaggle Competitions](https://www.kaggle.com/competitions)
+  + [Kaggle Data Sets](https://www.kaggle.com/datasets)
