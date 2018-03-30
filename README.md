@@ -17,9 +17,6 @@
 
 [1]: https://groups.google.com/forum/#!forum/imagenet-community
 
-#### 1.1 ImageNet ####
-
-- []()
 
 ### 2. Libraries ###
 
