@@ -1,5 +1,5 @@
 ----------
-## Cheatsheets, competitions, data sets, kernels, libraries, and major centra ##
+## Cheatsheets, competitions, data sets, kernels, libraries, major centra, and YouTube play lists ##
 ----------
 
 
@@ -81,3 +81,9 @@
   + [slashML](https://twitter.com/slashML)
   + [swcarpentry](https://twitter.com/swcarpentry)
   
+### 7. YouTube playlists ###
+
+- [GitHub Training \& Guides](https://www.youtube.com/user/GitHubGuides/playlists)
+- [Preserve Knowledge](https://www.youtube.com/user/Charleshche/playlists)
+- [PyCon 2017](https://www.youtube.com/channel/UCrJhliKNQ8g0qoE_zvL8eVg/videos)
+- [PyCon KR](https://www.youtube.com/channel/UC26x6D5xpKx6io4ShfXa_Ow/playlists)
