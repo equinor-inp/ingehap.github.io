@@ -70,9 +70,19 @@ enddo
 return
 ```
 
-### 04. Python ###
+### 04. Markdown ###
 
-### 04.1 Python - Libraries ###
+#### 04.1 Markdown - Cheatsheets ####
+
+| Topic         | Forum                   |
+| ------------- |:-----------------------:|
+| Markdown      | [Adam Pritchard][1]     |
+
+[1]: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+### 05. Python ###
+
+#### 05.1 Python - Libraries ####
 
 | Library       | Code           | Installation  | Documentation | Forum                      |
 | ------------- |:--------------:|:-------------:|:-------------:|:--------------------------:|
@@ -91,14 +101,6 @@ return
 [1007]: https://www.tensorflow.org/
 [1008]: https://github.com/Theano/Theano
 [1009]: https://groups.google.com/forum/#!forum/theano-users
-
-### 1. Cheatsheets ###
-
-| Topic         | Forum                   |
-| ------------- |:-----------------------:|
-| Markdown      | [Adam Pritchard][1]     |
-
-[1]: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 ### 2. Competitions ###
 
