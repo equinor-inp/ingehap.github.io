@@ -2,25 +2,21 @@
 # Programming Related Resources #
 ----------
 
-## Programming Central ##
-
-| Language      | Book List      | Home page               | Documentation | Cheat sheet        |
-| ------------- |:--------------:|:-----------------------:|:-------------:|:------------------:|
-| C++           | [Books][10001] |                         |               |                    |
-| Julia         |                | [Jula home page][10002] |               |                    |
-| Markdown      |                |                         |               | [Pritchard][10003] |
+| Language      | Book List     | Home page     | Documentation | Cheat sheet        |
+| ------------- |:-------------:|:-------------:|:-------------:|:------------------:|
+| C++           | [Page][10001] |               |               |                    |
+| Julia         |               | [Home][10002] |               |                    |
+| Loglan        |               |               |               | [Page][10004]      |
+| Markdown      |               |               |               | [Pritchard][10003] |
 
 [10001]: ./CPP_books.md
 [10002]: https://julialang.org/
 [10003]: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-
-
-### 02. Julia ###
-- [stochasticlifestyle](http://www.stochasticlifestyle.com/)
+[10004]: ./Loglan_ChearSheet.md
 
 ### 03. Loglan ###
 
-#### 03.1 Loglan - Template ####
+#### 03.1 Loglan - Template 1 ####
 
 ```loglan
 /* Initilaize local variables
@@ -146,6 +142,7 @@ return
   + [Machine Learning](https://www.reddit.com/r/MachineLearning/)
   + [Programming](https://www.reddit.com/r/programming/)
 - [Software Carpentry](https://software-carpentry.org/lessons/)
+- [Stochasticlifestyle](http://www.stochasticlifestyle.com/)
 - [Think Big Data](http://thinkbigdata.in/)
 - [TowardsDataScience](https://towardsdatascience.com/)
   + [Data science](https://towardsdatascience.com/data-science/home)
