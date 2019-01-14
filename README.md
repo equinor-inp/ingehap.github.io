@@ -2,7 +2,7 @@
 # Programming Related Resources #
 ----------
 
-## 01. Summary ##
+## 1. General resources ##
 
 | Language      | Book List     | Home page     | Documentation | Cheat sheet        |
 | ------------- |:-------------:|:-------------:|:-------------:|:------------------:|
@@ -16,56 +16,37 @@
 [10003]: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 [10004]: ./Loglan_CheatSheet.md
 
-### 03. Loglan ###
 
-#### 03.1 Loglan - Template 1 ####
+## 2. Competitions ##
 
-```loglan
-/* Initilaize local variables
-n = 0
-max_frames = 56000
+- [Kaggle Competitions](https://www.kaggle.com/competitions)
 
-perform CONVERT_LOGS_TO_ARRAYS
-perform CHECK_MAX_FRAMES
-perform CALCULATIONS
-perform CONVERT_ARRAYS_TO_LOGS
 
-end
+## 3. Courses ##
 
-CONVERT_LOGS_TO_ARRAYS:
-dowhile GET_FRAME ()
-   n = n + 1
-   LOG[n] = LOG_IN
-enddo
-return
+| Location      | Course name                       |
+| ------------- |:---------------------------------:|
+| Udacity       | [Data Analyst Nanodegree][52]     |
+| Coursera      | [Data Science Specialization][51] |
 
-CHECK_MAX_FRAMES:
-IF (n > max_frames) THEN
-   call DISPLAY_ERROR('Error: Input curves must have at most max_frame samples')
-ENDIF
-return
+[51]: https://www.coursera.org/specializations/jhu-data-science
+[52]: https://www.udacity.com/course/data-analyst-nanodegree--nd002?v=a4
 
-CALCULATIONS:
-/* One or a combination of the following:
-/*     loglan
-/*     C++      (begin_c  .... end_c)
-/*     matlab 
-return
 
-CONVERT_ARRAYS_TO_LOGS:
-call REWIND ()
-n = 0
-dowhile GET_FRAME ()
-   n = n + 1
-   LOG_OUT = LOG[n]
-   call PUT_FRAME ()
-enddo
-return
-```
+## 4. Data sets ##
 
-### 05. Python ###
+| Data set                 | Forum                     |
+| ------------------------ |:-------------------------:|
+| ImageNet                 | [Google group forum][101] |
+| [Kaggle collection][102] |                           |
 
-#### 05.1 Python - Libraries ####
+[101]: https://groups.google.com/forum/#!forum/imagenet-community
+[102]: https://www.kaggle.com/datasets
+
+
+## 5. Libraries ##
+
+### 5.1 Libraries - Python ###
 
 | Library       | Code           | Installation  | Documentation | Forum                      |
 | ------------- |:--------------:|:-------------:|:-------------:|:--------------------------:|
@@ -85,35 +66,8 @@ return
 [1008]: https://github.com/Theano/Theano
 [1009]: https://groups.google.com/forum/#!forum/theano-users
 
-### 2. Competitions ###
 
-- [Kaggle Competitions](https://www.kaggle.com/competitions)
-
-### 3. Courses ###
-
-| Location      | Course name                       |
-| ------------- |:---------------------------------:|
-| Udacity       | [Data Analyst Nanodegree][52]     |
-| Coursera      | [Data Science Specialization][51] |
-
-[51]: https://www.coursera.org/specializations/jhu-data-science
-[52]: https://www.udacity.com/course/data-analyst-nanodegree--nd002?v=a4
-
-### 4. Data sets ###
-
-| Data set                 | Forum                     |
-| ------------------------ |:-------------------------:|
-| ImageNet                 | [Google group forum][101] |
-| [Kaggle collection][102] |                           |
-
-[101]: https://groups.google.com/forum/#!forum/imagenet-community
-[102]: https://www.kaggle.com/datasets
-
-### 6. Kernels ###
-
-- [Kaggle kernels](https://www.kaggle.com/kernels)
-
-### 9. Major centra ###
+## 6. Other ##
 
 - [AI index](https://aiindex.org/)
 - [Algorithmia](https://algorithmia.com/)
@@ -134,6 +88,7 @@ return
 - [freeCodeCamp](https://medium.freecodecamp.org/)
 - [Google Plus](https://plus.google.com/)
 - [Kaggle](https://www.kaggle.com/)
+  + [Kaggle kernels](https://www.kaggle.com/kernels)
 - [KD Nuggets](https://www.kdnuggets.com/)
 - [Quora](https://www.quora.com)
   + [Big Data Analysis](https://www.quora.com/topic/Big-Data-Analysis)
@@ -160,20 +115,18 @@ return
   + [RStatsStExBot](https://twitter.com/RStatsStExBot)
   + [slashML](https://twitter.com/slashML)
   + [swcarpentry](https://twitter.com/swcarpentry)
-
-### 10. Video playlists ###
-
-- [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/featured)
-- [A9](https://www.youtube.com/user/A9Videos/featured)
-- [CppCon](https://www.youtube.com/user/CppCon/playlists)
-- [Data Science Central](https://www.datasciencecentral.com/video/)
-- [Enthought](https://www.youtube.com/user/EnthoughtMedia/playlists)
-- [GitHub Training \& Guides](https://www.youtube.com/user/GitHubGuides/playlists)
-- [Google](https://www.youtube.com/user/Google/playlists)
-- [Google Cloud Platform](https://www.youtube.com/user/googlecloudplatform/playlists)
-- [JetBrainsTV](https://www.youtube.com/user/JetBrainsTV/playlists)
-- [Microsoft Research](https://www.youtube.com/user/MicrosoftResearch/playlists)
-- [Preserve Knowledge](https://www.youtube.com/user/Charleshche/playlists)
-- [PyCon 2017](https://www.youtube.com/channel/UCrJhliKNQ8g0qoE_zvL8eVg/videos)
-- [PyCon KR](https://www.youtube.com/channel/UC26x6D5xpKx6io4ShfXa_Ow/playlists)
-- [UTAPWeLS](https://www.youtube.com/channel/UCHWnztyGyQPEXXbp2Tu0_DA/videos?disable_polymer=1)
+- [YouTube playlists](https://www.youtube.com)
+  + [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/featured)
+  + [A9](https://www.youtube.com/user/A9Videos/featured)
+  + [CppCon](https://www.youtube.com/user/CppCon/playlists)
+  + [Data Science Central](https://www.datasciencecentral.com/video/)
+  + [Enthought](https://www.youtube.com/user/EnthoughtMedia/playlists)
+  + [GitHub Training \& Guides](https://www.youtube.com/user/GitHubGuides/playlists)
+  + [Google](https://www.youtube.com/user/Google/playlists)
+  + [Google Cloud Platform](https://www.youtube.com/user/googlecloudplatform/playlists)
+  + [JetBrainsTV](https://www.youtube.com/user/JetBrainsTV/playlists)
+  + [Microsoft Research](https://www.youtube.com/user/MicrosoftResearch/playlists)
+  + [Preserve Knowledge](https://www.youtube.com/user/Charleshche/playlists)
+  + [PyCon 2017](https://www.youtube.com/channel/UCrJhliKNQ8g0qoE_zvL8eVg/videos)
+  + [PyCon KR](https://www.youtube.com/channel/UC26x6D5xpKx6io4ShfXa_Ow/playlists)
+  + [UTAPWeLS](https://www.youtube.com/channel/UCHWnztyGyQPEXXbp2Tu0_DA/videos?disable_polymer=1)
