@@ -1,6 +1,5 @@
-----------
 # Programming Related Resources #
-----------
+
 
 ## 1. General resources ##
 
