@@ -51,7 +51,7 @@
 | ------------- |:--------------:|:-------------:|:-------------:|:--------------------------:|
 | cntk          | [GitHub][1001] | pip           |               |                            |
 | keras         | [GitHub][1002] | pip           | [Doc][1003]   | [Google group forum][1004] |
-| statsmodels   |                | Anaconda      |               | [Google group forum][1005] |
+| statsmodels   |                | conda         |               | [Google group forum][1005] |
 | tensorflow    | [GitHub][1006] | pip           | [Doc][1007]   |                            |
 | theano        | [GitHub][1008] | pip           |               | [Google group forum][1009] |
 
