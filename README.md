@@ -9,7 +9,7 @@
 | ------------- |:--------------:|:-------------:|:-------------:|:--------------------------:|
 | C++           | [Books][10001] | pip           |               |                            |
 
-[10001]: https://github.com/ingehap/ingehap.github.io/blob/master/CPPbooks.md
+[10001]: https://github.com/ingehap/ingehap.github.io/CPPbooks.md
 
 ### 01. C++ ###
 
