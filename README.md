@@ -6,10 +6,10 @@
 | Language      | Book List     | Home page     | Documentation | Cheat sheet        |
 | ------------- |:-------------:|:-------------:|:-------------:|:------------------:|
 | C++           | [Page][1]     |               |               |                    |
-| Julia         |               | [Home][2]     |               |                    |
+| Julia         |               | [Home][2]     | [Page][6]     |                    |
 | Loglan        |               |               |               | [Page][4]          |
 | Markdown      |               |               |               | [Pritchard][3]     |
-| Python        |               | [Home][5]     |               |                    |
+| Python        |               | [Home][5]     | [Page][7]     |                    |
 
 [//]: # (Collection of links 1 - 1000)
 [1]: ./CPP_books.md
@@ -17,8 +17,8 @@
 [3]: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 [4]: ./Loglan_CheatSheet.md
 [5]: https://www.python.org/
-
-
+[6]: https://docs.julialang.org
+[7]: https://docs.python.org
 ---------------------------------------------------------------------------------------------
 ## 2. Competitions ##
 
