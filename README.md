@@ -4,32 +4,18 @@
 
 ## Programming Central ##
 
-
-| Language      | Book List      | Installation  | Documentation | Forum                      |
-| ------------- |:--------------:|:-------------:|:-------------:|:--------------------------:|
-| C++           | [Books][10001] | pip           |               |                            |
+| Language      | Book List      | Home page               | Documentation | Cheat sheet        |
+| ------------- |:--------------:|:-----------------------:|:-------------:|:------------------:|
+| C++           | [Books][10001] |                         |               |                    |
+| Julia         |                | [Jula home page][10002] |               |                    |
+| Markdown      |                |                         |               | [Pritchard][10003] |
 
 [10001]: ./CPP_books.md
+[10002]: https://julialang.org/
+[10003]: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
-### 01. C++ ###
-
-#### 01.1 C++ - Books ####
-
-- *Abrahams, C++ Template Metaprogramming*
-- *Alexrandrescu, Modern C++ Design*
-- *Koenig, Accelerated C++*
-- *Romanik, Applied C++*
-- *Schmidt, C++ Network Programming, Volume 1*
-- *Schmidt, C++ Network Programming, Volume 2*
-- *Siek, Boost Graph Library*
-- *Sutter, C++ Coding Standards*
-- *Sutter, Exceptional C++*
-- *Sutter, Exceptional C++ Style*
-- *Sutter, More Exceptional C++*
 
 ### 02. Julia ###
-
-- [Jula home page](https://julialang.org/)
 - [stochasticlifestyle](http://www.stochasticlifestyle.com/)
 
 ### 03. Loglan ###
@@ -78,16 +64,6 @@ dowhile GET_FRAME ()
 enddo
 return
 ```
-
-### 04. Markdown ###
-
-#### 04.1 Markdown - Cheatsheets ####
-
-| Topic         | Forum                   |
-| ------------- |:-----------------------:|
-| Markdown      | [Adam Pritchard][1]     |
-
-[1]: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 ### 05. Python ###
 
