@@ -1,4 +1,4 @@
-** C++ Books **
+## C++ Books ##
 
 - *Abrahams, C++ Template Metaprogramming*
 - *Alexrandrescu, Modern C++ Design*
