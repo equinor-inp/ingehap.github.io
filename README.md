@@ -84,9 +84,9 @@
 ---------------------------------------------------------------------------------------------
 ## 6. Research ##
 
-- [Evernote Web](https://www.evernote.com/client/web#?anb=true&b=1bb2f64b-ca3e-49a1-9bee-0b2dbb5feaa3&)
-- [KanbanFlow](https://kanbanflow.com/board/dafab6f5a4722a9c5bfe955c8da05432)
-- [ResearchGate](https://www.researchgate.net/profile/Inge_Pettersen)
+- [Evernote Web](https://www.evernote.com/client)
+- [KanbanFlow](https://kanbanflow.com)
+- [ResearchGate](https://www.researchgate.net)
 
 ---------------------------------------------------------------------------------------------
 ## 7. Other ##
