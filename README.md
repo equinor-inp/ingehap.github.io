@@ -5,44 +5,51 @@
 
 | Language      | Book List     | Home page     | Documentation | Cheat sheet        |
 | ------------- |:-------------:|:-------------:|:-------------:|:------------------:|
-| C++           | [Page][10001] |               |               |                    |
-| Julia         |               | [Home][10002] |               |                    |
-| Loglan        |               |               |               | [Page][10004]      |
-| Markdown      |               |               |               | [Pritchard][10003] |
-| Python        |               | [Home][10005] |               |                    |
+| C++           | [Page][1]     |               |               |                    |
+| Julia         |               | [Home][2]     |               |                    |
+| Loglan        |               |               |               | [Page][4]          |
+| Markdown      |               |               |               | [Pritchard][3]     |
+| Python        |               | [Home][5]     |               |                    |
 
-[10001]: ./CPP_books.md
-[10002]: https://julialang.org/
-[10003]: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-[10004]: ./Loglan_CheatSheet.md
-[10005]: https://www.python.org/
+[//]: # (Collection of links 1 - 1000)
+[1]: ./CPP_books.md
+[2]: https://julialang.org/
+[3]: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+[4]: ./Loglan_CheatSheet.md
+[5]: https://www.python.org/
 
 
 ## 2. Competitions ##
 
-- [Kaggle Competitions](https://www.kaggle.com/competitions)
+- [Analytics Vidhya - Datahack][1001]
+- [Kaggle Competitions][1002]
 
+[//]: # (Collection of links 1001 - 2000)
+[1001]: https://datahack.analyticsvidhya.com/?utm_source=AVHome
+[1002]: https://www.kaggle.com/competitions
 
 ## 3. Courses ##
 
-| Location      | Course name                       |
-| ------------- |:---------------------------------:|
-| Udacity       | [Data Analyst Nanodegree][52]     |
-| Coursera      | [Data Science Specialization][51] |
+| Location      | Course name                         |
+| ------------- |:-----------------------------------:|
+| Udacity       | [Data Analyst Nanodegree][2002]     |
+| Coursera      | [Data Science Specialization][2001] |
 
-[51]: https://www.coursera.org/specializations/jhu-data-science
-[52]: https://www.udacity.com/course/data-analyst-nanodegree--nd002?v=a4
+[//]: # (Collection of links 2001 - 3000)
+[2001]: https://www.coursera.org/specializations/jhu-data-science
+[2002]: https://www.udacity.com/course/data-analyst-nanodegree--nd002?v=a4
 
 
 ## 4. Data sets ##
 
-| Data set                 | Forum                     |
-| ------------------------ |:-------------------------:|
-| ImageNet                 | [Google group forum][101] |
-| [Kaggle collection][102] |                           |
+| Data set                  | Forum                      |
+| ------------------------- |:--------------------------:|
+| ImageNet                  | [Google group forum][3001] |
+| [Kaggle collection][3002] |                            |
 
-[101]: https://groups.google.com/forum/#!forum/imagenet-community
-[102]: https://www.kaggle.com/datasets
+[//]: # (Collection of links 3001 - 4000)
+[3001]: https://groups.google.com/forum/#!forum/imagenet-community
+[3002]: https://www.kaggle.com/datasets
 
 
 ## 5. Libraries ##
@@ -51,31 +58,34 @@
 
 | Library       | Code           | Installation  | Documentation | Forum                      |
 | ------------- |:--------------:|:-------------:|:-------------:|:--------------------------:|
-| cntk          | [GitHub][1001] | pip           |               |                            |
-| keras         | [GitHub][1002] | pip           | [Doc][1003]   | [Google group forum][1004] |
-| statsmodels   |                | conda         |               | [Google group forum][1005] |
-| tensorflow    | [GitHub][1006] | pip           | [Doc][1007]   |                            |
-| theano        | [GitHub][1008] | pip           |               | [Google group forum][1009] |
+| cntk          | [GitHub][4001] | pip           |               |                            |
+| keras         | [GitHub][4002] | pip           | [Doc][4003]   | [Google group forum][4004] |
+| statsmodels   |                | conda         |               | [Google group forum][4005] |
+| tensorflow    | [GitHub][4006] | pip           | [Doc][4007]   |                            |
+| theano        | [GitHub][4008] | pip           |               | [Google group forum][4009] |
 
-[1001]: https://github.com/Microsoft/cntk
-[1002]: https://github.com/keras-team/keras
-[1003]: https://keras.io/
-[1004]: https://groups.google.com/forum/#!forum/keras-users
-[1005]: https://groups.google.com/forum/#!forum/pystatsmodels
-[1006]: https://github.com/tensorflow/tensorflow
-[1007]: https://www.tensorflow.org/
-[1008]: https://github.com/Theano/Theano
-[1009]: https://groups.google.com/forum/#!forum/theano-users
+[//]: # (Collection of links 4001 - 5000)
+[4001]: https://github.com/Microsoft/cntk
+[4002]: https://github.com/keras-team/keras
+[4003]: https://keras.io/
+[4004]: https://groups.google.com/forum/#!forum/keras-users
+[4005]: https://groups.google.com/forum/#!forum/pystatsmodels
+[4006]: https://github.com/tensorflow/tensorflow
+[4007]: https://www.tensorflow.org/
+[4008]: https://github.com/Theano/Theano
+[4009]: https://groups.google.com/forum/#!forum/theano-users
 
 
 ## 6. Other ##
 
 ### 6.1 Other - A ###
 
-- [AI index](https://aiindex.org/)
-- [Algorithmia](https://algorithmia.com/)
+- [AI index][5001]
+- [Algorithmia][5002]
 - [Amazon](https://www.amazon.com)
-  + [Manage Your Content and Devices](https://www.amazon.com/mn/dcw/myx.html/ref=nav_youraccount_myk#/home/content/booksAll/dateDsc/)
+  + [Amazon - Manage Your Content and Devices](https://www.amazon.com/mn/dcw/myx.html/ref=nav_youraccount_myk#/home/content/booksAll/dateDsc/)
+- [Analytics Vidhya](https://www.analyticsvidhya.com/)
+  + [](https://www.analyticsvidhya.com/blog/category/python-2/)
 - [arXiv](https://arxiv.org/)
 
 ### 6.2 Other - C ###
@@ -182,3 +192,6 @@
   + [PyCon KR](https://www.youtube.com/channel/UC26x6D5xpKx6io4ShfXa_Ow/playlists)
   + [UTAPWeLS](https://www.youtube.com/channel/UCHWnztyGyQPEXXbp2Tu0_DA/videos?disable_polymer=1)
 
+[//]: # (Collection of links 5001 - 9999)
+[5001]: https://aiindex.org/
+[5002]: https://algorithmia.com/
