@@ -18,7 +18,7 @@
 [4]: ./Loglan_CheatSheet.md
 [5]: https://www.python.org/
 
-
+---------------------------------------------------------------------------------------------
 ## 2. Competitions ##
 
 - [Analytics Vidhya - Datahack][1001]
