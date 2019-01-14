@@ -18,6 +18,7 @@
 [4]: ./Loglan_CheatSheet.md
 [5]: https://www.python.org/
 
+
 ---------------------------------------------------------------------------------------------
 ## 2. Competitions ##
 
@@ -28,6 +29,8 @@
 [1001]: https://datahack.analyticsvidhya.com/?utm_source=AVHome
 [1002]: https://www.kaggle.com/competitions
 
+
+---------------------------------------------------------------------------------------------
 ## 3. Courses ##
 
 | Location      | Course name                         |
@@ -40,6 +43,7 @@
 [2002]: https://www.udacity.com/course/data-analyst-nanodegree--nd002?v=a4
 
 
+---------------------------------------------------------------------------------------------
 ## 4. Data sets ##
 
 | Data set                  | Forum                      |
@@ -52,6 +56,7 @@
 [3002]: https://www.kaggle.com/datasets
 
 
+---------------------------------------------------------------------------------------------
 ## 5. Libraries ##
 
 ### 5.1 Libraries - Python ###
@@ -76,6 +81,7 @@
 [4009]: https://groups.google.com/forum/#!forum/theano-users
 
 
+---------------------------------------------------------------------------------------------
 ## 6. Other ##
 
 ### 6.1 Other - A ###
