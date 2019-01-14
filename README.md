@@ -17,6 +17,7 @@
 [10004]: ./Loglan_CheatSheet.md
 [10005]: https://www.python.org/
 
+
 ## 2. Competitions ##
 
 - [Kaggle Competitions](https://www.kaggle.com/competitions)
@@ -69,13 +70,21 @@
 
 ## 6. Other ##
 
+### 6.1 Other - A ###
+
 - [AI index](https://aiindex.org/)
 - [Algorithmia](https://algorithmia.com/)
 - [Amazon](https://www.amazon.com)
   + [Manage Your Content and Devices](https://www.amazon.com/mn/dcw/myx.html/ref=nav_youraccount_myk#/home/content/booksAll/dateDsc/)
 - [arXiv](https://arxiv.org/)
+
+### 6.2 Other - C ###
+
 - [CoCalc](https://cocalc.com/)
 - [Codeburst](https://codeburst.io/)
+
+### 6.3 Other - D ###
+
 - [Data Carpentry](http://www.datacarpentry.org/)
 - [Data Science Central](https://www.datasciencecentral.com)
 - [DataCamp](https://www.datacamp.com)
@@ -83,23 +92,47 @@
 - [Deep Mind](https://deepmind.com/research/publications/)
 - [Digital Academy](http://entry.statoil.no/HR/LearnStatoil/DigitalAcademy/pages/digitalacademy-learn.aspx)
 - [Distill](https://distill.pub/)
+
+### 6.4 Other - E ###
+
 - [EliteDataScience](https://elitedatascience.com)
+
+### 6.5 Other - F ###
+
 - [Facebook](https://www.facebook.com/)
 - [freeCodeCamp](https://medium.freecodecamp.org/)
+
+### 6.6 Other - G ###
+
 - [Google Plus](https://plus.google.com/)
+
+### 6.7 Other - K ###
+
 - [Kaggle](https://www.kaggle.com/)
   + [Kaggle kernels](https://www.kaggle.com/kernels)
 - [KD Nuggets](https://www.kdnuggets.com/)
+
+### 6.8 Other - Q ###
+
 - [Quora](https://www.quora.com)
   + [Big Data Analysis](https://www.quora.com/topic/Big-Data-Analysis)
   + [Data Analysis](https://www.quora.com/topic/Data-Analysis)
   + [Data Science](https://www.quora.com/topic/Data-Science)
+
+### 6.9 Other - R ###
+
 - [Reddit](https://www.reddit.com)
   + [Data Science](https://www.reddit.com/r/datascience/)
   + [Machine Learning](https://www.reddit.com/r/MachineLearning/)
   + [Programming](https://www.reddit.com/r/programming/)
+  
+### 6.10 Other - S ###
+
 - [Software Carpentry](https://software-carpentry.org/lessons/)
 - [Stochasticlifestyle](http://www.stochasticlifestyle.com/)
+
+### 6.11 Other - T ###
+
 - [Think Big Data](http://thinkbigdata.in/)
 - [TowardsDataScience](https://towardsdatascience.com/)
   + [Data science](https://towardsdatascience.com/data-science/home)
@@ -115,6 +148,9 @@
   + [RStatsStExBot](https://twitter.com/RStatsStExBot)
   + [slashML](https://twitter.com/slashML)
   + [swcarpentry](https://twitter.com/swcarpentry)
+  
+### 6.12 Other - Y ###
+
 - [YouTube playlists](https://www.youtube.com)
   + [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/featured)
   + [A9](https://www.youtube.com/user/A9Videos/featured)
