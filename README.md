@@ -82,9 +82,13 @@
 
 
 ---------------------------------------------------------------------------------------------
-## 6. Other ##
+## 6. Research ##
 
-### 6.1 Other - A ###
+
+---------------------------------------------------------------------------------------------
+## 7. Other ##
+
+### 7.1 Other - A ###
 
 - [AI index][5001]
 - [Algorithmia][5002]
@@ -94,12 +98,12 @@
   + [](https://www.analyticsvidhya.com/blog/category/python-2/)
 - [arXiv](https://arxiv.org/)
 
-### 6.2 Other - C ###
+### 7.2 Other - C ###
 
 - [CoCalc](https://cocalc.com/)
 - [Codeburst](https://codeburst.io/)
 
-### 6.3 Other - D ###
+### 7.3 Other - D ###
 
 - [Data Carpentry](http://www.datacarpentry.org/)
 - [Data Science Central](https://www.datasciencecentral.com)
@@ -109,45 +113,45 @@
 - [Digital Academy](http://entry.statoil.no/HR/LearnStatoil/DigitalAcademy/pages/digitalacademy-learn.aspx)
 - [Distill](https://distill.pub/)
 
-### 6.4 Other - E ###
+### 7.4 Other - E ###
 
 - [EliteDataScience](https://elitedatascience.com)
 
-### 6.5 Other - F ###
+### 7.5 Other - F ###
 
 - [Facebook](https://www.facebook.com/)
 - [freeCodeCamp](https://medium.freecodecamp.org/)
 
-### 6.6 Other - G ###
+### 7.6 Other - G ###
 
 - [Google Plus](https://plus.google.com/)
 
-### 6.7 Other - K ###
+### 7.7 Other - K ###
 
 - [Kaggle](https://www.kaggle.com/)
   + [Kaggle kernels](https://www.kaggle.com/kernels)
 - [KD Nuggets](https://www.kdnuggets.com/)
 
-### 6.8 Other - Q ###
+### 7.8 Other - Q ###
 
 - [Quora](https://www.quora.com)
   + [Big Data Analysis](https://www.quora.com/topic/Big-Data-Analysis)
   + [Data Analysis](https://www.quora.com/topic/Data-Analysis)
   + [Data Science](https://www.quora.com/topic/Data-Science)
 
-### 6.9 Other - R ###
+### 7.9 Other - R ###
 
 - [Reddit](https://www.reddit.com)
   + [Data Science](https://www.reddit.com/r/datascience/)
   + [Machine Learning](https://www.reddit.com/r/MachineLearning/)
   + [Programming](https://www.reddit.com/r/programming/)
   
-### 6.10 Other - S ###
+### 7.10 Other - S ###
 
 - [Software Carpentry](https://software-carpentry.org/lessons/)
 - [Stochasticlifestyle](http://www.stochasticlifestyle.com/)
 
-### 6.11 Other - T ###
+### 7.11 Other - T ###
 
 - [Think Big Data](http://thinkbigdata.in/)
 - [TowardsDataScience](https://towardsdatascience.com/)
@@ -165,7 +169,7 @@
   + [slashML](https://twitter.com/slashML)
   + [swcarpentry](https://twitter.com/swcarpentry)
   
-### 6.12 Other - W ###
+### 7.12 Other - W ###
 
 - [Wikimedia Foundation Governance Wiki](https://foundation.wikimedia.org/wiki/Home)
   + [Meta-Wiki](https://meta.wikimedia.org/wiki/Main_Page)
@@ -180,7 +184,7 @@
   + [Wikivoyage](https://en.wikivoyage.org/wiki/Main_Page)
   + [Wiktionary](https://en.wiktionary.org/wiki/Wiktionary:Main_Page)
 
-### 6.13 Other - Y ###
+### 7.13 Other - Y ###
 
 - [YouTube playlists](https://www.youtube.com)
   + [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/featured)
