@@ -2,6 +2,8 @@
 # Programming Related Resources #
 ----------
 
+## 01. Summary ##
+
 | Language      | Book List     | Home page     | Documentation | Cheat sheet        |
 | ------------- |:-------------:|:-------------:|:-------------:|:------------------:|
 | C++           | [Page][10001] |               |               |                    |
@@ -12,7 +14,7 @@
 [10001]: ./CPP_books.md
 [10002]: https://julialang.org/
 [10003]: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-[10004]: ./Loglan_ChearSheet.md
+[10004]: ./Loglan_CheatSheet.md
 
 ### 03. Loglan ###
 
