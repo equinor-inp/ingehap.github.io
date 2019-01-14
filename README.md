@@ -9,12 +9,13 @@
 | Julia         |               | [Home][10002] |               |                    |
 | Loglan        |               |               |               | [Page][10004]      |
 | Markdown      |               |               |               | [Pritchard][10003] |
+| Python        |               | [Home][10005] |               |                    |
 
 [10001]: ./CPP_books.md
 [10002]: https://julialang.org/
 [10003]: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 [10004]: ./Loglan_CheatSheet.md
-
+[10005]: https://www.python.org/
 
 ## 2. Competitions ##
 
