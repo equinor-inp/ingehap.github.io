@@ -1,4 +1,4 @@
-CPP_books.md
+** C++ Books **
 
 - *Abrahams, C++ Template Metaprogramming*
 - *Alexrandrescu, Modern C++ Design*
