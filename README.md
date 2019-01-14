@@ -149,7 +149,21 @@
   + [slashML](https://twitter.com/slashML)
   + [swcarpentry](https://twitter.com/swcarpentry)
   
-### 6.12 Other - Y ###
+### 6.12 Other - W ###
+
+- [Meta-Wiki](https://meta.wikimedia.org/wiki/Main_Page)
+- [Wikibooks](https://en.wikibooks.org/wiki/Main_Page)
+- [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page)
+- [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page)
+- [Wikipedia](https://en.wikipedia.org/wiki/Main_Page)
+- [Wikiquote](https://en.wikiquote.org/wiki/Main_Page)
+- [Wikisource](https://en.wikisource.org/wiki/Main_Page)
+- [Wikispecies](https://species.wikimedia.org/wiki/Main_Page)
+- [Wikiversity](https://en.wikiversity.org/wiki/Wikiversity:Main_Page)
+- [Wikivoyage](https://en.wikivoyage.org/wiki/Main_Page)
+- [Wiktionary](https://en.wiktionary.org/wiki/Wiktionary:Main_Page)
+
+### 6.13 Other - Y ###
 
 - [YouTube playlists](https://www.youtube.com)
   + [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/featured)
@@ -166,3 +180,4 @@
   + [PyCon 2017](https://www.youtube.com/channel/UCrJhliKNQ8g0qoE_zvL8eVg/videos)
   + [PyCon KR](https://www.youtube.com/channel/UC26x6D5xpKx6io4ShfXa_Ow/playlists)
   + [UTAPWeLS](https://www.youtube.com/channel/UCHWnztyGyQPEXXbp2Tu0_DA/videos?disable_polymer=1)
+
