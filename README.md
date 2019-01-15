@@ -6,23 +6,25 @@
 - 2\. Competitions
 - 3\. Courses
 - 4\. Data sets
-- 5\. Libraries
-- 5\.1 Libraries - Python
-- 6\. Research
-- 7\. Other
-- 7\.1 Other - A
-- 7\.2 Other - C
-- 7\.3 Other - D
-- 7\.4 Other - E
-- 7\.5 Other - F
-- 7\.6 Other - G
-- 7\.7 Other - K
-- 7\.8 Other - Q
-- 7\.9 Other - R
-- 7\.10 Other - S
-- 7\.11 Other - T
-- 7\.12 Other - W
-- 7\.13 Other - Y
+- 5\. Economy
+- 5\.1 Economy - Banks
+- 6\. Libraries
+- 6\.1 Libraries - Python
+- 7\. Research
+- 8\. Other
+- 8\.1 Other - A
+- 8\.2 Other - C
+- 8\.3 Other - D
+- 8\.4 Other - E
+- 8\.5 Other - F
+- 8\.6 Other - G
+- 8\.7 Other - K
+- 8\.8 Other - Q
+- 8\.9 Other - R
+- 8\.10 Other - S
+- 8\.11 Other - T
+- 8\.12 Other - W
+- 8\.13 Other - Y
 
 ## 1. General resources ##
 
@@ -65,7 +67,7 @@
 | Coursera      | [Data Science Specialization][2001] |
 | W3Schools     | [Tutorials][2003]                   |
 
-[//]: # (Collection of links 2001 - 3000)
+[//]: # (Collection of links 2001 - 2500)
 [2001]: https://www.coursera.org/specializations/jhu-data-science
 [2002]: https://www.udacity.com/course/data-analyst-nanodegree--nd002?v=a4
 [2003]: https://www.w3schools.com/
@@ -78,9 +80,21 @@
 | ImageNet                  | [Google group forum][3001] |
 | [Kaggle collection][3002] |                            |
 
-[//]: # (Collection of links 3001 - 4000)
+[//]: # (Collection of links 3001 - 3500)
 [3001]: https://groups.google.com/forum/#!forum/imagenet-community
 [3002]: https://www.kaggle.com/datasets
+
+---------------------------------------------------------------------------------------------
+## 5. Economy ##
+
+### 5.1 Economy - Banks ###
+
+- [DnB][2501]
+- [Sbanken][2502]
+
+[//]: # (Collection of links 2501 - 3000)
+[2501]: https://www.dnb.no
+[2502]: https://sbanken.no/
 
 
 ---------------------------------------------------------------------------------------------
