@@ -1,5 +1,28 @@
 # My Homepage #
 
+## 0. Table of Contents ##
+
+- 1. General resources
+- 2. Competitions
+- 3. Courses
+- 4. Data sets
+- 5. Libraries
+- 5.1 Libraries - Python
+- 6. Research
+- 7. Other
+- 7.1 Other - A
+- 7.2 Other - C
+- 7.3 Other - D
+- 7.4 Other - E
+- 7.5 Other - F
+- 7.6 Other - G
+- 7.7 Other - K
+- 7.8 Other - Q
+- 7.9 Other - R
+- 7.10 Other - S
+- 7.11 Other - T
+- 7.12 Other - W
+- 7.13 Other - Y
 
 ## 1. General resources ##
 
