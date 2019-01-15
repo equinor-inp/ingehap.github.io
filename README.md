@@ -40,11 +40,12 @@
 | ------------- |:-----------------------------------:|
 | Udacity       | [Data Analyst Nanodegree][2002]     |
 | Coursera      | [Data Science Specialization][2001] |
+| W3Schools     | [Tutorials][2003]                   |
 
 [//]: # (Collection of links 2001 - 3000)
 [2001]: https://www.coursera.org/specializations/jhu-data-science
 [2002]: https://www.udacity.com/course/data-analyst-nanodegree--nd002?v=a4
-
+[2003]: https://www.w3schools.com/
 
 ---------------------------------------------------------------------------------------------
 ## 4. Data sets ##
