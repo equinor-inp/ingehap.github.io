@@ -2,7 +2,7 @@
 
 ## 0. Table of Contents ##
 
-- 1. General resources
+- 1\. General resources
 - 2. Competitions
 - 3. Courses
 - 4. Data sets
