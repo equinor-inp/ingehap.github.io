@@ -10,6 +10,7 @@
 | Loglan        |               |               |               | [Page][4]          |
 | Markdown      |               |               |               | [Pritchard][3]     |
 | Python        |               | [Home][5]     | [Page][7]     |                    |
+| Yaml          |               | [Home][8]     |               |                    |
 
 [//]: # (Collection of links 1 - 1000)
 [1]: ./CPP_books.md
@@ -19,6 +20,8 @@
 [5]: https://www.python.org/
 [6]: https://docs.julialang.org
 [7]: https://docs.python.org
+[8]: https://yaml.org/spec/
+
 ---------------------------------------------------------------------------------------------
 ## 2. Competitions ##
 
