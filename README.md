@@ -98,9 +98,9 @@
 
 
 ---------------------------------------------------------------------------------------------
-## 5. Libraries ##
+## 6. Libraries ##
 
-### 5.1 Libraries - Python ###
+### 6.1 Libraries - Python ###
 
 | Library       | Code           | Installation  | Documentation | Forum                      |
 | ------------- |:--------------:|:-------------:|:-------------:|:--------------------------:|
@@ -123,16 +123,27 @@
 
 
 ---------------------------------------------------------------------------------------------
-## 6. Research ##
+## 7. Research ##
 
 - [Evernote Web](https://www.evernote.com/client)
 - [KanbanFlow](https://kanbanflow.com)
 - [ResearchGate](https://www.researchgate.net)
 
----------------------------------------------------------------------------------------------
-## 7. Other ##
 
-### 7.1 Other - A ###
+---------------------------------------------------------------------------------------------
+## 8. Search Engines ##
+
+- [Preprint Servers](https://www.evernote.com/client)
+- [Statistics Search](https://kanbanflow.com)
+- [Thesis Search](https://www.researchgate.net)
+- [Wiki Search](https://kanbanflow.com)
+- [Other](https://www.researchgate.net)
+
+
+---------------------------------------------------------------------------------------------
+## 9. Other ##
+
+### 9.1 Other - A ###
 
 - [AI index][5001]
 - [Algorithmia][5002]
@@ -142,12 +153,12 @@
   + [](https://www.analyticsvidhya.com/blog/category/python-2/)
 - [arXiv](https://arxiv.org/)
 
-### 7.2 Other - C ###
+### 8.2 Other - C ###
 
 - [CoCalc](https://cocalc.com/)
 - [Codeburst](https://codeburst.io/)
 
-### 7.3 Other - D ###
+### 8.3 Other - D ###
 
 - [Data Carpentry](http://www.datacarpentry.org/)
 - [Data Science Central](https://www.datasciencecentral.com)
@@ -157,45 +168,45 @@
 - [Digital Academy](http://entry.statoil.no/HR/LearnStatoil/DigitalAcademy/pages/digitalacademy-learn.aspx)
 - [Distill](https://distill.pub/)
 
-### 7.4 Other - E ###
+### 8.4 Other - E ###
 
 - [EliteDataScience](https://elitedatascience.com)
 
-### 7.5 Other - F ###
+### 8.5 Other - F ###
 
 - [Facebook](https://www.facebook.com/)
 - [freeCodeCamp](https://medium.freecodecamp.org/)
 
-### 7.6 Other - G ###
+### 8.6 Other - G ###
 
 - [Google Plus](https://plus.google.com/)
 
-### 7.7 Other - K ###
+### 8.7 Other - K ###
 
 - [Kaggle](https://www.kaggle.com/)
   + [Kaggle kernels](https://www.kaggle.com/kernels)
 - [KD Nuggets](https://www.kdnuggets.com/)
 
-### 7.8 Other - Q ###
+### 8.8 Other - Q ###
 
 - [Quora](https://www.quora.com)
   + [Big Data Analysis](https://www.quora.com/topic/Big-Data-Analysis)
   + [Data Analysis](https://www.quora.com/topic/Data-Analysis)
   + [Data Science](https://www.quora.com/topic/Data-Science)
 
-### 7.9 Other - R ###
+### 8.9 Other - R ###
 
 - [Reddit](https://www.reddit.com)
   + [Data Science](https://www.reddit.com/r/datascience/)
   + [Machine Learning](https://www.reddit.com/r/MachineLearning/)
   + [Programming](https://www.reddit.com/r/programming/)
   
-### 7.10 Other - S ###
+### 8.10 Other - S ###
 
 - [Software Carpentry](https://software-carpentry.org/lessons/)
 - [Stochasticlifestyle](http://www.stochasticlifestyle.com/)
 
-### 7.11 Other - T ###
+### 8.11 Other - T ###
 
 - [Think Big Data](http://thinkbigdata.in/)
 - [TowardsDataScience](https://towardsdatascience.com/)
@@ -213,7 +224,7 @@
   + [slashML](https://twitter.com/slashML)
   + [swcarpentry](https://twitter.com/swcarpentry)
   
-### 7.12 Other - W ###
+### 8.12 Other - W ###
 
 - [Wikimedia Foundation Governance Wiki](https://foundation.wikimedia.org/wiki/Home)
   + [Meta-Wiki](https://meta.wikimedia.org/wiki/Main_Page)
@@ -228,7 +239,7 @@
   + [Wikivoyage](https://en.wikivoyage.org/wiki/Main_Page)
   + [Wiktionary](https://en.wiktionary.org/wiki/Wiktionary:Main_Page)
 
-### 7.13 Other - Y ###
+### 8.13 Other - Y ###
 
 - [YouTube playlists](https://www.youtube.com)
   + [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/featured)
