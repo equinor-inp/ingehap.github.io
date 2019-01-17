@@ -63,9 +63,18 @@
 - [Analytics Vidhya - Datahack][1501]
 - [Kaggle Competitions][1502]
 
-[//]: # (Collection of links 1501 - 2000)
+[//]: # (Collection of links 1501 - 1700)
 [1501]: https://datahack.analyticsvidhya.com/?utm_source=AVHome
 [1502]: https://www.kaggle.com/competitions
+
+
+---------------------------------------------------------------------------------------------
+## 4. Compilers ##
+
+- [Visual Studio Professional][1701]
+
+[//]: # (Collection of links 1701 - 2000)
+[1701]: https://my.visualstudio.com/benefits?mkt=en-us
 
 
 ---------------------------------------------------------------------------------------------
