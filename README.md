@@ -78,7 +78,7 @@
 
 
 ---------------------------------------------------------------------------------------------
-## 4. Courses ##
+## 5. Courses ##
 
 | Location      | Course name                         |
 | ------------- |:-----------------------------------:|
@@ -92,7 +92,7 @@
 [2003]: https://www.w3schools.com/
 
 ---------------------------------------------------------------------------------------------
-## 5. Data sets ##
+## 6. Data sets ##
 
 | Data set                  | Forum                      |
 | ------------------------- |:--------------------------:|
@@ -104,9 +104,9 @@
 [3002]: https://www.kaggle.com/datasets
 
 ---------------------------------------------------------------------------------------------
-## 6. Economy ##
+## 7. Economy ##
 
-### 6.1 Economy - Banks ###
+### 7.1 Economy - Banks ###
 
 - [DnB][2501]
 - [Sbanken][2502]
@@ -117,9 +117,9 @@
 
 
 ---------------------------------------------------------------------------------------------
-## 7. Libraries ##
+## 8. Libraries ##
 
-### 7.1 Libraries - Python ###
+### 8.1 Libraries - Python ###
 
 | Library       | Code           | Installation  | Documentation | Forum                      |
 | ------------- |:--------------:|:-------------:|:-------------:|:--------------------------:|
@@ -142,7 +142,7 @@
 
 
 ---------------------------------------------------------------------------------------------
-## 8. Research ##
+## 9. Research ##
 
 - [Evernote Web](https://www.evernote.com/client)
 - [GMail](https://mail.google.com/mail/u/0/#inbox)
@@ -150,7 +150,7 @@
 - [ResearchGate](https://www.researchgate.net)
 
 ---------------------------------------------------------------------------------------------
-## 9. Search Engines ##
+## 10. Search Engines ##
 
 - [Preprint Servers](https://www.evernote.com/client)
 - [Statistics Search](https://kanbanflow.com)
@@ -160,9 +160,9 @@
 
 
 ---------------------------------------------------------------------------------------------
-## 10. Other ##
+## 11. Other ##
 
-### 10.1 Other - A ###
+### 11.1 Other - A ###
 
 - [AI index][5001]
 - [Algorithmia][5002]
@@ -172,12 +172,12 @@
   + [Analytics Vidhya - Python](https://www.analyticsvidhya.com/blog/category/python-2/)
 - [arXiv](https://arxiv.org/)
 
-### 10.2 Other - C ###
+### 11.2 Other - C ###
 
 - [CoCalc](https://cocalc.com/)
 - [Codeburst](https://codeburst.io/)
 
-### 10.3 Other - D ###
+### 11.3 Other - D ###
 
 - [Data Carpentry](http://www.datacarpentry.org/)
 - [Data Science Central](https://www.datasciencecentral.com)
@@ -187,45 +187,45 @@
 - [Digital Academy](http://entry.statoil.no/HR/LearnStatoil/DigitalAcademy/pages/digitalacademy-learn.aspx)
 - [Distill](https://distill.pub/)
 
-### 10.4 Other - E ###
+### 11.4 Other - E ###
 
 - [EliteDataScience](https://elitedatascience.com)
 
-### 10.5 Other - F ###
+### 11.5 Other - F ###
 
 - [Facebook](https://www.facebook.com/)
 - [freeCodeCamp](https://medium.freecodecamp.org/)
 
-### 10.6 Other - G ###
+### 11.6 Other - G ###
 
 - [Google Plus](https://plus.google.com/)
 
-### 10.7 Other - K ###
+### 11.7 Other - K ###
 
 - [Kaggle](https://www.kaggle.com/)
   + [Kaggle kernels](https://www.kaggle.com/kernels)
 - [KD Nuggets](https://www.kdnuggets.com/)
 
-### 10.8 Other - Q ###
+### 11.8 Other - Q ###
 
 - [Quora](https://www.quora.com)
   + [Big Data Analysis](https://www.quora.com/topic/Big-Data-Analysis)
   + [Data Analysis](https://www.quora.com/topic/Data-Analysis)
   + [Data Science](https://www.quora.com/topic/Data-Science)
 
-### 10.9 Other - R ###
+### 11.9 Other - R ###
 
 - [Reddit](https://www.reddit.com)
   + [Data Science](https://www.reddit.com/r/datascience/)
   + [Machine Learning](https://www.reddit.com/r/MachineLearning/)
   + [Programming](https://www.reddit.com/r/programming/)
   
-### 10.10 Other - S ###
+### 11.10 Other - S ###
 
 - [Software Carpentry](https://software-carpentry.org/lessons/)
 - [Stochasticlifestyle](http://www.stochasticlifestyle.com/)
 
-### 10.11 Other - T ###
+### 11.11 Other - T ###
 
 - [Think Big Data](http://thinkbigdata.in/)
 - [TowardsDataScience](https://towardsdatascience.com/)
@@ -243,7 +243,7 @@
   + [slashML](https://twitter.com/slashML)
   + [swcarpentry](https://twitter.com/swcarpentry)
   
-### 10.12 Other - W ###
+### 11.12 Other - W ###
 
 - [Wikimedia Foundation Governance Wiki](https://foundation.wikimedia.org/wiki/Home)
   + [Meta-Wiki](https://meta.wikimedia.org/wiki/Main_Page)
@@ -258,7 +258,7 @@
   + [Wikivoyage](https://en.wikivoyage.org/wiki/Main_Page)
   + [Wiktionary](https://en.wiktionary.org/wiki/Wiktionary:Main_Page)
 
-### 10.13 Other - Y ###
+### 11.13 Other - Y ###
 
 - [YouTube playlists](https://www.youtube.com)
   + [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/featured)
