@@ -150,7 +150,7 @@
 - [Amazon](https://www.amazon.com)
   + [Amazon - Manage Your Content and Devices](https://www.amazon.com/mn/dcw/myx.html/ref=nav_youraccount_myk#/home/content/booksAll/dateDsc/)
 - [Analytics Vidhya](https://www.analyticsvidhya.com/)
-  + [](https://www.analyticsvidhya.com/blog/category/python-2/)
+  + [Analytics Vidhya - Python](https://www.analyticsvidhya.com/blog/category/python-2/)
 - [arXiv](https://arxiv.org/)
 
 ### 8.2 Other - C ###
