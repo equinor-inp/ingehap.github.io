@@ -3,28 +3,31 @@
 ## 0. Table of Contents ##
 
 - 1\. General resources
-- 2\. Competitions
-- 3\. Courses
-- 4\. Data sets
-- 5\. Economy
-- 5\.1 Economy - Banks
-- 6\. Libraries
-- 6\.1 Libraries - Python
-- 7\. Research
-- 8\. Other
-- 8\.1 Other - A
-- 8\.2 Other - C
-- 8\.3 Other - D
-- 8\.4 Other - E
-- 8\.5 Other - F
-- 8\.6 Other - G
-- 8\.7 Other - K
-- 8\.8 Other - Q
-- 8\.9 Other - R
-- 8\.10 Other - S
-- 8\.11 Other - T
-- 8\.12 Other - W
-- 8\.13 Other - Y
+- 2\. APIs
+- 3\. Competitions
+- 4\. Compilers
+- 5\. Courses
+- 6\. Data sets
+- 7\. Economy
+- 7\.1 Economy - Banks
+- 8\. Libraries
+- 8\.1 Libraries - Python
+- 9\. Research
+- 10\. Search Engines
+- 11\. Other
+- 11\.1 Other - A
+- 11\.2 Other - C
+- 11\.3 Other - D
+- 11\.4 Other - E
+- 11\.5 Other - F
+- 11\.6 Other - G
+- 11\.7 Other - K
+- 11\.8 Other - Q
+- 11\.9 Other - R
+- 11\.10 Other - S
+- 11\.11 Other - T
+- 11\.12 Other - W
+- 11\.13 Other - Y
 
 ## 1. General resources ##
 
