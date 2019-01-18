@@ -144,11 +144,11 @@
 ---------------------------------------------------------------------------------------------
 ## 10. Search Engines ##
 
-- [Preprint Servers](https://www.evernote.com/client)
-- [Statistics Search](https://kanbanflow.com)
-- [Thesis Search](https://www.researchgate.net)
-- [Wiki Search](https://kanbanflow.com)
-- [Other](https://www.researchgate.net)
+- [Preprint Servers](./MyStart_SearchEngines_Preprints.html)
+- [Statistics Search](./MyStart_SearchEngines_Statistics.html)
+- [Thesis Search](./MyStart_SearchEngines_Theses.html)
+- [Wiki Search](./MyStart_SearchEngines_Wiki.html)
+- [Other](./MyStart_SearchEngines.html)
 
 
 ---------------------------------------------------------------------------------------------
