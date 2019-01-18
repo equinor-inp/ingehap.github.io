@@ -103,7 +103,12 @@
 - [DnB][2501]
 - [Sbanken][2502]
 
-### 7.2 Economy - Stocks ###
+### 7.2 Economy - Investments ###
+
+- [Investopedia][2504]
+- [Oslo Børs, News][2505]
+
+### 7.3 Economy - Stocks ###
 
 - [Aksjesparingsprogram, Equinor][2503]
 
@@ -111,7 +116,8 @@
 [2501]: https://www.dnb.no
 [2502]: https://sbanken.no/
 [2503]: http://entry.statoil.no/HR/PerformanceAndReward/benefits/Pages/sharesaving.aspx
-
+[2504]: https://www.investopedia.com/
+[2505]: https://newsweb.oslobors.no/
 ---------------------------------------------------------------------------------------------
 ## 8. Libraries ##
 
