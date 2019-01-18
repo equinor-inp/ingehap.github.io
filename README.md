@@ -152,7 +152,7 @@
 - [Evernote Web](https://www.evernote.com/client/web#?an=true&n=fb19ba95-be6d-4b4b-98a0-a44f39c5fc08&s=s134&)
 - [GMail](https://mail.google.com/mail/u/0/#inbox)
 - [GDrive, highest](https://drive.google.com/drive/my-drive)
-- [KanbanFlow, std(https://kanbanflow.com)
+- [KanbanFlow, std](https://kanbanflow.com)
 - [ResearchGate, std](https://www.researchgate.net/profile/Inge_Pettersen)
 
 ---------------------------------------------------------------------------------------------
