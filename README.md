@@ -95,6 +95,7 @@
 [3001]: https://groups.google.com/forum/#!forum/imagenet-community
 [3002]: https://www.kaggle.com/datasets
 
+
 ---------------------------------------------------------------------------------------------
 ## 7. Economy ##
 
@@ -105,12 +106,9 @@
 
 ### 7.2 Economy - Investments ###
 
+- [Aksjesparingsprogram, Equinor][2503]
 - [Investopedia][2504]
 - [Oslo Børs, News][2505]
-
-### 7.3 Economy - Stocks ###
-
-- [Aksjesparingsprogram, Equinor][2503]
 
 [//]: # (Collection of links 2501 - 3000)
 [2501]: https://www.dnb.no
@@ -118,6 +116,8 @@
 [2503]: http://entry.statoil.no/HR/PerformanceAndReward/benefits/Pages/sharesaving.aspx
 [2504]: https://www.investopedia.com/
 [2505]: https://newsweb.oslobors.no/
+
+
 ---------------------------------------------------------------------------------------------
 ## 8. Libraries ##
 
