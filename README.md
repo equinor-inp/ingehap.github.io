@@ -144,11 +144,11 @@
 ---------------------------------------------------------------------------------------------
 ## 10. Search Engines ##
 
-- [Preprint Servers](./MyStart_SearchEngines_Preprints.html)
-- [Statistics Search](./MyStart_SearchEngines_Statistics.html)
-- [Thesis Search](./MyStart_SearchEngines_Theses.html)
-- [Wiki Search](./MyStart_SearchEngines_Wiki.html)
-- [Other](./MyStart_SearchEngines.html)
+- [Preprint Servers](https://ingehap.github.io/MyStart_SearchEngines_Preprints.html)
+- [Statistics Search](https://ingehap.github.io/MyStart_SearchEngines_Statistics.html)
+- [Thesis Search](https://ingehap.github.io/MyStart_SearchEngines_Theses.html)
+- [Wiki Search](https://ingehap.github.io/MyStart_SearchEngines_Wiki.html)
+- [Other](https://ingehap.github.io/MyStart_SearchEngines.html)
 
 
 ---------------------------------------------------------------------------------------------
