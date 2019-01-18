@@ -63,7 +63,7 @@
 ---------------------------------------------------------------------------------------------
 ## 4. Compilers ##
 
-- [Visual Studio Professional][1701]
+- [Visual Studio Professional; Subscription ID = 5537d862-eb42-44c7-abb0-7fe73c5bf6b1][1701]
 
 [//]: # (Collection of links 1701 - 2000)
 [1701]: https://my.visualstudio.com/benefits?mkt=en-us
