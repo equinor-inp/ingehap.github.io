@@ -1,5 +1,7 @@
 # My Homepage #
 
+
+---------------------------------------------------------------------------------------------
 ## 0. Table of Contents ##
 
 - 1\. General resources
@@ -9,26 +11,13 @@
 - 5\. Courses
 - 6\. Data sets
 - 7\. Economy
-- 7\.1 Economy - Banks
 - 8\. Libraries
-- 8\.1 Libraries - Python
 - 9\. Research
 - 10\. Search Engines
 - 11\. Other
-- 11\.1 Other - A
-- 11\.2 Other - C
-- 11\.3 Other - D
-- 11\.4 Other - E
-- 11\.5 Other - F
-- 11\.6 Other - G
-- 11\.7 Other - K
-- 11\.8 Other - Q
-- 11\.9 Other - R
-- 11\.10 Other - S
-- 11\.11 Other - T
-- 11\.12 Other - W
-- 11\.13 Other - Y
 
+
+---------------------------------------------------------------------------------------------
 ## 1. General resources ##
 
 | Language      | Book List     | Home page     | Documentation | Cheat sheet        |
