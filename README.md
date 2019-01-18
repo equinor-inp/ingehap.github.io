@@ -151,8 +151,9 @@
 
 - [Evernote Web](https://www.evernote.com/client)
 - [GMail](https://mail.google.com/mail/u/0/#inbox)
-- [KanbanFlow](https://kanbanflow.com)
-- [ResearchGate](https://www.researchgate.net)
+- [GDrive, highest](https://drive.google.com/drive/my-drive)
+- [KanbanFlow, std(https://kanbanflow.com)
+- [ResearchGate, std](https://www.researchgate.net/profile/Inge_Pettersen)
 
 ---------------------------------------------------------------------------------------------
 ## 10. Search Engines ##
