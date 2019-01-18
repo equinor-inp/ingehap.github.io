@@ -103,10 +103,14 @@
 - [DnB][2501]
 - [Sbanken][2502]
 
+### 7.2 Economy - Stocks ###
+
+- [Aksjesparingsprogram, Equinor][2503]
+
 [//]: # (Collection of links 2501 - 3000)
 [2501]: https://www.dnb.no
 [2502]: https://sbanken.no/
-
+[2503]: http://entry.statoil.no/HR/PerformanceAndReward/benefits/Pages/sharesaving.aspx
 
 ---------------------------------------------------------------------------------------------
 ## 8. Libraries ##
