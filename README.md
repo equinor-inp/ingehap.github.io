@@ -1,4 +1,4 @@
-# My Homepage #
+# Homepage for Inge H. A. Pettersen #
 
 
 ---------------------------------------------------------------------------------------------
@@ -6,6 +6,7 @@
 
 - 1\. General resources
 - 2\. APIs
+- 3\. CIs
 - 3\. Competitions
 - 4\. Compilers
 - 5\. Courses
@@ -46,8 +47,39 @@
 
 - [Google Sheet API][1001]
 
-[//]: # (Collection of links 1001 - 1500)
+[//]: # (Collection of links 1001 - 1300)
 [1001]: https://developers.google.com/sheets/api/
+
+
+---------------------------------------------------------------------------------------------
+## 3. CIs ##
+
+### 3.1 Travis CI ###
+
+- [Travis CI][1301]
+- [Travis CI - Blog][1302]
+- [Travis CI - Building a Python Project][1305]
+- [Travis CI - Changelog][1310]
+- [Travis CI - Configuring Build Notifications][1308]
+- [Travis CI - Core Concepts for Beginners][1303]
+- [Travis CI - Customizing the Build][1307]
+- [Travis CI - Docs][1304]
+- [Travis CI - Getting started][1309]
+- [Travis CI - Tutorial][1306]
+- [Travis CI - Wikipedia][1311]
+
+[//]: # (Collection of links 1301 - 1500)
+[1301]: https://travis-ci.org/
+[1302]: https://blog.travis-ci.com/
+[1303]: https://docs.travis-ci.com/user/for-beginners
+[1304]: https://docs.travis-ci.com/
+[1305]: https://docs.travis-ci.com/user/languages/python/
+[1306]: https://docs.travis-ci.com/user/tutorial/
+[1307]: https://docs.travis-ci.com/user/customizing-the-build/
+[1308]: https://docs.travis-ci.com/user/notifications/
+[1309]: https://travis-ci.com/getting_started
+[1310]: https://changelog.travis-ci.com/
+[1311]: https://en.wikipedia.org/wiki/Travis_CI
 
 
 ---------------------------------------------------------------------------------------------
