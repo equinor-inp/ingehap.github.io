@@ -249,6 +249,15 @@
 
 ### 13.6 Other - G ###
 
+- [Git Bash](https://git-scm.com/)
+  + [Command Line Tutorial](https://www.youtube.com/watch?v=HVsySz-h9r4)
+- [GitHub](https://github.com/)
+  + [Add SSH key](https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/)
+  + [Billing](https://github.com/settings/billing)
+  + [Create new repository](https://help.github.com/articles/creating-a-new-repository/)
+  + [Help](https://help.github.com/categories/collaborating-with-issues-and-pull-requests/)
+  + [Status](https://www.githubstatus.com/)
+  
 - Google
   + [Google Plus](https://plus.google.com/)
   + [My books](https://play.google.com/books)
