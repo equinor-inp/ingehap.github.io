@@ -249,7 +249,9 @@
 
 ### 13.6 Other - G ###
 
-- [Google Plus](https://plus.google.com/)
+- Google
+  + [Google Plus](https://plus.google.com/)
+  + [My books](https://play.google.com/books)
 
 ### 13.7 Other - K ###
 
