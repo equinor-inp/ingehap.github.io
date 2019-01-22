@@ -7,16 +7,16 @@
 - 1\. General resources
 - 2\. APIs
 - 3\. CIs
-- 3\. Competitions
-- 4\. Compilers
-- 5\. Courses
-- 6\. Data sets
-- 7\. Economy
-- 8\. Libraries
-- 9\. Research
-- 10\. Search Engines
-- 11\. Subjects
-- 12\. Other
+- 4\. Competitions
+- 5\. Compilers
+- 6\. Courses
+- 7\. Data sets
+- 8\. Economy
+- 9\. Libraries
+- 10\. Research
+- 11\. Search Engines
+- 12\. Subjects
+- 13\. Other
 
 
 ---------------------------------------------------------------------------------------------
@@ -85,7 +85,7 @@
 
 
 ---------------------------------------------------------------------------------------------
-## 3. Competitions ##
+## 4. Competitions ##
 
 - [Analytics Vidhya - Datahack][1501]
 - [Kaggle Competitions][1502]
@@ -96,7 +96,7 @@
 
 
 ---------------------------------------------------------------------------------------------
-## 4. Compilers ##
+## 5. Compilers ##
 
 - [Visual Studio Professional; Subscription ID = 5537d862-eb42-44c7-abb0-7fe73c5bf6b1][1701]
 
@@ -105,7 +105,7 @@
 
 
 ---------------------------------------------------------------------------------------------
-## 5. Courses ##
+## 6. Courses ##
 
 | Location      | Course name                         |
 | ------------- |:-----------------------------------:|
@@ -119,7 +119,7 @@
 [2003]: https://www.w3schools.com/
 
 ---------------------------------------------------------------------------------------------
-## 6. Data sets ##
+## 7. Data sets ##
 
 | Data set                  | Forum                      |
 | ------------------------- |:--------------------------:|
@@ -134,14 +134,14 @@
 
 
 ---------------------------------------------------------------------------------------------
-## 7. Economy ##
+## 8. Economy ##
 
-### 7.1 Economy - Banks ###
+### 8.1 Economy - Banks ###
 
 - [DnB][2501]
 - [Sbanken][2502]
 
-### 7.2 Economy - Investments ###
+### 8.2 Economy - Investments ###
 
 - [Aksjesparingsprogram, Equinor][2503]
 - [Investopedia][2504]
@@ -156,9 +156,9 @@
 
 
 ---------------------------------------------------------------------------------------------
-## 8. Libraries ##
+## 9. Libraries ##
 
-### 8.1 Libraries - Python ###
+### 9.1 Libraries - Python ###
 
 | Library       | Code           | Installation  | Documentation | Forum                      |
 | ------------- |:--------------:|:-------------:|:-------------:|:--------------------------:|
@@ -181,7 +181,7 @@
 
 
 ---------------------------------------------------------------------------------------------
-## 9. Research ##
+## 10. Research ##
 
 - [Evernote Web](https://www.evernote.com/client/web#?an=true&n=fb19ba95-be6d-4b4b-98a0-a44f39c5fc08&s=s134&)
 - [GMail](https://mail.google.com/mail/u/0/#inbox)
@@ -190,7 +190,7 @@
 - [ResearchGate, std](https://www.researchgate.net/profile/Inge_Pettersen)
 
 ---------------------------------------------------------------------------------------------
-## 10. Search Engines ##
+## 11. Search Engines ##
 
 - [Preprint Servers](https://ingehap.github.io/MyStart_SearchEngines_Preprints.html)
 - [Statistics Search](https://ingehap.github.io/MyStart_SearchEngines_Statistics.html)
@@ -200,7 +200,7 @@
 
 
 ---------------------------------------------------------------------------------------------
-## 11. Subjects ##
+## 12. Subjects ##
 
 - [Ancient Near East](https://ingehap.github.io/MyStart_Subjects_ANE.html)
 - [Biology](https://ingehap.github.io/MyStart_Subjects_BIO.html)
@@ -211,9 +211,9 @@
 
 
 ---------------------------------------------------------------------------------------------
-## 12. Other ##
+## 13. Other ##
 
-### 12.1 Other - A ###
+### 13.1 Other - A ###
 
 - [AI index][5001]
 - [Algorithmia][5002]
@@ -223,12 +223,12 @@
   + [Analytics Vidhya - Python](https://www.analyticsvidhya.com/blog/category/python-2/)
 - [arXiv](https://arxiv.org/)
 
-### 12.2 Other - C ###
+### 13.2 Other - C ###
 
 - [CoCalc](https://cocalc.com/)
 - [Codeburst](https://codeburst.io/)
 
-### 12.3 Other - D ###
+### 13.3 Other - D ###
 
 - [Data Carpentry](http://www.datacarpentry.org/)
 - [Data Science Central](https://www.datasciencecentral.com)
@@ -238,45 +238,45 @@
 - [Digital Academy](http://entry.statoil.no/HR/LearnStatoil/DigitalAcademy/pages/digitalacademy-learn.aspx)
 - [Distill](https://distill.pub/)
 
-### 12.4 Other - E ###
+### 13.4 Other - E ###
 
 - [EliteDataScience](https://elitedatascience.com)
 
-### 12.5 Other - F ###
+### 13.5 Other - F ###
 
 - [Facebook](https://www.facebook.com/)
 - [freeCodeCamp](https://medium.freecodecamp.org/)
 
-### 12.6 Other - G ###
+### 13.6 Other - G ###
 
 - [Google Plus](https://plus.google.com/)
 
-### 12.7 Other - K ###
+### 13.7 Other - K ###
 
 - [Kaggle](https://www.kaggle.com/)
   + [Kaggle kernels](https://www.kaggle.com/kernels)
 - [KD Nuggets](https://www.kdnuggets.com/)
 
-### 12.8 Other - Q ###
+### 13.8 Other - Q ###
 
 - [Quora](https://www.quora.com)
   + [Big Data Analysis](https://www.quora.com/topic/Big-Data-Analysis)
   + [Data Analysis](https://www.quora.com/topic/Data-Analysis)
   + [Data Science](https://www.quora.com/topic/Data-Science)
 
-### 12.9 Other - R ###
+### 13.9 Other - R ###
 
 - [Reddit](https://www.reddit.com)
   + [Data Science](https://www.reddit.com/r/datascience/)
   + [Machine Learning](https://www.reddit.com/r/MachineLearning/)
   + [Programming](https://www.reddit.com/r/programming/)
   
-### 12.10 Other - S ###
+### 13.10 Other - S ###
 
 - [Software Carpentry](https://software-carpentry.org/lessons/)
 - [Stochasticlifestyle](http://www.stochasticlifestyle.com/)
 
-### 12.11 Other - T ###
+### 13.11 Other - T ###
 
 - [Think Big Data](http://thinkbigdata.in/)
 - [TowardsDataScience](https://towardsdatascience.com/)
@@ -294,7 +294,7 @@
   + [slashML](https://twitter.com/slashML)
   + [swcarpentry](https://twitter.com/swcarpentry)
   
-### 12.12 Other - W ###
+### 13.12 Other - W ###
 
 - [Wikimedia Foundation Governance Wiki](https://foundation.wikimedia.org/wiki/Home)
   + [Meta-Wiki](https://meta.wikimedia.org/wiki/Main_Page)
@@ -309,7 +309,7 @@
   + [Wikivoyage](https://en.wikivoyage.org/wiki/Main_Page)
   + [Wiktionary](https://en.wiktionary.org/wiki/Wiktionary:Main_Page)
 
-### 12.13 Other - Y ###
+### 13.13 Other - Y ###
 
 - [YouTube playlists](https://www.youtube.com)
   + [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/featured)
