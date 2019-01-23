@@ -226,6 +226,11 @@
 
 ### 13.2 Other - C ###
 
+- [CircleCI](https://circleci.com/)
+  + [Configurations](https://circleci.com/docs/2.0/configuration-reference/)
+  + [Docker](https://circleci.com/docs/2.0/circleci-images/)
+  + [Hosting Options](https://circleci.com/product/#hosting-options)
+  + [Integration Options](https://circleci.com/product/#integrations)
 - [CoCalc](https://cocalc.com/)
 - [Codeburst](https://codeburst.io/)
 
