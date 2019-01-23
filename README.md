@@ -215,6 +215,7 @@
 
 ### 13.1 Other - A ###
 
+- [AAPG Wiki](https://wiki.aapg.org/Main_Page)
 - [AI index][5001]
 - [Algorithmia][5002]
 - [Amazon](https://www.amazon.com)
@@ -257,6 +258,13 @@
   + [Create new repository](https://help.github.com/articles/creating-a-new-repository/)
   + [Help](https://help.github.com/categories/collaborating-with-issues-and-pull-requests/)
   + [Status](https://www.githubstatus.com/)
+- [GitLab](https://about.gitlab.com/)
+  + [Auto Devops](https://gitlab.com/help/topics/autodevops/index.md)
+  + [Blog](https://about.gitlab.com/blog/)
+  + [CI/CD](https://docs.gitlab.com/ce/ci/)
+  + [Docs](https://docs.gitlab.com/)
+  + [Search](https://gitlab.com/explore/projects?sort=stars_desc)
+  + [Training](https://about.gitlab.com/training/)
   
 - Google
   + [Google Plus](https://plus.google.com/)
