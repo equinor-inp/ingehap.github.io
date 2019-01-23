@@ -58,17 +58,22 @@
 
 ### 3.1 Travis CI ###
 
+- [CircleCI](https://circleci.com/)
+  + [Configurations](https://circleci.com/docs/2.0/configuration-reference/)
+  + [Docker](https://circleci.com/docs/2.0/circleci-images/)
+  + [Hosting Options](https://circleci.com/product/#hosting-options)
+  + [Integration Options](https://circleci.com/product/#integrations)
 - [Travis CI][1301]
-- [Travis CI - Blog][1302]
-- [Travis CI - Building a Python Project][1305]
-- [Travis CI - Changelog][1310]
-- [Travis CI - Configuring Build Notifications][1308]
-- [Travis CI - Core Concepts for Beginners][1303]
-- [Travis CI - Customizing the Build][1307]
-- [Travis CI - Docs][1304]
-- [Travis CI - Getting started][1309]
-- [Travis CI - Tutorial][1306]
-- [Travis CI - Wikipedia][1311]
+  + [Travis CI - Blog][1302]
+  + [Travis CI - Building a Python Project][1305]
+  + [Travis CI - Changelog][1310]
+  + [Travis CI - Configuring Build Notifications][1308]
+  + [Travis CI - Core Concepts for Beginners][1303]
+  + [Travis CI - Customizing the Build][1307]
+  + [Travis CI - Docs][1304]
+  + [Travis CI - Getting started][1309]
+  + [Travis CI - Tutorial][1306]
+  + [Travis CI - Wikipedia][1311]
 
 [//]: # (Collection of links 1301 - 1500)
 [1301]: https://travis-ci.org/
@@ -226,11 +231,6 @@
 
 ### 13.2 Other - C ###
 
-- [CircleCI](https://circleci.com/)
-  + [Configurations](https://circleci.com/docs/2.0/configuration-reference/)
-  + [Docker](https://circleci.com/docs/2.0/circleci-images/)
-  + [Hosting Options](https://circleci.com/product/#hosting-options)
-  + [Integration Options](https://circleci.com/product/#integrations)
 - [CoCalc](https://cocalc.com/)
 - [Codeburst](https://codeburst.io/)
 
