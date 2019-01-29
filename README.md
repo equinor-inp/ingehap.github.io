@@ -22,15 +22,15 @@
 ---------------------------------------------------------------------------------------------
 ## 1. General resources ##
 
-| Language      | Book List     | Home page     | Documentation | Cheat sheet        |
-| ------------- |:-------------:|:-------------:|:-------------:|:------------------:|
-| C++           | [Page][1]     |               |               |                    |
-| JSON          |               | [Home][9]     |               |                    |
-| Julia         |               | [Home][2]     | [Page][6]     |                    |
-| Loglan        |               |               |               | [Page][4]          |
-| Markdown      |               |               |               | [Pritchard][3]     |
-| Python        |               | [Home][5]     | [Page][7]     |                    |
-| Yaml          |               | [Home][8]     |               |                    |
+| Language      | Book List     | Home page     | Documentation | Cheat sheet        | Other                |
+| ------------- |:-------------:|:-------------:|:-------------:|:------------------:|:--------------------:|
+| C++           | [Page][1]     |               |               |                    |                      |
+| JSON          |               | [Home][9]     |               |                    |                      |
+| Julia         |               | [Home][2]     | [Page][6]     |                    |                      |
+| Loglan        |               |               |               | [Page][4]          |                      |
+| Markdown      |               |               |               | [Pritchard][3]     |                      |
+| Python        |               | [Home][5]     | [Page][7]     |                    | [Jypyter Viewer][10] |
+| Yaml          |               | [Home][8]     |               |                    |                      |
 
 [//]: # (Collection of links 1 - 1000)
 [1]: ./CPP_books.md
@@ -42,7 +42,7 @@
 [7]: https://docs.python.org
 [8]: https://yaml.org/spec/
 [9]: http://www.json.org/
-
+[10]: https://nbviewer.jupyter.org/github/WillKoehrsen/Data-Analysis/blob/master/plotly/Plotly%20Whirlwind%20Introduction.ipynb
 
 ---------------------------------------------------------------------------------------------
 ## 2. APIs ##
@@ -188,6 +188,7 @@
 ---------------------------------------------------------------------------------------------
 ## 10. Research ##
 
+- [BellingCat](https://www.bellingcat.com/)
 - [Evernote Web](https://www.evernote.com/client/web#?an=true&n=fb19ba95-be6d-4b4b-98a0-a44f39c5fc08&s=s134&)
 - [GMail](https://mail.google.com/mail/u/0/#inbox)
 - [GDrive, highest](https://drive.google.com/drive/my-drive)
@@ -241,6 +242,7 @@
 - [DataCamp](https://www.datacamp.com)
 - [Dataquest](https://www.dataquest.io/)
 - [Deep Mind](https://deepmind.com/research/publications/)
+- [Digipost](https://www.digipost.no/app/#/)
 - [Digital Academy](http://entry.statoil.no/HR/LearnStatoil/DigitalAcademy/pages/digitalacademy-learn.aspx)
 - [Distill](https://distill.pub/)
 
