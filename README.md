@@ -188,6 +188,7 @@
 ---------------------------------------------------------------------------------------------
 ## 10. Research ##
 
+- [Academia](https://www.academia.edu/)
 - [BellingCat](https://www.bellingcat.com/)
 - [Evernote Web](https://www.evernote.com/client/web#?an=true&n=fb19ba95-be6d-4b4b-98a0-a44f39c5fc08&s=s134&)
 - [GMail](https://mail.google.com/mail/u/0/#inbox)
@@ -227,7 +228,11 @@
 - [Amazon](https://www.amazon.com)
   + [Amazon - Manage Your Content and Devices](https://www.amazon.com/mn/dcw/myx.html/ref=nav_youraccount_myk#/home/content/booksAll/dateDsc/)
 - [Analytics Vidhya](https://www.analyticsvidhya.com/)
-  + [Analytics Vidhya - Python](https://www.analyticsvidhya.com/blog/category/python-2/)
+  + [Analytics Vidhya - Data Science](https://www.analyticsvidhya.com/blog/category/data-science/)
+  + [Analytics Vidhya - Events](https://www.analyticsvidhya.com/blog/category/events/)
+  + [Analytics Vidhya - Machine Learning](https://www.analyticsvidhya.com/blog/category/machine-learning/)
+  + [Analytics Vidhya - Python Archive](https://www.analyticsvidhya.com/blog/category/python-2/)
+  + [Analytics Vidhya - Training](https://trainings.analyticsvidhya.com/)
 - [arXiv](https://arxiv.org/)
 
 ### 13.2 Other - C ###
