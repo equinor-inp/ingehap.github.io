@@ -280,37 +280,45 @@
   + [Docs](https://docs.gitlab.com/)
   + [Search](https://gitlab.com/explore/projects?sort=stars_desc)
   + [Training](https://about.gitlab.com/training/)
-  
 - Google
   + [Google Plus](https://plus.google.com/)
   + [My books](https://play.google.com/books)
 
-### 13.7 Other - K ###
+### 13.7 Other - H ###
+
+- [HackerNoon](https://hackernoon.com/)
+- [Heiser, Micharl S.](http://drmsh.com/)
+
+### 13.8 Other - K ###
 
 - [Kaggle](https://www.kaggle.com/)
   + [Kaggle kernels](https://www.kaggle.com/kernels)
 - [KD Nuggets](https://www.kdnuggets.com/)
 
-### 13.8 Other - Q ###
+### 13.9 Other - L ###
+
+- [LovData](https://lovdata.no/)
+
+### 13.10 Other - Q ###
 
 - [Quora](https://www.quora.com)
   + [Big Data Analysis](https://www.quora.com/topic/Big-Data-Analysis)
   + [Data Analysis](https://www.quora.com/topic/Data-Analysis)
   + [Data Science](https://www.quora.com/topic/Data-Science)
 
-### 13.9 Other - R ###
+### 13.11 Other - R ###
 
 - [Reddit](https://www.reddit.com)
   + [Data Science](https://www.reddit.com/r/datascience/)
   + [Machine Learning](https://www.reddit.com/r/MachineLearning/)
   + [Programming](https://www.reddit.com/r/programming/)
   
-### 13.10 Other - S ###
+### 13.12 Other - S ###
 
 - [Software Carpentry](https://software-carpentry.org/lessons/)
 - [Stochasticlifestyle](http://www.stochasticlifestyle.com/)
 
-### 13.11 Other - T ###
+### 13.13 Other - T ###
 
 - [Think Big Data](http://thinkbigdata.in/)
 - [TowardsDataScience](https://towardsdatascience.com/)
@@ -331,7 +339,7 @@
   + [slashML](https://twitter.com/slashML)
   + [swcarpentry](https://twitter.com/swcarpentry)
   
-### 13.12 Other - W ###
+### 13.14 Other - W ###
 
 - [Wikimedia Foundation Governance Wiki](https://foundation.wikimedia.org/wiki/Home)
   + [Meta-Wiki](https://meta.wikimedia.org/wiki/Main_Page)
@@ -346,7 +354,7 @@
   + [Wikivoyage](https://en.wikivoyage.org/wiki/Main_Page)
   + [Wiktionary](https://en.wiktionary.org/wiki/Wiktionary:Main_Page)
 
-### 13.13 Other - Y ###
+### 13.15 Other - Y ###
 
 - [YouTube playlists](https://www.youtube.com)
   + [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/featured)
