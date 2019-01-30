@@ -189,6 +189,7 @@
 ## 10. Research ##
 
 - [Academia](https://www.academia.edu/)
+- [arXiv](https://arxiv.org/)
 - [BellingCat](https://www.bellingcat.com/)
 - [Evernote Web](https://www.evernote.com/client/web#?an=true&n=fb19ba95-be6d-4b4b-98a0-a44f39c5fc08&s=s134&)
 - [GMail](https://mail.google.com/mail/u/0/#inbox)
@@ -223,6 +224,8 @@
 ### 13.1 Other - A ###
 
 - [AAPG Wiki](https://wiki.aapg.org/Main_Page)
+- [ACCU](https://accu.org/)
+- [ActiveState](https://www.activestate.com/)
 - [AI index][5001]
 - [Algorithmia][5002]
 - [Amazon](https://www.amazon.com)
@@ -233,7 +236,7 @@
   + [Analytics Vidhya - Machine Learning](https://www.analyticsvidhya.com/blog/category/machine-learning/)
   + [Analytics Vidhya - Python Archive](https://www.analyticsvidhya.com/blog/category/python-2/)
   + [Analytics Vidhya - Training](https://trainings.analyticsvidhya.com/)
-- [arXiv](https://arxiv.org/)
+
 
 ### 13.2 Other - C ###
 
