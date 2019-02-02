@@ -220,6 +220,7 @@
 
 ### 10.4 Research - Search Engines ###
 
+- [ACM Digital Library](https://dl.acm.org/dl.cfm)
 - [Internet Archive Search](https://archive.org/search.php)
 - [Preprint Servers](https://ingehap.github.io/MyStart_SearchEngines_Preprints.html)
 - [Statistics Search](https://ingehap.github.io/MyStart_SearchEngines_Statistics.html)
