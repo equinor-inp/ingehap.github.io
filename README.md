@@ -9,9 +9,9 @@
 - 3\. CIs
 - 4\. Competitions
 - 5\. Compilers
-- 6\. Courses
-- 7\. Data sets
-- 8\. Economy
+- 6\. Data sets
+- 7\. Economy
+- 8\. Education
 - 9\. Libraries
 - 10\. Research
 - 11\. Search Engines
@@ -110,21 +110,7 @@
 
 
 ---------------------------------------------------------------------------------------------
-## 6. Courses ##
-
-| Location      | Course name                         |
-| ------------- |:-----------------------------------:|
-| Udacity       | [Data Analyst Nanodegree][2002]     |
-| Coursera      | [Data Science Specialization][2001] |
-| W3Schools     | [Tutorials][2003]                   |
-
-[//]: # (Collection of links 2001 - 2500)
-[2001]: https://www.coursera.org/specializations/jhu-data-science
-[2002]: https://www.udacity.com/course/data-analyst-nanodegree--nd002?v=a4
-[2003]: https://www.w3schools.com/
-
----------------------------------------------------------------------------------------------
-## 7. Data sets ##
+## 6. Data sets ##
 
 | Data set                  | Forum                      |
 | ------------------------- |:--------------------------:|
@@ -139,14 +125,14 @@
 
 
 ---------------------------------------------------------------------------------------------
-## 8. Economy ##
+## 7. Economy ##
 
-### 8.1 Economy - Banks ###
+### 7.1 Economy - Banks ###
 
 - [DnB][2501]
 - [Sbanken][2502]
 
-### 8.2 Economy - Investments ###
+### 7.2 Economy - Investments ###
 
 - [Aksjesparingsprogram, Equinor][2503]
 - [Investopedia][2504]
@@ -158,6 +144,38 @@
 [2503]: http://entry.statoil.no/HR/PerformanceAndReward/benefits/Pages/sharesaving.aspx
 [2504]: https://www.investopedia.com/
 [2505]: https://newsweb.oslobors.no/
+
+
+---------------------------------------------------------------------------------------------
+## 8. Education ##
+
+### 8.1 Education - General courses ###
+
+- [Aalto Scientific Computing][2009]
+- [Code Refinery][2008]
+- [Data Carpentry][2007]
+- [HPC Carpentry][2006]
+- [Library Carpentry][2005]
+- [Software Carpentry][2004]
+
+### 8.2 Education - Special courses ###
+
+| Location      | Course name                         |
+| ------------- |:-----------------------------------:|
+| Udacity       | [Data Analyst Nanodegree][2002]     |
+| Coursera      | [Data Science Specialization][2001] |
+| W3Schools     | [Tutorials][2003]                   |
+
+[//]: # (Collection of links 2001 - 2500)
+[2001]: https://www.coursera.org/specializations/jhu-data-science
+[2002]: https://www.udacity.com/course/data-analyst-nanodegree--nd002?v=a4
+[2003]: https://www.w3schools.com/
+[2004]: https://software-carpentry.org/lessons/
+[2005]: https://librarycarpentry.org/lessons/
+[2006]: https://hpc-carpentry.github.io/
+[2007]: https://datacarpentry.org/lessons/
+[2008]: https://coderefinery.org/lessons/
+[2009]: http://scicomp.aalto.fi/training/
 
 
 ---------------------------------------------------------------------------------------------
