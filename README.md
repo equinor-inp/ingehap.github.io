@@ -14,9 +14,8 @@
 - 8\. Education
 - 9\. Libraries
 - 10\. Research
-- 11\. Search Engines
-- 12\. Subjects
-- 13\. Other
+- 11\. Subjects
+- 12\. Other
 
 
 ---------------------------------------------------------------------------------------------
@@ -219,16 +218,7 @@
 
 - [BellingCat](https://www.bellingcat.com/)
 
-### 10.4 Research - Tools ###
-
-- [Evernote Web](https://www.evernote.com/client/web#?an=true&n=fb19ba95-be6d-4b4b-98a0-a44f39c5fc08&s=s134&)
-- [GDrive (highest)](https://drive.google.com/drive/my-drive)
-- [GMail](https://mail.google.com/mail/u/0/#inbox)
-- [KanbanFlow (std)](https://kanbanflow.com)
-
-
----------------------------------------------------------------------------------------------
-## 11. Search Engines ##
+### 10.4 Research - Search Engines ###
 
 - [Internet Archive Search](https://archive.org/search.php)
 - [Preprint Servers](https://ingehap.github.io/MyStart_SearchEngines_Preprints.html)
@@ -237,8 +227,16 @@
 - [Wiki Search](https://ingehap.github.io/MyStart_SearchEngines_Wiki.html)
 - [Other](https://ingehap.github.io/MyStart_SearchEngines.html)
 
+### 10.5 Research - Tools ###
+
+- [Evernote Web](https://www.evernote.com/client/web#?an=true&n=fb19ba95-be6d-4b4b-98a0-a44f39c5fc08&s=s134&)
+- [GDrive (highest)](https://drive.google.com/drive/my-drive)
+- [GMail](https://mail.google.com/mail/u/0/#inbox)
+- [KanbanFlow (std)](https://kanbanflow.com)
+
+
 ---------------------------------------------------------------------------------------------
-## 12. Subjects ##
+## 11. Subjects ##
 
 - [Ancient Near East](https://ingehap.github.io/MyStart_Subjects_ANE.html)
 - [Biology](https://ingehap.github.io/MyStart_Subjects_BIO.html)
@@ -248,9 +246,9 @@
 - [Physics](https://ingehap.github.io/MyStart_Subjects_PHY.html)
 
 ---------------------------------------------------------------------------------------------
-## 13. Other ##
+## 12. Other ##
 
-### 13.1 Other - A ###
+### 12.1 Other - A ###
 
 - [AAPG Wiki](https://wiki.aapg.org/Main_Page)
 - [ACCU](https://accu.org/)
@@ -266,15 +264,13 @@
   + [Analytics Vidhya - Python Archive](https://www.analyticsvidhya.com/blog/category/python-2/)
   + [Analytics Vidhya - Training](https://trainings.analyticsvidhya.com/)
 
-
-### 13.2 Other - C ###
+### 12.2 Other - C ###
 
 - [CoCalc](https://cocalc.com/)
 - [Codeburst](https://codeburst.io/)
 
-### 13.3 Other - D ###
+### 12.3 Other - D ###
 
-- [Data Carpentry](http://www.datacarpentry.org/)
 - [Data Science Central](https://www.datasciencecentral.com)
 - [DataCamp](https://www.datacamp.com)
 - [Dataquest](https://www.dataquest.io/)
@@ -283,16 +279,16 @@
 - [Digital Academy](http://entry.statoil.no/HR/LearnStatoil/DigitalAcademy/pages/digitalacademy-learn.aspx)
 - [Distill](https://distill.pub/)
 
-### 13.4 Other - E ###
+### 12.4 Other - E ###
 
 - [EliteDataScience](https://elitedatascience.com)
 
-### 13.5 Other - F ###
+### 12.5 Other - F ###
 
 - [Facebook](https://www.facebook.com/)
 - [freeCodeCamp](https://medium.freecodecamp.org/)
 
-### 13.6 Other - G ###
+### 12.6 Other - G ###
 
 - [Git Bash](https://git-scm.com/)
   + [Command Line Tutorial](https://www.youtube.com/watch?v=HVsySz-h9r4)
@@ -313,41 +309,41 @@
   + [Google Plus](https://plus.google.com/)
   + [My books](https://play.google.com/books)
 
-### 13.7 Other - H ###
+### 12.7 Other - H ###
 
 - [HackerNoon](https://hackernoon.com/)
 - [Heiser, Micharl S.](http://drmsh.com/)
 
-### 13.8 Other - K ###
+### 12.8 Other - K ###
 
 - [Kaggle](https://www.kaggle.com/)
   + [Kaggle kernels](https://www.kaggle.com/kernels)
 - [KD Nuggets](https://www.kdnuggets.com/)
 
-### 13.9 Other - L ###
+### 12.9 Other - L ###
 
 - [LovData](https://lovdata.no/)
 
-### 13.10 Other - Q ###
+### 12.10 Other - Q ###
 
 - [Quora](https://www.quora.com)
   + [Big Data Analysis](https://www.quora.com/topic/Big-Data-Analysis)
   + [Data Analysis](https://www.quora.com/topic/Data-Analysis)
   + [Data Science](https://www.quora.com/topic/Data-Science)
 
-### 13.11 Other - R ###
+### 12.11 Other - R ###
 
 - [Reddit](https://www.reddit.com)
   + [Data Science](https://www.reddit.com/r/datascience/)
   + [Machine Learning](https://www.reddit.com/r/MachineLearning/)
   + [Programming](https://www.reddit.com/r/programming/)
   
-### 13.12 Other - S ###
+### 12.12 Other - S ###
 
 - [Software Carpentry](https://software-carpentry.org/lessons/)
 - [Stochasticlifestyle](http://www.stochasticlifestyle.com/)
 
-### 13.13 Other - T ###
+### 12.13 Other - T ###
 
 - [Think Big Data](http://thinkbigdata.in/)
 - [TowardsDataScience](https://towardsdatascience.com/)
@@ -368,7 +364,7 @@
   + [slashML](https://twitter.com/slashML)
   + [swcarpentry](https://twitter.com/swcarpentry)
   
-### 13.14 Other - W ###
+### 12.14 Other - W ###
 
 - [Wikimedia Foundation Governance Wiki](https://foundation.wikimedia.org/wiki/Home)
   + [Meta-Wiki](https://meta.wikimedia.org/wiki/Main_Page)
@@ -383,7 +379,7 @@
   + [Wikivoyage](https://en.wikivoyage.org/wiki/Main_Page)
   + [Wiktionary](https://en.wiktionary.org/wiki/Wiktionary:Main_Page)
 
-### 13.15 Other - Y ###
+### 12.15 Other - Y ###
 
 - [YouTube playlists](https://www.youtube.com)
   + [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/featured)
