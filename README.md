@@ -251,7 +251,8 @@
 - [Memra](http://www.memraonline.com/)
 - [Naked Bible Podcast](http://www.nakedbiblepodcast.com/)
 - [rabbi Sacks](http://rabbisacks.org/)
-    
+- [Sefaria Library](https://www.sefaria.org/texts)
+
 ### 11.2 Subjects - Biology ###
 
 - [Free Energy Principle; Wikipedia](https://en.wikipedia.org/wiki/Free_energy_principle)
@@ -265,6 +266,8 @@
 - [Agile Libre](https://www.agilelibre.com/)
 
 ### 11.5 Subjects - [Mathematics](https://ingehap.github.io/MyStart_Subjects_MA.html) ###
+
+- [SIAM Bookstore](http://bookstore.siam.org/)
 
 ### 11.6 Subjects - [Physics](https://ingehap.github.io/MyStart_Subjects_PHY.html) ###
 
