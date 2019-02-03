@@ -276,7 +276,7 @@
 - [Analytics Vidhya](https://www.analyticsvidhya.com/)
   + [Analytics Vidhya - Data Science](https://www.analyticsvidhya.com/blog/category/data-science/)
   + [Analytics Vidhya - Events](https://www.analyticsvidhya.com/blog/category/events/)
-  + [Analytics Vidhya - Machine Learning](https://www.analyticsvidhya.com/blog/category/machine-learning/)
+  + [Analytics Vidhya - Machine Learning](https://www.analyticsvidhya.com/blog/category/machine-learning/) 
   + [Analytics Vidhya - Python Archive](https://www.analyticsvidhya.com/blog/category/python-2/)
   + [Analytics Vidhya - Training](https://trainings.analyticsvidhya.com/)
 
