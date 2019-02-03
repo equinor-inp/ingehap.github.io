@@ -261,6 +261,8 @@
 
 ### 11.4 Subjects - [Earth Sciences](https://ingehap.github.io/MyStart_Subjects_ES.html) ###
 
+- [SEG Digital Library](https://library.seg.org/)
+
 #### 11.4.1 Book Sources ####
 
 - [Agile Libre](https://www.agilelibre.com/)
