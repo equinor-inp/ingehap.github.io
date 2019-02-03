@@ -253,7 +253,18 @@
   + [GMail](https://mail.google.com/mail/u/0/#inbox)
   + [My books](https://play.google.com/books)
 - [KanbanFlow (std)](https://kanbanflow.com)
-
+- [Wikimedia Foundation Governance Wiki](https://foundation.wikimedia.org/wiki/Home)
+  + [Meta-Wiki](https://meta.wikimedia.org/wiki/Main_Page)
+  + [Wikibooks](https://en.wikibooks.org/wiki/Main_Page)
+  + [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page)
+  + [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page)
+  + [Wikipedia](https://en.wikipedia.org/wiki/Main_Page)
+  + [Wikiquote](https://en.wikiquote.org/wiki/Main_Page)
+  + [Wikisource](https://en.wikisource.org/wiki/Main_Page)
+  + [Wikispecies](https://species.wikimedia.org/wiki/Main_Page)
+  + [Wikiversity](https://en.wikiversity.org/wiki/Wikiversity:Main_Page)
+  + [Wikivoyage](https://en.wikivoyage.org/wiki/Main_Page)
+  + [Wiktionary](https://en.wiktionary.org/wiki/Wiktionary:Main_Page)
 
 ---------------------------------------------------------------------------------------------
 ## 11. Subjects ##
@@ -388,21 +399,6 @@
   + [slashML](https://twitter.com/slashML)
   + [swcarpentry](https://twitter.com/swcarpentry)
   
-### 12.14 Other - W ###
-
-- [Wikimedia Foundation Governance Wiki](https://foundation.wikimedia.org/wiki/Home)
-  + [Meta-Wiki](https://meta.wikimedia.org/wiki/Main_Page)
-  + [Wikibooks](https://en.wikibooks.org/wiki/Main_Page)
-  + [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page)
-  + [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page)
-  + [Wikipedia](https://en.wikipedia.org/wiki/Main_Page)
-  + [Wikiquote](https://en.wikiquote.org/wiki/Main_Page)
-  + [Wikisource](https://en.wikisource.org/wiki/Main_Page)
-  + [Wikispecies](https://species.wikimedia.org/wiki/Main_Page)
-  + [Wikiversity](https://en.wikiversity.org/wiki/Wikiversity:Main_Page)
-  + [Wikivoyage](https://en.wikivoyage.org/wiki/Main_Page)
-  + [Wiktionary](https://en.wiktionary.org/wiki/Wiktionary:Main_Page)
-
 ### 12.15 Other - Y ###
 
 - [YouTube playlists](https://www.youtube.com)
