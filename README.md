@@ -43,14 +43,6 @@
 [9]: http://www.json.org/
 [10]: https://nbviewer.jupyter.org/github/WillKoehrsen/Data-Analysis/blob/master/plotly/Plotly%20Whirlwind%20Introduction.ipynb
 
----------------------------------------------------------------------------------------------
-## 2. APIs ##
-
-- [Google Sheet API][1001]
-
-[//]: # (Collection of links 1001 - 1300)
-[1001]: https://developers.google.com/sheets/api/
-
 
 ---------------------------------------------------------------------------------------------
 ## 3. CIs ##
@@ -256,6 +248,7 @@
 - Google
   + [GDrive (highest)](https://drive.google.com/drive/my-drive)
   + [GMail](https://mail.google.com/mail/u/0/#inbox)
+  + [Google Sheet API](https://developers.google.com/sheets/api/)
   + [My books](https://play.google.com/books)
 - [KanbanFlow (std)](https://kanbanflow.com)
 - [Wikimedia Foundation Governance Wiki](https://foundation.wikimedia.org/wiki/Home)
