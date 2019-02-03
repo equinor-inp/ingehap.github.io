@@ -240,12 +240,17 @@
 ---------------------------------------------------------------------------------------------
 ## 11. Subjects ##
 
-### 11.1 Subjects - [Ancient Near East](https://ingehap.github.io/MyStart_Subjects_ANE.html) ###
+### 11.1 Subjects - Ancient Near East ###
 
-#### 11.1.1 Societies ####
-
+- [Ancient Hebrew](http://www.ancient-hebrew.org/)
+- [Ask Dr Brown (YouTube)](https://www.youtube.com/user/AskDrBrownVideos/playlists)
 - [Biblical Archaeology Society](https://www.biblicalarchaeology.org/)
-
+- [Christianity Today](https://www.christianitytoday.com/)
+- [Jerusalem Perspective](https://www.jerusalemperspective.com/)
+- [JJMJS](http://www.jjmjs.org/)
+- [Naked Bible Podcast](http://www.nakedbiblepodcast.com/)
+- [rabbi Sacks](http://rabbisacks.org/)
+    
 ### 11.2 Subjects - [Biology](https://ingehap.github.io/MyStart_Subjects_BIO.html) ###
 
 ### 11.3 Subjects - [Computer Science](https://ingehap.github.io/MyStart_Subjects_CS.html) ###
