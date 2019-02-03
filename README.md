@@ -223,6 +223,7 @@
 
 - [ACM Digital Library](https://dl.acm.org/dl.cfm)
 - [Internet Archive Search](https://archive.org/search.php)
+- [LovData](https://lovdata.no/)
 - [Preprint Servers](https://ingehap.github.io/MyStart_SearchEngines_Preprints.html)
 - [Statistics Search](https://ingehap.github.io/MyStart_SearchEngines_Statistics.html)
 - [Thesis Search](https://ingehap.github.io/MyStart_SearchEngines_Theses.html)
@@ -232,8 +233,25 @@
 ### 10.5 Research - Tools ###
 
 - [Evernote Web](https://www.evernote.com/client/web#?an=true&n=fb19ba95-be6d-4b4b-98a0-a44f39c5fc08&s=s134&)
-- [GDrive (highest)](https://drive.google.com/drive/my-drive)
-- [GMail](https://mail.google.com/mail/u/0/#inbox)
+- [Git Bash](https://git-scm.com/)
+  + [Command Line Tutorial](https://www.youtube.com/watch?v=HVsySz-h9r4)
+- [GitHub](https://github.com/)
+  + [Add SSH key](https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/)
+  + [Billing](https://github.com/settings/billing)
+  + [Create new repository](https://help.github.com/articles/creating-a-new-repository/)
+  + [Help](https://help.github.com/categories/collaborating-with-issues-and-pull-requests/)
+  + [Status](https://www.githubstatus.com/)
+- [GitLab](https://about.gitlab.com/)
+  + [Auto Devops](https://gitlab.com/help/topics/autodevops/index.md)
+  + [Blog](https://about.gitlab.com/blog/)
+  + [CI/CD](https://docs.gitlab.com/ce/ci/)
+  + [Docs](https://docs.gitlab.com/)
+  + [Search](https://gitlab.com/explore/projects?sort=stars_desc)
+  + [Training](https://about.gitlab.com/training/)
+- Google
+  + [GDrive (highest)](https://drive.google.com/drive/my-drive)
+  + [GMail](https://mail.google.com/mail/u/0/#inbox)
+  + [My books](https://play.google.com/books)
 - [KanbanFlow (std)](https://kanbanflow.com)
 
 
@@ -319,27 +337,6 @@
 - [Facebook](https://www.facebook.com/)
 - [freeCodeCamp](https://medium.freecodecamp.org/)
 
-### 12.6 Other - G ###
-
-- [Git Bash](https://git-scm.com/)
-  + [Command Line Tutorial](https://www.youtube.com/watch?v=HVsySz-h9r4)
-- [GitHub](https://github.com/)
-  + [Add SSH key](https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/)
-  + [Billing](https://github.com/settings/billing)
-  + [Create new repository](https://help.github.com/articles/creating-a-new-repository/)
-  + [Help](https://help.github.com/categories/collaborating-with-issues-and-pull-requests/)
-  + [Status](https://www.githubstatus.com/)
-- [GitLab](https://about.gitlab.com/)
-  + [Auto Devops](https://gitlab.com/help/topics/autodevops/index.md)
-  + [Blog](https://about.gitlab.com/blog/)
-  + [CI/CD](https://docs.gitlab.com/ce/ci/)
-  + [Docs](https://docs.gitlab.com/)
-  + [Search](https://gitlab.com/explore/projects?sort=stars_desc)
-  + [Training](https://about.gitlab.com/training/)
-- Google
-  + [Google Plus](https://plus.google.com/)
-  + [My books](https://play.google.com/books)
-
 ### 12.7 Other - H ###
 
 - [HackerNoon](https://hackernoon.com/)
@@ -350,10 +347,6 @@
 - [Kaggle](https://www.kaggle.com/)
   + [Kaggle kernels](https://www.kaggle.com/kernels)
 - [KD Nuggets](https://www.kdnuggets.com/)
-
-### 12.9 Other - L ###
-
-- [LovData](https://lovdata.no/)
 
 ### 12.10 Other - Q ###
 
