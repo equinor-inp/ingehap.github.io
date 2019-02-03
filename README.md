@@ -248,6 +248,7 @@
 - [Christianity Today](https://www.christianitytoday.com/)
 - [Jerusalem Perspective](https://www.jerusalemperspective.com/)
 - [JJMJS](http://www.jjmjs.org/)
+- [Memra](http://www.memraonline.com/)
 - [Naked Bible Podcast](http://www.nakedbiblepodcast.com/)
 - [rabbi Sacks](http://rabbisacks.org/)
     
