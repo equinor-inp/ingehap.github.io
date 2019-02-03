@@ -236,6 +236,7 @@
 
 ### 10.5 Research - Tools ###
 
+- [Digipost](https://www.digipost.no/app/#/)
 - [Evernote Web](https://www.evernote.com/client/web#?an=true&n=fb19ba95-be6d-4b4b-98a0-a44f39c5fc08&s=s134&)
 - [Git Bash](https://git-scm.com/)
   + [Command Line Tutorial](https://www.youtube.com/watch?v=HVsySz-h9r4)
@@ -278,6 +279,7 @@
 - [Ask Dr Brown (YouTube)](https://www.youtube.com/user/AskDrBrownVideos/playlists)
 - [Biblical Archaeology Society](https://www.biblicalarchaeology.org/)
 - [Christianity Today](https://www.christianitytoday.com/)
+- [Heiser, Michael S.](http://drmsh.com/)
 - [Jerusalem Perspective](https://www.jerusalemperspective.com/)
 - [JJMJS](http://www.jjmjs.org/)
 - [Memra](http://www.memraonline.com/)
@@ -295,8 +297,19 @@
 ---------------------------------------------------------------------------------------------
 ## 13. Subjects - [Computer Science](https://ingehap.github.io/MyStart_Subjects_CS.html) ##
 
+- [Analytics Vidhya](https://www.analyticsvidhya.com/)
+  + [Analytics Vidhya - Data Science](https://www.analyticsvidhya.com/blog/category/data-science/)
+  + [Analytics Vidhya - Events](https://www.analyticsvidhya.com/blog/category/events/)
+  + [Analytics Vidhya - Machine Learning](https://www.analyticsvidhya.com/blog/category/machine-learning/) 
+  + [Analytics Vidhya - Python Archive](https://www.analyticsvidhya.com/blog/category/python-2/)
+  + [Analytics Vidhya - Training](https://trainings.analyticsvidhya.com/)
 - [Data36](https://data36.com/)
-
+- [EliteDataScience](https://elitedatascience.com)
+- [Reddit](https://www.reddit.com)
+  + [Data Science](https://www.reddit.com/r/datascience/)
+  + [Machine Learning](https://www.reddit.com/r/MachineLearning/)
+  + [Programming](https://www.reddit.com/r/programming/)
+  
 
 ---------------------------------------------------------------------------------------------
 ## 14. Subjects - [Earth Sciences](https://ingehap.github.io/MyStart_Subjects_ES.html) ##
@@ -327,12 +340,6 @@
 - [Algorithmia][5002]
 - [Amazon](https://www.amazon.com)
   + [Amazon - Manage Your Content and Devices](https://www.amazon.com/mn/dcw/myx.html/ref=nav_youraccount_myk#/home/content/booksAll/dateDsc/)
-- [Analytics Vidhya](https://www.analyticsvidhya.com/)
-  + [Analytics Vidhya - Data Science](https://www.analyticsvidhya.com/blog/category/data-science/)
-  + [Analytics Vidhya - Events](https://www.analyticsvidhya.com/blog/category/events/)
-  + [Analytics Vidhya - Machine Learning](https://www.analyticsvidhya.com/blog/category/machine-learning/) 
-  + [Analytics Vidhya - Python Archive](https://www.analyticsvidhya.com/blog/category/python-2/)
-  + [Analytics Vidhya - Training](https://trainings.analyticsvidhya.com/)
 
 ### 17.2 Other - C ###
 
@@ -345,13 +352,8 @@
 - [DataCamp](https://www.datacamp.com)
 - [Dataquest](https://www.dataquest.io/)
 - [Deep Mind](https://deepmind.com/research/publications/)
-- [Digipost](https://www.digipost.no/app/#/)
 - [Digital Academy](http://entry.statoil.no/HR/LearnStatoil/DigitalAcademy/pages/digitalacademy-learn.aspx)
 - [Distill](https://distill.pub/)
-
-### 17.4 Other - E ###
-
-- [EliteDataScience](https://elitedatascience.com)
 
 ### 17.5 Other - F ###
 
@@ -361,7 +363,7 @@
 ### 17.7 Other - H ###
 
 - [HackerNoon](https://hackernoon.com/)
-- [Heiser, Micharl S.](http://drmsh.com/)
+
 
 ### 17.8 Other - K ###
 
@@ -369,13 +371,6 @@
   + [Kaggle kernels](https://www.kaggle.com/kernels)
 - [KD Nuggets](https://www.kdnuggets.com/)
 
-### 17.11 Other - R ###
-
-- [Reddit](https://www.reddit.com)
-  + [Data Science](https://www.reddit.com/r/datascience/)
-  + [Machine Learning](https://www.reddit.com/r/MachineLearning/)
-  + [Programming](https://www.reddit.com/r/programming/)
-  
 ### 17.12 Other - S ###
 
 - [Software Carpentry](https://software-carpentry.org/lessons/)
