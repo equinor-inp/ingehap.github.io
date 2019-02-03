@@ -251,7 +251,9 @@
 - [Naked Bible Podcast](http://www.nakedbiblepodcast.com/)
 - [rabbi Sacks](http://rabbisacks.org/)
     
-### 11.2 Subjects - [Biology](https://ingehap.github.io/MyStart_Subjects_BIO.html) ###
+### 11.2 Subjects - Biology ###
+
+- [Free Energy Principle; Wikipedia](https://en.wikipedia.org/wiki/Free_energy_principle)
 
 ### 11.3 Subjects - [Computer Science](https://ingehap.github.io/MyStart_Subjects_CS.html) ###
 
