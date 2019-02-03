@@ -225,6 +225,10 @@
 - [Internet Archive Search](https://archive.org/search.php)
 - [LovData](https://lovdata.no/)
 - [Preprint Servers](https://ingehap.github.io/MyStart_SearchEngines_Preprints.html)
+- [Quora](https://www.quora.com)
+  + [Big Data Analysis](https://www.quora.com/topic/Big-Data-Analysis)
+  + [Data Analysis](https://www.quora.com/topic/Data-Analysis)
+  + [Data Science](https://www.quora.com/topic/Data-Science)
 - [Statistics Search](https://ingehap.github.io/MyStart_SearchEngines_Statistics.html)
 - [Thesis Search](https://ingehap.github.io/MyStart_SearchEngines_Theses.html)
 - [Wiki Search](https://ingehap.github.io/MyStart_SearchEngines_Wiki.html)
@@ -266,10 +270,9 @@
   + [Wikivoyage](https://en.wikivoyage.org/wiki/Main_Page)
   + [Wiktionary](https://en.wiktionary.org/wiki/Wiktionary:Main_Page)
 
----------------------------------------------------------------------------------------------
-## 11. Subjects ##
 
-### 11.1 Subjects - Ancient Near East ###
+---------------------------------------------------------------------------------------------
+## 11. Subjects - Ancient Near East ##
 
 - [Ancient Hebrew](http://www.ancient-hebrew.org/)
 - [Ask Dr Brown (YouTube)](https://www.youtube.com/user/AskDrBrownVideos/playlists)
@@ -282,33 +285,40 @@
 - [rabbi Sacks](http://rabbisacks.org/)
 - [Sefaria Library](https://www.sefaria.org/texts)
 
-### 11.2 Subjects - Biology ###
+
+---------------------------------------------------------------------------------------------
+## 12. Subjects - Biology ##
 
 - [Free Energy Principle; Wikipedia](https://en.wikipedia.org/wiki/Free_energy_principle)
 
-### 11.3 Subjects - [Computer Science](https://ingehap.github.io/MyStart_Subjects_CS.html) ###
+
+---------------------------------------------------------------------------------------------
+## 13. Subjects - [Computer Science](https://ingehap.github.io/MyStart_Subjects_CS.html) ##
 
 - [Data36](https://data36.com/)
 
-### 11.4 Subjects - [Earth Sciences](https://ingehap.github.io/MyStart_Subjects_ES.html) ###
 
-- [SEG Digital Library](https://library.seg.org/)
-
-#### 11.4.1 Book Sources ####
+---------------------------------------------------------------------------------------------
+## 14. Subjects - [Earth Sciences](https://ingehap.github.io/MyStart_Subjects_ES.html) ##
 
 - [Agile Libre](https://www.agilelibre.com/)
-
-### 11.5 Subjects - [Mathematics](https://ingehap.github.io/MyStart_Subjects_MA.html) ###
-
-- [SIAM Bookstore](http://bookstore.siam.org/)
-
-### 11.6 Subjects - [Physics](https://ingehap.github.io/MyStart_Subjects_PHY.html) ###
+- [SEG Digital Library](https://library.seg.org/)
 
 
 ---------------------------------------------------------------------------------------------
-## 12. Other ##
+## 15. Subjects - [Mathematics](https://ingehap.github.io/MyStart_Subjects_MA.html) ##
 
-### 12.1 Other - A ###
+- [SIAM Bookstore](http://bookstore.siam.org/)
+
+
+---------------------------------------------------------------------------------------------
+## 16. Subjects - [Physics](https://ingehap.github.io/MyStart_Subjects_PHY.html) ##
+
+
+---------------------------------------------------------------------------------------------
+## 17. Other ##
+
+### 17.1 Other - A ###
 
 - [AAPG Wiki](https://wiki.aapg.org/Main_Page)
 - [ACCU](https://accu.org/)
@@ -324,12 +334,12 @@
   + [Analytics Vidhya - Python Archive](https://www.analyticsvidhya.com/blog/category/python-2/)
   + [Analytics Vidhya - Training](https://trainings.analyticsvidhya.com/)
 
-### 12.2 Other - C ###
+### 17.2 Other - C ###
 
 - [CoCalc](https://cocalc.com/)
 - [Codeburst](https://codeburst.io/)
 
-### 12.3 Other - D ###
+### 17.3 Other - D ###
 
 - [Data Science Central](https://www.datasciencecentral.com)
 - [DataCamp](https://www.datacamp.com)
@@ -339,46 +349,39 @@
 - [Digital Academy](http://entry.statoil.no/HR/LearnStatoil/DigitalAcademy/pages/digitalacademy-learn.aspx)
 - [Distill](https://distill.pub/)
 
-### 12.4 Other - E ###
+### 17.4 Other - E ###
 
 - [EliteDataScience](https://elitedatascience.com)
 
-### 12.5 Other - F ###
+### 17.5 Other - F ###
 
 - [Facebook](https://www.facebook.com/)
 - [freeCodeCamp](https://medium.freecodecamp.org/)
 
-### 12.7 Other - H ###
+### 17.7 Other - H ###
 
 - [HackerNoon](https://hackernoon.com/)
 - [Heiser, Micharl S.](http://drmsh.com/)
 
-### 12.8 Other - K ###
+### 17.8 Other - K ###
 
 - [Kaggle](https://www.kaggle.com/)
   + [Kaggle kernels](https://www.kaggle.com/kernels)
 - [KD Nuggets](https://www.kdnuggets.com/)
 
-### 12.10 Other - Q ###
-
-- [Quora](https://www.quora.com)
-  + [Big Data Analysis](https://www.quora.com/topic/Big-Data-Analysis)
-  + [Data Analysis](https://www.quora.com/topic/Data-Analysis)
-  + [Data Science](https://www.quora.com/topic/Data-Science)
-
-### 12.11 Other - R ###
+### 17.11 Other - R ###
 
 - [Reddit](https://www.reddit.com)
   + [Data Science](https://www.reddit.com/r/datascience/)
   + [Machine Learning](https://www.reddit.com/r/MachineLearning/)
   + [Programming](https://www.reddit.com/r/programming/)
   
-### 12.12 Other - S ###
+### 17.12 Other - S ###
 
 - [Software Carpentry](https://software-carpentry.org/lessons/)
 - [Stochasticlifestyle](http://www.stochasticlifestyle.com/)
 
-### 12.13 Other - T ###
+### 17.13 Other - T ###
 
 - [Think Big Data](http://thinkbigdata.in/)
 - [TowardsDataScience](https://towardsdatascience.com/)
@@ -399,7 +402,7 @@
   + [slashML](https://twitter.com/slashML)
   + [swcarpentry](https://twitter.com/swcarpentry)
   
-### 12.15 Other - Y ###
+### 17.15 Other - Y ###
 
 - [YouTube playlists](https://www.youtube.com)
   + [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/featured)
