@@ -309,6 +309,24 @@
   + [Data Science](https://www.reddit.com/r/datascience/)
   + [Machine Learning](https://www.reddit.com/r/MachineLearning/)
   + [Programming](https://www.reddit.com/r/programming/)
+- [Think Big Data](http://thinkbigdata.in/)
+- [TowardsDataScience](https://towardsdatascience.com/)
+  + [AWS](https://towardsdatascience.com/tagged/aws)
+  + [Data science](https://towardsdatascience.com/data-science/home)
+  + [Data-visualization](https://towardsdatascience.com/data-visualization/home)
+  + [Machine-learning](https://towardsdatascience.com/machine-learning/home)
+  + [Programming](https://towardsdatascience.com/programming/home)
+  + [Spiders](https://towardsdatascience.com/tagged/spiders)
+  + [Web Scraping](https://towardsdatascience.com/tagged/web-scraping)
+- [Twitter](https://twitter.com/)
+  + [analyticbridge](https://twitter.com/analyticbridge)
+  + [ContainersExpo](https://twitter.com/ContainersExpo)
+  + [Docker](https://twitter.com/Docker)
+  + [HPDSLab](https://twitter.com/HPDSLab)
+  + [KDnuggets](https://twitter.com/kdnuggets)
+  + [RStatsStExBot](https://twitter.com/RStatsStExBot)
+  + [slashML](https://twitter.com/slashML)
+  + [swcarpentry](https://twitter.com/swcarpentry)
   
 
 ---------------------------------------------------------------------------------------------
@@ -375,28 +393,7 @@
 
 - [Software Carpentry](https://software-carpentry.org/lessons/)
 - [Stochasticlifestyle](http://www.stochasticlifestyle.com/)
-
-### 17.13 Other - T ###
-
-- [Think Big Data](http://thinkbigdata.in/)
-- [TowardsDataScience](https://towardsdatascience.com/)
-  + [AWS](https://towardsdatascience.com/tagged/aws)
-  + [Data science](https://towardsdatascience.com/data-science/home)
-  + [Data-visualization](https://towardsdatascience.com/data-visualization/home)
-  + [Machine-learning](https://towardsdatascience.com/machine-learning/home)
-  + [Programming](https://towardsdatascience.com/programming/home)
-  + [Spiders](https://towardsdatascience.com/tagged/spiders)
-  + [Web Scraping](https://towardsdatascience.com/tagged/web-scraping)
-- [Twitter](https://twitter.com/)
-  + [analyticbridge](https://twitter.com/analyticbridge)
-  + [ContainersExpo](https://twitter.com/ContainersExpo)
-  + [Docker](https://twitter.com/Docker)
-  + [HPDSLab](https://twitter.com/HPDSLab)
-  + [KDnuggets](https://twitter.com/kdnuggets)
-  + [RStatsStExBot](https://twitter.com/RStatsStExBot)
-  + [slashML](https://twitter.com/slashML)
-  + [swcarpentry](https://twitter.com/swcarpentry)
-  
+ 
 ### 17.15 Other - Y ###
 
 - [YouTube playlists](https://www.youtube.com)
