@@ -208,6 +208,7 @@
 ### 10.1 Research - Communities ###
 
 - [Academia](https://www.academia.edu/)
+  + [Academia - Grants](https://www.academia.edu/grants)
 - [ResearchGate, std](https://www.researchgate.net/profile/Inge_Pettersen)
 
 ### 10.2 Research - Preprints ###
@@ -241,11 +242,24 @@
 
 ### 11.1 Subjects - [Ancient Near East](https://ingehap.github.io/MyStart_Subjects_ANE.html) ###
 
-- [Biology](https://ingehap.github.io/MyStart_Subjects_BIO.html)
-- [Computer Science](https://ingehap.github.io/MyStart_Subjects_CS.html)
-- [Earth Sciences](https://ingehap.github.io/MyStart_Subjects_ES.html)
-- [Mathematics](https://ingehap.github.io/MyStart_Subjects_MA.html)
-- [Physics](https://ingehap.github.io/MyStart_Subjects_PHY.html)
+#### 11.1.1 Societies ####
+
+- [Biblical Archaeology Society](https://www.biblicalarchaeology.org/)
+
+### 11.2 Subjects - [Biology](https://ingehap.github.io/MyStart_Subjects_BIO.html) ###
+
+### 11.3 Subjects - [Computer Science](https://ingehap.github.io/MyStart_Subjects_CS.html) ###
+
+### 11.4 Subjects - [Earth Sciences](https://ingehap.github.io/MyStart_Subjects_ES.html) ###
+
+#### 11.4.1 Book Sources ####
+
+- [Agile Libre](https://www.agilelibre.com/)
+
+### 11.5 Subjects - [Mathematics](https://ingehap.github.io/MyStart_Subjects_MA.html) ###
+
+### 11.6 Subjects - [Physics](https://ingehap.github.io/MyStart_Subjects_PHY.html) ###
+
 
 ---------------------------------------------------------------------------------------------
 ## 12. Other ##
