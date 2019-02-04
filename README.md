@@ -335,6 +335,10 @@
 - [Fertl, Abnormal formation pressures](https://play.google.com/books/reader?id=dVNjyNRWfzUC&pg=GBS.PP1)
 - [Fertl, Studies in abnormal pressures](https://play.google.com/books/reader?id=ph4zd6DeF0YC&pg=GBS.PP1)
 - [Holdaway, Enhance Oil and Gas Exploration with Data-Driven Geophysical and Petrophysical Models](https://read.amazon.ca/)
+- [Holdaway, Harness Oil and Gas Big Data with Analytics. Optimize Exploration and Production with Data-Driven Models](https://read.amazon.ca/)
+- [Pilant, Elastic Waves in the Earth](https://play.google.com/books/reader?id=MbYO_yuUhbYC&pg=GBS.PP1)
+- [Sahimi, Heterogeneous Materials I. Linear Transport and Optical Properties](https://play.google.com/books/reader?id=Ex8RBwAAQBAJ&pg=GBS.PP1)
+- [Trefil, A Scientist at the Seashore](https://play.google.com/books/reader?id=wzTDAgAAQBAJ&pg=GBS.PP1)
 
 ### 14.2 Calculators ###
 
