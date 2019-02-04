@@ -326,8 +326,17 @@
 ## 14. Subjects - [Earth Sciences](https://ingehap.github.io/MyStart_Subjects_ES.html) ##
 
 - [Agile Libre](https://www.agilelibre.com/)
+- [Effective medium approximations; Wikipedia](https://en.wikipedia.org/wiki/Effective_medium_approximations)
 - [SEG Digital Library](https://library.seg.org/)
 
+### 14.1 Books ###
+
+- [Dandekar, Petroleum Reservoir Rock and Fluid Properties](https://play.google.com/books/reader?id=tgTSBQAAQBAJ&pg=GBS.PP1)
+- [Fertl, Abnormal formation pressures](https://play.google.com/books/reader?id=dVNjyNRWfzUC&pg=GBS.PP1)
+- [Fertl, Studies in abnormal pressures](https://play.google.com/books/reader?id=ph4zd6DeF0YC&pg=GBS.PP1)
+- [Holdaway, Enhance Oil and Gas Exploration with Data-Driven Geophysical and Petrophysical Models](https://read.amazon.ca/)
+
+### 14.2 Calculators ###
 
 ---------------------------------------------------------------------------------------------
 ## 15. Subjects - [Mathematics](https://ingehap.github.io/MyStart_Subjects_MA.html) ##
