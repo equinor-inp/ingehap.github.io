@@ -358,6 +358,10 @@
 ---------------------------------------------------------------------------------------------
 ## 15. Subjects - [Mathematics](https://ingehap.github.io/MyStart_Subjects_MA.html) ##
 
+- [UMN, School of Mathematics](https://math.umn.edu/)
+  + [Data Science Seminars](https://www.ima.umn.edu/seminar/dsseminar)
+  + [DTC](http://www.dtc.umn.edu/seminars/online.php)
+  + [Mathematics of Climate Seminars](http://www-users.math.umn.edu/~mcgehee/Seminars/ClimateChange/schedule/seminar_archives.html)
 - [SIAM Bookstore](http://bookstore.siam.org/)
 
 
