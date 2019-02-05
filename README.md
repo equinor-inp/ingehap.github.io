@@ -356,13 +356,41 @@
 
 
 ---------------------------------------------------------------------------------------------
-## 15. Subjects - [Mathematics](https://ingehap.github.io/MyStart_Subjects_MA.html) ##
+## 15. Subjects - Mathematics ##
 
+### 15.1 Books ###
+
+- [Abramowitz, Handbook of Mathematical Functions, with Formulas, Graphs, and Mathematical Tables](https://play.google.com/books/reader?id=KiPCAgAAQBAJ&pg=GBS.PP1)
+- [Higham, The Princeton Companion to Applied Mathematics](https://play.google.com/books/reader?id=MvI8CgAAQBAJ&pg=GBS.PP1)
+- [Kanwal, Linear Integral Equations, Theory and Technique](https://play.google.com/books/reader?id=4s4RUWOM3XgC&pg=GBS.PP1)
+- [Kress, Linear Integral Equations, 2nd ed](https://play.google.com/books/reader?id=j53eBwAAQBAJ&pg=GBS.PR1)
+- [Melnikov, Green's Functions. Potential Fields on Surfaces](https://play.google.com/books/reader?id=HrvQDgAAQBAJ&pg=GBS.PR1)
+- [Stillwell, Mathematics and Its History](https://play.google.com/books/reader?id=3bE_AAAAQBAJ&pg=GBS.PP1)
+- [Tao, Solving Mathematical Problems, A Personal Perspective](https://play.google.com/books/reader?id=ZBTJWhXD05MC&pg=GBS.PP1)
+- [Watanabe, Integral Transform Techniques for Green's Function, 2nd ed](https://play.google.com/books/reader?id=fJ1wCAAAQBAJ&pg=GBS.PP1)
+
+### 15.3 Other ###
+
+- [Amazon Kindle (Reader)](https://read.amazon.ca/)
+- [Archives Grothendieck](https://grothendieck.umontpellier.fr/archives-grothendieck/)
+- [Google Play Books](https://play.google.com/books)
+- [Jim Crutchfield - Chaos](http://csc.ucdavis.edu/~chaos/index.html)
+- [John Baez - Fun Stuff](http://www.math.ucr.edu/home/baez/FUN.html)
+- [John Baez on the number 24](https://www.youtube.com/watch?v=vzjbRhYjELo")
+- [liveBooks Manning](https://livebook.manning.com/#!//library)
+- [MBI Videos](https://mbi.osu.edu/video)
+- [Mir titles](https://archive.org/details/@mirtitles)
+- [One Mathematical Cat](http://www.onemathematicalcat.org/)
+- [Principle of maximum entropy; Wikipedia](https://en.wikipedia.org/wiki/Principle_of_maximum_entropy)
+- [Project Euclid](https://projecteuclid.org/)
+- [Quanta Magazine](https://www.quantamagazine.org/)
+- [SIAM Bookstore](http://bookstore.siam.org/)
 - [UMN, School of Mathematics](https://math.umn.edu/)
   + [Data Science Seminars](https://www.ima.umn.edu/seminar/dsseminar)
   + [DTC](http://www.dtc.umn.edu/seminars/online.php)
+  + [IMA Video Library](https://www.ima.umn.edu/videos)
   + [Mathematics of Climate Seminars](http://www-users.math.umn.edu/~mcgehee/Seminars/ClimateChange/schedule/seminar_archives.html)
-- [SIAM Bookstore](http://bookstore.siam.org/)
+
 
 
 ---------------------------------------------------------------------------------------------
