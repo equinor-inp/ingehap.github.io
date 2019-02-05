@@ -342,6 +342,18 @@
 
 ### 14.2 Calculators ###
 
+### 14.3 Constants ###
+
+| System               | Density (g/cc) | K (GPa)       | G (GPa)       | Molar mass (g/mol)         |
+| ---------------------|:--------------:|:-------------:|:-------------:|:--------------------------:|
+| air (15 degC, 1 atm) | 0.001225       |               |               | 28.9647                    |
+| anhydrite            | 2.98           |               |               |                            |
+| basalt               | 2.88           |               |               |                            |
+| dolomite             | 2.87           |               |               |                            |
+| limestone            | 2.71           |               |               |                            |
+| quartz               | 2.65           |               |               |                            |
+
+
 ---------------------------------------------------------------------------------------------
 ## 15. Subjects - [Mathematics](https://ingehap.github.io/MyStart_Subjects_MA.html) ##
 
