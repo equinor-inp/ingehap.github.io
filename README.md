@@ -345,7 +345,7 @@
 ### 14.3 Constants ###
 
 | System               | Density (g/cc) | K (GPa) | G (GPa) | Molar mass (g/mol) | GC relation (km/s)      |
-| ---------------------|:--------------:|:-------:|:-------:|:------------------:|:-----------------------:|
+|:--------------------:|:--------------:|:-------:|:-------:|:------------------:|:-----------------------:|
 | air (15 degC, 1 atm) | 0.001225       |         |         | 28.9647            |                         |
 | anhydrite            | 2.96           |  56.1   |  29.1   |                    |                         |
 | basalt               | 2.88           |  51.0   |         |                    | VS = 0.5498*VP + 0.1626 |
@@ -354,7 +354,32 @@
 | quartz               | 2.65           |  36.0   |  41.0   |                    |                         |
 | shale                | 2.65           |  30.0   |  10.0   |                    |                         |
 
-### 14.4 Unit conversion ###
+### 14.4 Courses ###
+
+- [Signal processing for geologists and geophysicists](https://books.ifpenergiesnouvelles.fr/ebooks/signal-processing/)
+
+### 14.5 Formulas ###
+
+| Name                   | Formula                                            | Calculator |
+|:----------------------:|:--------------------------------------------------:|:----------:|
+| Arp's formula          | Rw1 * (T1 + 21.5) = Rw2 * (T2 + 21.5)              |            |
+| Temperature conversion | degC = (degF - 32) * 5 / 9                         |            |
+| Western Atlas          | Rw(75 degF) = 0.0123 + 3647.5 * SALINITY**(-0.955) |            |
+
+### 14.6 Unit conversion ###
+
+| Unit 1               | Unit 2             |
+|:--------------------:|:------------------:|
+| 1 atm                | 1.01325 bar        |
+| 75 degF              | 23 8/9 degC        |
+| 1 degF / 100 ft      | 0.059055 degC / m  |
+| 1 ft                 | 0.3048 m           |
+| 1 MPa                | 10 bar             |
+| 1 NaCl equi [mg/l]   | 1.6479 * Cl[mg/l]  |
+| 1 ppg                | 0.119826427 g/cc   |
+| 1 psi                | 0.06894757 bar     |
+| 1 psi / ft           | 0.2262059 bar / m  |
+| 1 Sm3 / Sm3          | 5.614583 scf / bbl |
 
 ---------------------------------------------------------------------------------------------
 ## 15. Subjects - Mathematics ##
