@@ -325,10 +325,6 @@
 ---------------------------------------------------------------------------------------------
 ## 14. Subjects - [Earth Sciences](https://ingehap.github.io/MyStart_Subjects_ES.html) ##
 
-- [Agile Libre](https://www.agilelibre.com/)
-- [Effective medium approximations; Wikipedia](https://en.wikipedia.org/wiki/Effective_medium_approximations)
-- [SEG Digital Library](https://library.seg.org/)
-
 ### 14.1 Books ###
 
 - [Dandekar, Petroleum Reservoir Rock and Fluid Properties](https://play.google.com/books/reader?id=tgTSBQAAQBAJ&pg=GBS.PP1)
@@ -380,6 +376,22 @@
 | 1 psi                | 0.06894757 bar     |
 | 1 psi / ft           | 0.2262059 bar / m  |
 | 1 Sm3 / Sm3          | 5.614583 scf / bbl |
+
+### 14.7 Other ###
+
+- [Agile Libre](https://www.agilelibre.com/)
+- [Amazon Kindle reader](https://read.amazon.ca/)
+- [EAGE Play list](https://www.youtube.com/channel/UC-OVFor4pRDBLFDwLW4C6UQ)
+- [Editions Technip](http://www.editionstechnip.com/en.html)
+- [Effective medium approximations; Wikipedia](https://en.wikipedia.org/wiki/Effective_medium_approximations)
+- [Exploration Geophysics](https://library.seg.org/loi/exgeef)
+- [Force Seminars](https://www.youtube.com/playlist?list=PLQRq8gtBBwegwPkyp4oPFcHcfowtc2lCV)
+- [Geophysics](https://library.seg.org/loi/gpysa7)
+- [Google Play](https://play.google.com/books)
+- [IARP](http://www.rockphysicists.org/)
+- [IFP Energies nouvelles e-books](https://books.ifpenergiesnouvelles.fr/ebooks/home/index.htm)
+- [Materials and Textbooks](http://www.rockphysicists.org/textbooks)
+- [SEG Digital Library](https://library.seg.org/)
 
 ---------------------------------------------------------------------------------------------
 ## 15. Subjects - Mathematics ##
