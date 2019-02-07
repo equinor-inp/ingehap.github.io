@@ -461,6 +461,36 @@
 ---------------------------------------------------------------------------------------------
 ## 16. Subjects - [Physics](https://ingehap.github.io/MyStart_Subjects_PHY.html) ##
 
+### 16.1 Books ###
+
+- [Bland, The Theory of Linear Viscoelasticity][11000]
+- [Carcione, Wave Fields in Real Media][11001]
+- [Gould, Introduction to Linear Elasticity][11002]
+- [McCain, Petroleum Reservoir Fluid Property Correlations][11003]
+- [McCain, The Properties of Petroleum Fluids][11004]
+- [Trefil, Introduction to the Physics of Fluids and Solids][11005]
+
+Current book: [Bookmark](https://play.google.com/books/reader?id=HVVDAAAAQBAJ&pg=GBS.PA1)
+
+### 16.2 Web ###
+
+- [Amazon Kindle](https://read.amazon.ca/)
+- [CERN Document Server](http://cdsweb.cern.ch/)
+- [Google Play](https://play.google.com/books)
+- [Kvant](http://www.kvant.dk/)
+- [liveBooks Manning](https://livebook.manning.com/#!//library)
+- [Mir titles](https://archive.org/details/@mirtitles)
+- [Physics Teacher](https://aapt.scitation.org/journal/pte)
+- [Principle of least action; Wikipedia](https://en.wikipedia.org/wiki/Principle_of_least_action)
+- [Quanta Magazine](https://www.quantamagazine.org/)
+
+[//]: # (Collection of links 11000 - 12000)
+[11000]: https://play.google.com/books/reader?id=tgTSBQAAQBAJ&pg=GBS.PP1
+[11001]: https://play.google.com/books/reader?id=yR4tBAAAQBAJ&pg=GBS.PP1
+[11002]: https://play.google.com/books/reader?id=HVVDAAAAQBAJ&pg=GBS.PP1
+[11003]: https://play.google.com/books/reader?id=6jeHfTQlEtIC&pg=GBS.PR1
+[11004]: https://play.google.com/books/reader?id=7MQQ2F-akSoC&hl=no&pg=GBS.PP1
+[11005]: https://play.google.com/books/reader?id=yF2q8QblBnYC&pg=GBS.PR1
 
 ---------------------------------------------------------------------------------------------
 ## 17. Other ##
