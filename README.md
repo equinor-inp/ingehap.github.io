@@ -323,7 +323,7 @@
   
 
 ---------------------------------------------------------------------------------------------
-## 14. Subjects - [Earth Sciences](https://ingehap.github.io/MyStart_Subjects_ES.html) ##
+## 14. Subjects - Earth Sciences ##
 
 ### 14.1 Books ###
 
@@ -356,11 +356,11 @@
 
 ### 14.5 Formulas ###
 
-| Name                   | Formula                                            | Calculator |
-|:----------------------:|:--------------------------------------------------:|:----------:|
-| Arp's formula          | Rw1 * (T1 + 21.5) = Rw2 * (T2 + 21.5)              |            |
-| Temperature conversion | degC = (degF - 32) * 5 / 9                         |            |
-| Western Atlas          | Rw(75 degF) = 0.0123 + 3647.5 * SALINITY**(-0.955) |            |
+| Name                   | Formula                                            | Calculator    |
+|:----------------------:|:--------------------------------------------------:|:-------------:|
+| Arp's formula          | Rw1 * (T1 + 21.5) = Rw2 * (T2 + 21.5)              |               |
+| Temperature conversion | degC = (degF - 32) * 5 / 9                         | [Calc][10000] |
+| Western Atlas          | Rw(75 degF) = 0.0123 + 3647.5 * SALINITY**(-0.955) |               |
 
 ### 14.6 Unit conversion ###
 
@@ -416,6 +416,9 @@
 - [SPWLA](https://www.spwla.org)
 - [UTAPWeLS](https://www.youtube.com/channel/UCHWnztyGyQPEXXbp2Tu0_DA/videos?disable_polymer=1)
 - [Volve Data Village](https://data.equinor.com/dataset/Volve)
+
+[//]: # (Collection of links 10000 - 11000)
+[10000]: https://github.com/Microsoft/cntk
 
 ---------------------------------------------------------------------------------------------
 ## 15. Subjects - Mathematics ##
