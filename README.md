@@ -418,7 +418,7 @@
 - [Volve Data Village](https://data.equinor.com/dataset/Volve)
 
 [//]: # (Collection of links 10000 - 11000)
-[10000]: https://github.com/Microsoft/cntk
+[10000]: https://ingehap.github.io/GSCalculators.html
 
 ---------------------------------------------------------------------------------------------
 ## 15. Subjects - Mathematics ##
