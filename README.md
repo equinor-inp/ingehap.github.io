@@ -327,14 +327,19 @@
 
 ### 14.1 Books ###
 
+- [Cubitt, Geophysics for Petroleum Engineers](https://play.google.com/books/reader?id=JaLkZj47-2sC&pg=GBS.PP1)
 - [Dandekar, Petroleum Reservoir Rock and Fluid Properties](https://play.google.com/books/reader?id=tgTSBQAAQBAJ&pg=GBS.PP1)
 - [Fertl, Abnormal formation pressures](https://play.google.com/books/reader?id=dVNjyNRWfzUC&pg=GBS.PP1)
 - [Fertl, Studies in abnormal pressures](https://play.google.com/books/reader?id=ph4zd6DeF0YC&pg=GBS.PP1)
+- [Fjær, Petroleum Related Rock Mechanics, 2nd ed](https://play.google.com/books/reader?id=l6CfasFxhzYC)
 - [Holdaway, Enhance Oil and Gas Exploration with Data-Driven Geophysical and Petrophysical Models](https://read.amazon.ca/)
 - [Holdaway, Harness Oil and Gas Big Data with Analytics. Optimize Exploration and Production with Data-Driven Models](https://read.amazon.ca/)
+- [Kennedy, Practical Petrophysics](https://play.google.com/books/reader?id=iCEtBAAAQBAJ&pg=GBS.PP1)
+- [Officer, Introduction to Theoretical Geophysics](https://play.google.com/books/reader?id=QRzsCAAAQBAJ&pg=GBS.PR1)
 - [Pilant, Elastic Waves in the Earth](https://play.google.com/books/reader?id=MbYO_yuUhbYC&pg=GBS.PP1)
 - [Sahimi, Heterogeneous Materials I. Linear Transport and Optical Properties](https://play.google.com/books/reader?id=Ex8RBwAAQBAJ&pg=GBS.PP1)
 - [Trefil, A Scientist at the Seashore](https://play.google.com/books/reader?id=wzTDAgAAQBAJ&pg=GBS.PP1)
+- [Yang, Fundamentals of Petrophysics](https://play.google.com/books/reader?id=81Z7DQAAQBAJ&pg=GBS.PP1)
 
 ### 14.2 Calculators ###
 
@@ -426,6 +431,7 @@
 ### 15.1 Books ###
 
 - [Abramowitz, Handbook of Mathematical Functions, with Formulas, Graphs, and Mathematical Tables](https://play.google.com/books/reader?id=KiPCAgAAQBAJ&pg=GBS.PP1)
+- [Copley, Mathematics for the Physical Sciences](https://play.google.com/store/books/details/Leslie_Copley_Mathematics_for_the_Physical_Science?id=Zp8oCQAAQBAJ)
 - [Higham, The Princeton Companion to Applied Mathematics](https://play.google.com/books/reader?id=MvI8CgAAQBAJ&pg=GBS.PP1)
 - [Kanwal, Linear Integral Equations, Theory and Technique](https://play.google.com/books/reader?id=4s4RUWOM3XgC&pg=GBS.PP1)
 - [Kress, Linear Integral Equations, 2nd ed](https://play.google.com/books/reader?id=j53eBwAAQBAJ&pg=GBS.PR1)
@@ -468,6 +474,7 @@
 - [Gould, Introduction to Linear Elasticity][11002]
 - [McCain, Petroleum Reservoir Fluid Property Correlations][11003]
 - [McCain, The Properties of Petroleum Fluids][11004]
+- [Nedelec, Acoustic and Electromagnetic Equations](https://play.google.com/books/reader?id=uvXiBwAAQBAJ&pg=GBS.PP1)
 - [Trefil, Introduction to the Physics of Fluids and Solids][11005]
 
 Current book: [Bookmark](https://play.google.com/books/reader?id=HVVDAAAAQBAJ&pg=GBS.PA1)
