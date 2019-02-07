@@ -459,7 +459,7 @@
 
 
 ---------------------------------------------------------------------------------------------
-## 16. Subjects - [Physics](https://ingehap.github.io/MyStart_Subjects_PHY.html) ##
+## 16. Subjects - Physics ##
 
 ### 16.1 Books ###
 
