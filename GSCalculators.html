@@ -125,7 +125,7 @@ function calc5() {
   var m = Number(document.getElementById("in54").value);  
   var temp0 = Number(23.0 + 8.0 / 9.0);
   var fm_res0 = +fm_res * (21.5 + +temp) / (21.5 + +temp0);
-  var sal = Math.pow((+water_res0 * Math.pow(por, m) - 0.0123) / 3647.5, -1.0/0.955);
+  var sal = Math.pow((+fm_res0 * Math.pow(por, m) - 0.0123) / 3647.5, -1.0/0.955);
   document.getElementById("out51").value = sal;
 }
     
