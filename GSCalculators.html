@@ -55,7 +55,15 @@ table, th, td {
 <p><input id="in12" onkeyup="calc1()"> ohmm</p>
 <p><input id="out11" onkeyup="calc1()"> ppm salinity</p> 
 
-<p><h2>C05. Water resistivity from temperature and salinity:</h2></p>
+<p><h2>C05. Salinity from temperature, formation resistivity, porosity, and cementation exponent in water zone assuming Archie:</h2></p>
+
+<p><input id="in51" onkeyup="calc5()"> degrees Celsius</p>
+<p><input id="in52" onkeyup="calc5()"> ohmm</p>
+<p><input id="in53" onkeyup="calc5()"> v/v</p>
+<p><input id="in54" onkeyup="calc5()"> - </p>
+<p><input id="out51" onkeyup="calc5()"> ppm salinity</p> 
+
+<p><h2>C06. Water resistivity from temperature and salinity:</h2></p>
 
 <p><input id="in21" onkeyup="calc2()"> degrees Celsius</p>
 <p><input id="in22" onkeyup="calc2()"> ppm salinity</p>
@@ -105,6 +113,18 @@ function calc4() {
   var correction = Number(18.0);
   document.getElementById("out41").value = +bht + +correction;
 }
+    
+function calc5() {
+  var temp = Number(document.getElementById("in51").value);
+  var fm_res = Number(document.getElementById("in52").value);
+  var por = Number(document.getElementById("in53").value);
+  var m = Number(document.getElementById("in54").value);  
+  var temp0 = Number(23.0 + 8.0 / 9.0);
+  var fm_res0 = +fm_res * (21.5 + +temp) / (21.5 + +temp0);
+  var sal = Math.pow((+water_res0 * Math.pow(por, m) - 0.0123) / 3647.5, -1.0/0.955);
+  document.getElementById("out51").value = sal;
+}
+    
 </script>
 
 </body>
