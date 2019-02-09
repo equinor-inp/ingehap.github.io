@@ -304,19 +304,18 @@
   + [GitHub - boostcon](https://github.com/boostcon)
   + [GitHub - CodeRefinery](https://github.com/CodeRefinery)
   + [GitHub - Computers & Geosciences](https://github.com/cageo)
+  + [GitHub - Cory Simon](https://github.com/CorySimon)
+  + [GitHub - Dark Energy Survey Supernova Working Group](https://github.com/dessn)
+  + [GitHub - Dark Energy Survey](https://github.com/DarkEnergySurvey)
+  + [GitHub - geophysical_notes](https://github.com/aadm/geophysical_notes)
+  + [GitHub - ingehap](https://github.com/ingehap)
+  + [GitHub - Jake Vanderplas](https://github.com/jakevdp)
+  + [GitHub - jukkatb/petro](https://github.com/jukkatb/petro)
+  + [GitHub - Kepler-K2 Guest Observer Office](https://github.com/KeplerGO)
+  + [GitHub - nesteruk - ModernCpp](https://github.com/nesteruk/ModernCpp)
+  + [GitHub - PacktPublishing](https://github.com/PacktPublishing)
+  + [GitHub - PacktPublishing - Artificial-Intelligence-with-Python](https://github.com/PacktPublishing/Artificial-Intelligence-with-Python)
 
-	<td><a href="https://github.com/CorySimon">GitHub - Cory Simon</a></td>
-	<td><a href="https://github.com/dessn">GitHub - Dark Energy Survey Supernova Working Group</a></td>
-	<td><a href="https://github.com/DarkEnergySurvey">GitHub - Dark Energy Survey</a></td>
-	<td><a href="https://github.com/aadm/geophysical_notes">GitHub - geophysical_notes</a></td>
-	<td><a href="https://github.com/ingehap">GitHub - ingehap</a></td>
-	<td><a href="https://github.com/jakevdp">GitHub - Jake Vanderplas</a></td>
-	<td><a href="https://github.com/jukkatb/petro">GitHub - jukkatb/petro</a></td>
-	<td><a href="https://github.com/jukkatb/petro">GitHub - jukkatb/petrodata-pipeline</a></td>
-	<td><a href="https://github.com/KeplerGO">GitHub - Kepler-K2 Guest Observer Office</a></td>
-	<td><a href="https://github.com/nesteruk/ModernCpp">GitHub - nesteruk - ModernCpp</a></td>
-	<td><a href="https://github.com/PacktPublishing">GitHub - PacktPublishing</a></td>
-	<td><a href="https://github.com/PacktPublishing/Artificial-Intelligence-with-Python">GitHub - PacktPublishing - Artificial-Intelligence-with-Python</a></td>
 	<td><a href="https://github.com/PacktPublishing/Python-Real-World-Machine-Learning">GitHub - PacktPublishing - Python-Real-World-Machine-Learning</a></td>
 	<td><a href="https://github.com/PacktPublishing/Python-Machine-Learning-Second-Edition">GitHub - PacktPublishing - Python Machine Learning, Second Edition</a></td>
 	<td><a href="https://github.com/paulross/TotalDepth">GitHub - Paul Ross TotalDepth</a></td>
