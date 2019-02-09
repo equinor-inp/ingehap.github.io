@@ -299,32 +299,31 @@
 - [Data36](https://data36.com/)
 - [EliteDataScience](https://elitedatascience.com)
 - [GitHub](https://github.com/)
-  + [GitHub - ActiveState - Code](https://github.com/ActiveState/code)
-  + [GitHub - Alessandro Amato del Monte](https://github.com/aadm)
-  + [GitHub - boostcon](https://github.com/boostcon)
-  + [GitHub - CodeRefinery](https://github.com/CodeRefinery)
-  + [GitHub - Computers & Geosciences](https://github.com/cageo)
-  + [GitHub - Cory Simon](https://github.com/CorySimon)
-  + [GitHub - Dark Energy Survey Supernova Working Group](https://github.com/dessn)
-  + [GitHub - Dark Energy Survey](https://github.com/DarkEnergySurvey)
-  + [GitHub - geophysical_notes](https://github.com/aadm/geophysical_notes)
-  + [GitHub - ingehap](https://github.com/ingehap)
-  + [GitHub - Jake Vanderplas](https://github.com/jakevdp)
-  + [GitHub - jukkatb/petro](https://github.com/jukkatb/petro)
-  + [GitHub - Kepler-K2 Guest Observer Office](https://github.com/KeplerGO)
-  + [GitHub - nesteruk - ModernCpp](https://github.com/nesteruk/ModernCpp)
-  + [GitHub - PacktPublishing](https://github.com/PacktPublishing)
-  + [GitHub - PacktPublishing - Artificial-Intelligence-with-Python](https://github.com/PacktPublishing/Artificial-Intelligence-with-Python)
-
-	<td><a href="https://github.com/PacktPublishing/Python-Real-World-Machine-Learning">GitHub - PacktPublishing - Python-Real-World-Machine-Learning</a></td>
-	<td><a href="https://github.com/PacktPublishing/Python-Machine-Learning-Second-Edition">GitHub - PacktPublishing - Python Machine Learning, Second Edition</a></td>
-	<td><a href="https://github.com/paulross/TotalDepth">GitHub - Paul Ross TotalDepth</a></td>
-	<td><a href="https://github.com/pmelchior/">GitHub - Peter Melchior</a></td>
-	<td><a href="https://github.com/pytorch">GitHub - pytorch</a></td>
-	<td><a href="https://github.com/ResidentMario/missingno">GitHub - ResidentMario - missingno</a></td>
-	<td><a href="https://help.github.com/articles/connecting-to-github-with-ssh/">GitHub - SSH</a></td>
-	<td><a href="https://github.com/Statoil/libres">GitHub - Statoil, libres</a></td>
-	<td><a href="https://github.com/taki0112/Tensorflow-DatasetAPI">GitHub - taki0112, Tensorflow-DatasetAPI</a></td>
+  + [ActiveState - Code](https://github.com/ActiveState/code)
+  + [Alessandro Amato del Monte](https://github.com/aadm)
+  + [boostcon](https://github.com/boostcon)
+  + [CodeRefinery](https://github.com/CodeRefinery)
+  + [Computers & Geosciences](https://github.com/cageo)
+  + [Cory Simon](https://github.com/CorySimon)
+  + [Dark Energy Survey Supernova Working Group](https://github.com/dessn)
+  + [Dark Energy Survey](https://github.com/DarkEnergySurvey)
+  + [geophysical_notes](https://github.com/aadm/geophysical_notes)
+  + [ingehap](https://github.com/ingehap)
+  + [Jake Vanderplas](https://github.com/jakevdp)
+  + [jukkatb/petro](https://github.com/jukkatb/petro)
+  + [Kepler-K2 Guest Observer Office](https://github.com/KeplerGO)
+  + [nesteruk - ModernCpp](https://github.com/nesteruk/ModernCpp)
+  + [PacktPublishing](https://github.com/PacktPublishing)
+  + [PacktPublishing - Artificial-Intelligence-with-Python](https://github.com/PacktPublishing/Artificial-Intelligence-with-Python)
+  + [PacktPublishing - Python-Real-World-Machine-Learning](https://github.com/PacktPublishing/Python-Real-World-Machine-Learning)
+  + [PacktPublishing - Python Machine Learning, 2nd ed](https://github.com/PacktPublishing/Python-Machine-Learning-Second-Edition)
+  + [Paul Ross TotalDepth](https://github.com/paulross/TotalDepth)
+  + [Peter Melchior](https://github.com/pmelchior/)
+  + [pytorch](https://github.com/pytorch)
+  + [ResidentMario - missingno](https://github.com/ResidentMario/missingno)
+  + [SSH](https://help.github.com/articles/connecting-to-github-with-ssh/)
+  + [Statoil, libres](https://github.com/Statoil/libres)
+  + [taki0112, Tensorflow-DatasetAPI](https://github.com/taki0112/Tensorflow-DatasetAPI)
 - [Reddit](https://www.reddit.com)
   + [Data Science](https://www.reddit.com/r/datascience/)
   + [Machine Learning](https://www.reddit.com/r/MachineLearning/)
