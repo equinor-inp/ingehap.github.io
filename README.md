@@ -298,13 +298,13 @@
   + [Analytics Vidhya - Training](https://trainings.analyticsvidhya.com/)
 - [Data36](https://data36.com/)
 - [EliteDataScience](https://elitedatascience.com)
-- [GitHub]()
-	<td><a href="https://github.com/ActiveState/code">GitHub - ActiveState - Code</a></td>
-	<td><a href="https://github.com/aadm">GitHub - Alessandro Amato del Monte</a></td>
-	<td><a href="https://github.com/aadm">GitHub - bokeh</a></td>
-	<td><a href="https://github.com/boostcon">GitHub - boostcon</a></td>
-	<td><a href="https://github.com/CodeRefinery">GitHub - CodeRefinery</a></td>
-	<td><a href="https://github.com/cageo">GitHub - Computers & Geosciences</a></td>
+- [GitHub](https://github.com/)
+  + [GitHub - ActiveState - Code](https://github.com/ActiveState/code)
+  + [GitHub - Alessandro Amato del Monte](https://github.com/aadm)
+  + [GitHub - boostcon](https://github.com/boostcon)
+  + [GitHub - CodeRefinery](https://github.com/CodeRefinery)
+  + [GitHub - Computers & Geosciences](https://github.com/cageo)
+
 	<td><a href="https://github.com/CorySimon">GitHub - Cory Simon</a></td>
 	<td><a href="https://github.com/dessn">GitHub - Dark Energy Survey Supernova Working Group</a></td>
 	<td><a href="https://github.com/DarkEnergySurvey">GitHub - Dark Energy Survey</a></td>
