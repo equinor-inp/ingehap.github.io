@@ -298,6 +298,34 @@
   + [Analytics Vidhya - Training](https://trainings.analyticsvidhya.com/)
 - [Data36](https://data36.com/)
 - [EliteDataScience](https://elitedatascience.com)
+- [GitHub]()
+	<td><a href="https://github.com/ActiveState/code">GitHub - ActiveState - Code</a></td>
+	<td><a href="https://github.com/aadm">GitHub - Alessandro Amato del Monte</a></td>
+	<td><a href="https://github.com/aadm">GitHub - bokeh</a></td>
+	<td><a href="https://github.com/boostcon">GitHub - boostcon</a></td>
+	<td><a href="https://github.com/CodeRefinery">GitHub - CodeRefinery</a></td>
+	<td><a href="https://github.com/cageo">GitHub - Computers & Geosciences</a></td>
+	<td><a href="https://github.com/CorySimon">GitHub - Cory Simon</a></td>
+	<td><a href="https://github.com/dessn">GitHub - Dark Energy Survey Supernova Working Group</a></td>
+	<td><a href="https://github.com/DarkEnergySurvey">GitHub - Dark Energy Survey</a></td>
+	<td><a href="https://github.com/aadm/geophysical_notes">GitHub - geophysical_notes</a></td>
+	<td><a href="https://github.com/ingehap">GitHub - ingehap</a></td>
+	<td><a href="https://github.com/jakevdp">GitHub - Jake Vanderplas</a></td>
+	<td><a href="https://github.com/jukkatb/petro">GitHub - jukkatb/petro</a></td>
+	<td><a href="https://github.com/jukkatb/petro">GitHub - jukkatb/petrodata-pipeline</a></td>
+	<td><a href="https://github.com/KeplerGO">GitHub - Kepler-K2 Guest Observer Office</a></td>
+	<td><a href="https://github.com/nesteruk/ModernCpp">GitHub - nesteruk - ModernCpp</a></td>
+	<td><a href="https://github.com/PacktPublishing">GitHub - PacktPublishing</a></td>
+	<td><a href="https://github.com/PacktPublishing/Artificial-Intelligence-with-Python">GitHub - PacktPublishing - Artificial-Intelligence-with-Python</a></td>
+	<td><a href="https://github.com/PacktPublishing/Python-Real-World-Machine-Learning">GitHub - PacktPublishing - Python-Real-World-Machine-Learning</a></td>
+	<td><a href="https://github.com/PacktPublishing/Python-Machine-Learning-Second-Edition">GitHub - PacktPublishing - Python Machine Learning, Second Edition</a></td>
+	<td><a href="https://github.com/paulross/TotalDepth">GitHub - Paul Ross TotalDepth</a></td>
+	<td><a href="https://github.com/pmelchior/">GitHub - Peter Melchior</a></td>
+	<td><a href="https://github.com/pytorch">GitHub - pytorch</a></td>
+	<td><a href="https://github.com/ResidentMario/missingno">GitHub - ResidentMario - missingno</a></td>
+	<td><a href="https://help.github.com/articles/connecting-to-github-with-ssh/">GitHub - SSH</a></td>
+	<td><a href="https://github.com/Statoil/libres">GitHub - Statoil, libres</a></td>
+	<td><a href="https://github.com/taki0112/Tensorflow-DatasetAPI">GitHub - taki0112, Tensorflow-DatasetAPI</a></td>
 - [Reddit](https://www.reddit.com)
   + [Data Science](https://www.reddit.com/r/datascience/)
   + [Machine Learning](https://www.reddit.com/r/MachineLearning/)
