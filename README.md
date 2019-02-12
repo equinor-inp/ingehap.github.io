@@ -5,16 +5,15 @@
 ## 0. Table of Contents ##
 
 - 1\. General resources
-- 2\. APIs
-- 3\. CIs
-- 4\. Competitions
-- 5\. Compilers
-- 6\. Data sets
-- 7\. Economy
-- 8\. Education
-- 9\. Libraries
-- 10\. Research
-- 11\. Subjects
+- 2\. CIs
+- 3\. Competitions
+- 4\. Compilers
+- 5\. Data sets
+- 6\. Economy
+- 7\. Education
+- 8\. Libraries
+- 9\. Research
+- 10\. Subjects - Ancient Near East
 - 12\. Other
 
 
@@ -45,9 +44,9 @@
 
 
 ---------------------------------------------------------------------------------------------
-## 3. CIs ##
+## 2. CIs ##
 
-### 3.1 Travis CI ###
+### 2.1 Travis CI ###
 
 - [CircleCI](https://circleci.com/)
   + [Configurations](https://circleci.com/docs/2.0/configuration-reference/)
@@ -81,7 +80,7 @@
 
 
 ---------------------------------------------------------------------------------------------
-## 4. Competitions ##
+## 3. Competitions ##
 
 - [Analytics Vidhya - Datahack][1501]
 - [Kaggle Competitions][1502]
@@ -92,7 +91,7 @@
 
 
 ---------------------------------------------------------------------------------------------
-## 5. Compilers ##
+## 4. Compilers ##
 
 - [Visual Studio Professional; Subscription ID = 5537d862-eb42-44c7-abb0-7fe73c5bf6b1][1701]
 
@@ -101,7 +100,7 @@
 
 
 ---------------------------------------------------------------------------------------------
-## 6. Data sets ##
+## 5. Data sets ##
 
 | Data set                  | Forum                      |
 | ------------------------- |:--------------------------:|
@@ -116,14 +115,14 @@
 
 
 ---------------------------------------------------------------------------------------------
-## 7. Economy ##
+## 6. Economy ##
 
-### 7.1 Economy - Banks ###
+### 6.1 Economy - Banks ###
 
 - [DnB][2501]
 - [Sbanken][2502]
 
-### 7.2 Economy - Investments ###
+### 6.2 Economy - Investments ###
 
 - [Aksjesparingsprogram, Equinor][2503]
 - [Investopedia][2504]
@@ -138,9 +137,9 @@
 
 
 ---------------------------------------------------------------------------------------------
-## 8. Education ##
+## 7. Education ##
 
-### 8.1 Education - General courses ###
+### 7.1 Education - General courses ###
 
 - [Aalto Scientific Computing][2009]
 - [Code Refinery][2008]
@@ -149,7 +148,7 @@
 - [Library Carpentry][2005]
 - [Software Carpentry][2004]
 
-### 8.2 Education - Special courses ###
+### 7.2 Education - Special courses ###
 
 | Location      | Course name                         |
 | ------------- |:-----------------------------------:|
@@ -170,9 +169,9 @@
 
 
 ---------------------------------------------------------------------------------------------
-## 9. Libraries ##
+## 8. Libraries ##
 
-### 9.1 Libraries - Python ###
+### 8.1 Libraries - Python ###
 
 | Library       | Code           | Installation  | Documentation | Forum                      |
 | ------------- |:--------------:|:-------------:|:-------------:|:--------------------------:|
@@ -195,23 +194,23 @@
 
 
 ---------------------------------------------------------------------------------------------
-## 10. Research ##
+## 9. Research ##
 
-### 10.1 Research - Communities ###
+### 9.1 Research - Communities ###
 
 - [Academia](https://www.academia.edu/)
   + [Academia - Grants](https://www.academia.edu/grants)
 - [ResearchGate, std](https://www.researchgate.net/profile/Inge_Pettersen)
 
-### 10.2 Research - Preprints ###
+### 9.2 Research - Preprints ###
 
 - [arXiv](https://arxiv.org/)
 
-### 10.3 Research - Reporting ###
+### 9.3 Research - Reporting ###
 
 - [BellingCat](https://www.bellingcat.com/)
 
-### 10.4 Research - Search Engines ###
+### 9.4 Research - Search Engines ###
 
 - [ACM Digital Library](https://dl.acm.org/dl.cfm)
 - [Internet Archive Search](https://archive.org/search.php)
@@ -226,7 +225,7 @@
 - [Wiki Search](https://ingehap.github.io/MyStart_SearchEngines_Wiki.html)
 - [Other](https://ingehap.github.io/MyStart_SearchEngines.html)
 
-### 10.5 Research - Tools ###
+### 9.5 Research - Tools ###
 
 - [Digipost](https://www.digipost.no/app/#/)
 - [Evernote Web](https://www.evernote.com/client/web#?an=true&n=fb19ba95-be6d-4b4b-98a0-a44f39c5fc08&s=s134&)
@@ -266,7 +265,7 @@
 
 
 ---------------------------------------------------------------------------------------------
-## 11. Subjects - Ancient Near East ##
+## 10. Subjects - Ancient Near East ##
 
 - [Ancient Hebrew](http://www.ancient-hebrew.org/)
 - [Ask Dr Brown (YouTube)](https://www.youtube.com/user/AskDrBrownVideos/playlists)
