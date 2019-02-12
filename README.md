@@ -324,6 +324,7 @@
   + [SSH](https://help.github.com/articles/connecting-to-github-with-ssh/)
   + [Statoil, libres](https://github.com/Statoil/libres)
   + [taki0112, Tensorflow-DatasetAPI](https://github.com/taki0112/Tensorflow-DatasetAPI)
+- [MMIX Home Page](http://mmix.cs.hm.edu/)
 - [Reddit](https://www.reddit.com)
   + [Data Science](https://www.reddit.com/r/datascience/)
   + [Machine Learning](https://www.reddit.com/r/MachineLearning/)
