@@ -14,7 +14,12 @@
 - 8\. Libraries
 - 9\. Research
 - 10\. Subjects - Ancient Near East
-- 12\. Other
+- 11\. Subjects - Biology
+- 12\. Subjects - Computer Science
+- 13\. Subjects - Earth Sciences
+- 14\. Subjects - Mathematics
+- 15\. Subjects - Physics
+- 16\. Other
 
 
 ---------------------------------------------------------------------------------------------
@@ -283,13 +288,13 @@ https://www.brighttalk.com/
 
 
 ---------------------------------------------------------------------------------------------
-## 12. Subjects - Biology ##
+## 11. Subjects - Biology ##
 
 - [Free Energy Principle; Wikipedia](https://en.wikipedia.org/wiki/Free_energy_principle)
 
 
 ---------------------------------------------------------------------------------------------
-## 13. Subjects - [Computer Science](https://ingehap.github.io/MyStart_Subjects_CS.html) ##
+## 12. Subjects - [Computer Science](https://ingehap.github.io/MyStart_Subjects_CS.html) ##
 
 - [Analytics Vidhya](https://www.analyticsvidhya.com/)
   + [Analytics Vidhya - Data Science](https://www.analyticsvidhya.com/blog/category/data-science/)
@@ -351,9 +356,9 @@ https://www.brighttalk.com/
   
 
 ---------------------------------------------------------------------------------------------
-## 14. Subjects - Earth Sciences ##
+## 13. Subjects - Earth Sciences ##
 
-### 14.1 Books ###
+### 13.1 Books ###
 
 - [Cubitt, Geophysics for Petroleum Engineers](https://play.google.com/books/reader?id=JaLkZj47-2sC&pg=GBS.PP1)
 - [Dandekar, Petroleum Reservoir Rock and Fluid Properties](https://play.google.com/books/reader?id=tgTSBQAAQBAJ&pg=GBS.PP1)
@@ -369,9 +374,9 @@ https://www.brighttalk.com/
 - [Trefil, A Scientist at the Seashore](https://play.google.com/books/reader?id=wzTDAgAAQBAJ&pg=GBS.PP1)
 - [Yang, Fundamentals of Petrophysics](https://play.google.com/books/reader?id=81Z7DQAAQBAJ&pg=GBS.PP1)
 
-### 14.2 Calculators ###
+### 13.2 Calculators ###
 
-### 14.3 Constants ###
+### 13.3 Constants ###
 
 | System               | Density (g/cc) | K (GPa) | G (GPa) | Molar mass (g/mol) | GC relation (km/s)      |
 |:--------------------:|:--------------:|:-------:|:-------:|:------------------:|:-----------------------:|
@@ -383,11 +388,11 @@ https://www.brighttalk.com/
 | quartz               | 2.65           |  36.0   |  41.0   |                    |                         |
 | shale                | 2.65           |  30.0   |  10.0   |                    |                         |
 
-### 14.4 Courses ###
+### 13.4 Courses ###
 
 - [Signal processing for geologists and geophysicists](https://books.ifpenergiesnouvelles.fr/ebooks/signal-processing/)
 
-### 14.5 Formulas ###
+### 13.5 Formulas ###
 
 | Name                   | Formula                                            | Calculator    |
 |:----------------------:|:--------------------------------------------------:|:-------------:|
@@ -395,7 +400,7 @@ https://www.brighttalk.com/
 | Temperature conversion | degC = (degF - 32) * 5 / 9                         | [Calc][10000] |
 | Western Atlas          | Rw(75 degF) = 0.0123 + 3647.5 * SALINITY**(-0.955) |               |
 
-### 14.6 Unit conversion ###
+### 13.6 Unit conversion ###
 
 | Unit 1               | Unit 2             |
 |:--------------------:|:------------------:|
@@ -410,7 +415,7 @@ https://www.brighttalk.com/
 | 1 psi / ft           | 0.2262059 bar / m  |
 | 1 Sm3 / Sm3          | 5.614583 scf / bbl |
 
-### 14.7 Other ###
+### 13.7 Other ###
 
 - [Agile Libre](https://www.agilelibre.com/)
 - [Amazon Kindle reader](https://read.amazon.ca/)
@@ -453,10 +458,11 @@ https://www.brighttalk.com/
 [//]: # (Collection of links 10000 - 11000)
 [10000]: https://ingehap.github.io/GSCalculators.html
 
----------------------------------------------------------------------------------------------
-## 15. Subjects - Mathematics ##
 
-### 15.1 Books ###
+---------------------------------------------------------------------------------------------
+## 14. Subjects - Mathematics ##
+
+### 14.1 Books ###
 
 - [Abramowitz, Handbook of Mathematical Functions, with Formulas, Graphs, and Mathematical Tables](https://play.google.com/books/reader?id=KiPCAgAAQBAJ&pg=GBS.PP1)
 - [Copley, Mathematics for the Physical Sciences](https://play.google.com/store/books/details/Leslie_Copley_Mathematics_for_the_Physical_Science?id=Zp8oCQAAQBAJ)
@@ -468,7 +474,7 @@ https://www.brighttalk.com/
 - [Tao, Solving Mathematical Problems, A Personal Perspective](https://play.google.com/books/reader?id=ZBTJWhXD05MC&pg=GBS.PP1)
 - [Watanabe, Integral Transform Techniques for Green's Function, 2nd ed](https://play.google.com/books/reader?id=fJ1wCAAAQBAJ&pg=GBS.PP1)
 
-### 15.3 Other ###
+### 14.2 Other ###
 
 - [Amazon Kindle (Reader)](https://read.amazon.ca/)
 - [Archives Grothendieck](https://grothendieck.umontpellier.fr/archives-grothendieck/)
@@ -491,11 +497,10 @@ https://www.brighttalk.com/
   + [Mathematics of Climate Seminars](http://www-users.math.umn.edu/~mcgehee/Seminars/ClimateChange/schedule/seminar_archives.html)
 
 
-
 ---------------------------------------------------------------------------------------------
-## 16. Subjects - Physics ##
+## 15. Subjects - Physics ##
 
-### 16.1 Books ###
+### 15.1 Books ###
 
 - [Bland, The Theory of Linear Viscoelasticity][11000]
 - [Carcione, Wave Fields in Real Media][11001]
@@ -507,7 +512,7 @@ https://www.brighttalk.com/
 
 Current book: [Bookmark](https://play.google.com/books/reader?id=HVVDAAAAQBAJ&pg=GBS.PA1)
 
-### 16.2 Web ###
+### 15.2 Web ###
 
 - [Amazon Kindle](https://read.amazon.ca/)
 - [CERN Document Server](http://cdsweb.cern.ch/)
@@ -527,10 +532,11 @@ Current book: [Bookmark](https://play.google.com/books/reader?id=HVVDAAAAQBAJ&pg
 [11004]: https://play.google.com/books/reader?id=7MQQ2F-akSoC&hl=no&pg=GBS.PP1
 [11005]: https://play.google.com/books/reader?id=yF2q8QblBnYC&pg=GBS.PR1
 
----------------------------------------------------------------------------------------------
-## 17. Other ##
 
-### 17.1 Other - A ###
+---------------------------------------------------------------------------------------------
+## 16. Other ##
+
+### 16.1 Other - A ###
 
 - [AAPG Wiki](https://wiki.aapg.org/Main_Page)
 - [ACCU](https://accu.org/)
@@ -540,12 +546,12 @@ Current book: [Bookmark](https://play.google.com/books/reader?id=HVVDAAAAQBAJ&pg
 - [Amazon](https://www.amazon.com)
   + [Amazon - Manage Your Content and Devices](https://www.amazon.com/mn/dcw/myx.html/ref=nav_youraccount_myk#/home/content/booksAll/dateDsc/)
 
-### 17.2 Other - C ###
+### 16.2 Other - C ###
 
 - [CoCalc](https://cocalc.com/)
 - [Codeburst](https://codeburst.io/)
 
-### 17.3 Other - D ###
+### 16.3 Other - D ###
 
 - [Data Science Central](https://www.datasciencecentral.com)
 - [DataCamp](https://www.datacamp.com)
@@ -554,28 +560,28 @@ Current book: [Bookmark](https://play.google.com/books/reader?id=HVVDAAAAQBAJ&pg
 - [Digital Academy](http://entry.statoil.no/HR/LearnStatoil/DigitalAcademy/pages/digitalacademy-learn.aspx)
 - [Distill](https://distill.pub/)
 
-### 17.5 Other - F ###
+### 16.4 Other - F ###
 
 - [Facebook](https://www.facebook.com/)
 - [freeCodeCamp](https://medium.freecodecamp.org/)
 
-### 17.7 Other - H ###
+### 16.5 Other - H ###
 
 - [HackerNoon](https://hackernoon.com/)
 
 
-### 17.8 Other - K ###
+### 16.6 Other - K ###
 
 - [Kaggle](https://www.kaggle.com/)
   + [Kaggle kernels](https://www.kaggle.com/kernels)
 - [KD Nuggets](https://www.kdnuggets.com/)
 
-### 17.12 Other - S ###
+### 16.7 Other - S ###
 
 - [Software Carpentry](https://software-carpentry.org/lessons/)
 - [Stochasticlifestyle](http://www.stochasticlifestyle.com/)
  
-### 17.15 Other - Y ###
+### 16.8 Other - Y ###
 
 - [YouTube playlists](https://www.youtube.com)
   + [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/featured)
