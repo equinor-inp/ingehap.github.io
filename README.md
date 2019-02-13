@@ -226,7 +226,9 @@
 - [Other](https://ingehap.github.io/MyStart_SearchEngines.html)
 
 ### 9.5 Research - Tools ###
+https://www.brighttalk.com/
 
+- [BrightTALK](https://www.brighttalk.com/)
 - [Digipost](https://www.digipost.no/app/#/)
 - [Evernote Web](https://www.evernote.com/client/web#?an=true&n=fb19ba95-be6d-4b4b-98a0-a44f39c5fc08&s=s134&)
 - [Git Bash](https://git-scm.com/)
