@@ -296,11 +296,25 @@ https://www.brighttalk.com/
 ---------------------------------------------------------------------------------------------
 ## 12. Subjects - [Computer Science](https://ingehap.github.io/MyStart_Subjects_CS.html) ##
 
-### 12.1 Book streaming ###
+### 12.1 Books - C++ ###
+
+- *Abrahams, C++ Template Metaprogramming*
+- *Alexrandrescu, Modern C++ Design*
+- *Koenig, Accelerated C++*
+- *Romanik, Applied C++*
+- *Schmidt, C++ Network Programming, Volume 1*
+- *Schmidt, C++ Network Programming, Volume 2*
+- *Siek, Boost Graph Library*
+- *Sutter, C++ Coding Standards*
+- *Sutter, Exceptional C++*
+- *Sutter, Exceptional C++ Style*
+- *Sutter, More Exceptional C++*
+
+### 12.2 Books - streaming ###
 
 - [Packt Subscription](https://subscription.packtpub.com/login)
 
-### 12.2 Other ###
+### 12.3 Other ###
 
 - [Analytics Vidhya](https://www.analyticsvidhya.com/)
   + [Analytics Vidhya - Data Science](https://www.analyticsvidhya.com/blog/category/data-science/)
