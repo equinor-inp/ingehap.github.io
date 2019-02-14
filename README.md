@@ -296,6 +296,12 @@ https://www.brighttalk.com/
 ---------------------------------------------------------------------------------------------
 ## 12. Subjects - [Computer Science](https://ingehap.github.io/MyStart_Subjects_CS.html) ##
 
+### 12.1 Book streaming ###
+
+- [Packt Subscription](https://subscription.packtpub.com/login)
+
+### 12.2 Other ###
+
 - [Analytics Vidhya](https://www.analyticsvidhya.com/)
   + [Analytics Vidhya - Data Science](https://www.analyticsvidhya.com/blog/category/data-science/)
   + [Analytics Vidhya - Events](https://www.analyticsvidhya.com/blog/category/events/)
