@@ -226,12 +226,18 @@
   + [Data Analysis](https://www.quora.com/topic/Data-Analysis)
   + [Data Science](https://www.quora.com/topic/Data-Science)
 - [Statistics Search](https://ingehap.github.io/MyStart_SearchEngines_Statistics.html)
-- [Thesis Search](https://ingehap.github.io/MyStart_SearchEngines_Theses.html)
 - [Wiki Search](https://ingehap.github.io/MyStart_SearchEngines_Wiki.html)
 - [Other](https://ingehap.github.io/MyStart_SearchEngines.html)
 
+#### 9.4.1 Research - Search Engines - Theses ####
+
+- [digitalcommons.lsu.edu](https://digitalcommons.lsu.edu/gradschool_disstheses/)
+- [Durham e-Theses](http://etheses.dur.ac.uk/)
+- [TU Darmstadt](https://tuprints.ulb.tu-darmstadt.de/cgi/search/advanced)
+- [Univ Stockholm (Math)](https://www.math.su.se/english/publications/dissertations/phd-theses/phd-theses-in-mathematics-1.70794)
+- [UWC Electronic Theses and Dissertations Repository](https://etd.uwc.ac.za/)
+
 ### 9.5 Research - Tools ###
-https://www.brighttalk.com/
 
 - [BrightTALK](https://www.brighttalk.com/)
 - [Digipost](https://www.digipost.no/app/#/)
