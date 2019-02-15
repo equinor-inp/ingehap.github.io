@@ -4,6 +4,7 @@
 
 - 1\. Research (general)
   + 1\.1 R - Communities, 1\.2 R - Databases, 1\.3 R - Preprints, 1\.4 R - Reporting
+  + 1\.5 R - Theses, 1\.6 R - Tools
 - 2\. Ancient Near East
 - 3\. Biology
 - 4\. Computer Science
