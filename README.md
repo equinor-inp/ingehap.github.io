@@ -6,6 +6,7 @@
   + 1\.1 R - Communities, 1\.2 R - Databases, 1\.3 R - Preprints, 1\.4 R - Reporting
   + 1\.5 R - Theses, 1\.6 R - Tools
 - 2\. Ancient Near East
+  + 2\.1 ANE - Blogs, 2\.2 ANE - Databases, 2\.3 ANE - Hebrew, 2\.4 ANE - Journals
 - 3\. Biology
 - 4\. Computer Science
 - 5\. Earth Sciences
@@ -106,17 +107,28 @@
 # 2. Subjects - Ancient Near East #
 ---------------------------------------------------------------------------------------------
 
-- [Ancient Hebrew](http://www.ancient-hebrew.org/)
+## 2.1 ANE - Blogs ##
+
 - [Ask Dr Brown (YouTube)](https://www.youtube.com/user/AskDrBrownVideos/playlists)
-- [Biblical Archaeology Society](https://www.biblicalarchaeology.org/)
-- [Christianity Today](https://www.christianitytoday.com/)
 - [Heiser, Michael S.](http://drmsh.com/)
+- [rabbi Sacks](http://rabbisacks.org/)
+
+## 2.2 ANE - Databases ##
+
 - [Jerusalem Perspective](https://www.jerusalemperspective.com/)
-- [JJMJS](http://www.jjmjs.org/)
 - [Memra](http://www.memraonline.com/)
 - [Naked Bible Podcast](http://www.nakedbiblepodcast.com/)
-- [rabbi Sacks](http://rabbisacks.org/)
 - [Sefaria Library](https://www.sefaria.org/texts)
+
+## 2.3 ANE - Hebrew ##
+
+- [Ancient Hebrew](http://www.ancient-hebrew.org/)
+
+## 2.4 ANE - Journals ##
+
+- [Biblical Archaeology Society](https://www.biblicalarchaeology.org/)
+- [Christianity Today](https://www.christianitytoday.com/)
+- [JJMJS](http://www.jjmjs.org/)
 
 &nbsp;
 
