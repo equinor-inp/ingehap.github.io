@@ -12,7 +12,6 @@
 - 8\. Physics
 - 9\. Other
 
-
 &nbsp;
 
 &nbsp;
@@ -96,6 +95,9 @@
   + [Wikivoyage](https://en.wikivoyage.org/wiki/Main_Page)
   + [Wiktionary](https://en.wiktionary.org/wiki/Wiktionary:Main_Page)
 
+&nbsp;
+
+&nbsp;
 
 ---------------------------------------------------------------------------------------------
 # 2. Subjects - Ancient Near East #
@@ -113,6 +115,9 @@
 - [rabbi Sacks](http://rabbisacks.org/)
 - [Sefaria Library](https://www.sefaria.org/texts)
 
+&nbsp;
+
+&nbsp;
 
 ---------------------------------------------------------------------------------------------
 # 3. Biology #
@@ -120,6 +125,9 @@
 
 - [Free Energy Principle; Wikipedia](https://en.wikipedia.org/wiki/Free_energy_principle)
 
+&nbsp;
+
+&nbsp;
 
 ---------------------------------------------------------------------------------------------
 # 4. Subjects - [Computer Science](https://ingehap.github.io/MyStart_Subjects_CS.html) #
@@ -333,6 +341,9 @@ return
   + [slashML](https://twitter.com/slashML)
   + [swcarpentry](https://twitter.com/swcarpentry)
   
+&nbsp;
+
+&nbsp;
 
 ---------------------------------------------------------------------------------------------
 # 5. Subjects - Earth Sciences #
@@ -438,6 +449,9 @@ return
 [//]: # (Collection of links 10000 - 11000)
 [10000]: https://ingehap.github.io/GSCalculators.html
 
+&nbsp;
+
+&nbsp;
 
 ---------------------------------------------------------------------------------------------
 # 6. Economy #
@@ -454,6 +468,9 @@ return
 - [Investopedia](https://www.investopedia.com/)
 - [Oslo Børs, News](https://newsweb.oslobors.no/)
 
+&nbsp;
+
+&nbsp;
 
 ---------------------------------------------------------------------------------------------
 # 7. Subjects - Mathematics #
@@ -493,6 +510,9 @@ return
   + [IMA Video Library](https://www.ima.umn.edu/videos)
   + [Mathematics of Climate Seminars](http://www-users.math.umn.edu/~mcgehee/Seminars/ClimateChange/schedule/seminar_archives.html)
 
+&nbsp;
+
+&nbsp;
 
 ---------------------------------------------------------------------------------------------
 # 8. Subjects - Physics #
@@ -522,6 +542,9 @@ Current book: [Bookmark](https://play.google.com/books/reader?id=HVVDAAAAQBAJ&pg
 - [Principle of least action; Wikipedia](https://en.wikipedia.org/wiki/Principle_of_least_action)
 - [Quanta Magazine](https://www.quantamagazine.org/)
 
+&nbsp;
+
+&nbsp;
 
 ---------------------------------------------------------------------------------------------
 # 9. Other #
