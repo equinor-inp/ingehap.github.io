@@ -1,54 +1,37 @@
-# Homepage for Inge H. A. Pettersen #
-
-
 ---------------------------------------------------------------------------------------------
-## 0. Table of Contents ##
+# 0. Table of Contents #
+---------------------------------------------------------------------------------------------
 
+- 1\. Research (general)
+- 2\. Ancient Near East
+- 3\. Biology
+- 4\. Computer Science
+- 5\. Earth Sciences
 - 6\. Economy
-- 8\. Libraries
-- 9\. Research
-- 10\. Subjects - Ancient Near East
-- 11\. Subjects - Biology
-- 12\. Subjects - Computer Science
-- 13\. Subjects - Earth Sciences
-- 14\. Subjects - Mathematics
-- 15\. Subjects - Physics
-- 16\. Other
+- 7\. Mathematics
+- 8\. Physics
+- 9\. Other
 
 
 ---------------------------------------------------------------------------------------------
-## 6. Economy ##
-
-### 6.1 Economy - Banks ###
-
-- [DnB](https://www.dnb.no)
-- [Sbanken](https://sbanken.no/)
-
-### 6.2 Economy - Investments ###
-
-- [Aksjesparingsprogram, Equinor](http://entry.statoil.no/HR/PerformanceAndReward/benefits/Pages/sharesaving.aspx)
-- [Investopedia](https://www.investopedia.com/)
-- [Oslo Børs, News](https://newsweb.oslobors.no/)
-
-
+# 1. Research (general) #
 ---------------------------------------------------------------------------------------------
-## 9. Research ##
 
-### 9.1 Research - Communities ###
+## 1.1 Research - Communities ##
 
 - [Academia](https://www.academia.edu/)
   + [Academia - Grants](https://www.academia.edu/grants)
 - [ResearchGate, std](https://www.researchgate.net/profile/Inge_Pettersen)
 
-### 9.2 Research - Preprints ###
+## 1.2 Research - Preprints ##
 
 - [arXiv](https://arxiv.org/)
 
-### 9.3 Research - Reporting ###
+## 1.3 Research - Reporting ##
 
 - [BellingCat](https://www.bellingcat.com/)
 
-### 9.4 Research - Search Engines ###
+## 1.4 Research - Search Engines ##
 
 - [ACM Digital Library](https://dl.acm.org/dl.cfm)
 - [Internet Archive Search](https://archive.org/search.php)
@@ -62,7 +45,7 @@
 - [Wiki Search](https://ingehap.github.io/MyStart_SearchEngines_Wiki.html)
 - [Other](https://ingehap.github.io/MyStart_SearchEngines.html)
 
-#### 9.4.1 Research - Search Engines - Theses ####
+### 1.4.1 Research - Search Engines - Theses ###
 
 - [digitalcommons.lsu.edu](https://digitalcommons.lsu.edu/gradschool_disstheses/)
 - [Durham e-Theses](http://etheses.dur.ac.uk/)
@@ -70,7 +53,7 @@
 - [Univ Stockholm (Math)](https://www.math.su.se/english/publications/dissertations/phd-theses/phd-theses-in-mathematics-1.70794)
 - [UWC Electronic Theses and Dissertations Repository](https://etd.uwc.ac.za/)
 
-### 9.5 Research - Tools ###
+## 1.5 Research - Tools ##
 
 - [BrightTALK](https://www.brighttalk.com/)
 - [Digipost](https://www.digipost.no/app/#/)
@@ -111,7 +94,8 @@
 
 
 ---------------------------------------------------------------------------------------------
-## 10. Subjects - Ancient Near East ##
+# 2. Subjects - Ancient Near East #
+---------------------------------------------------------------------------------------------
 
 - [Ancient Hebrew](http://www.ancient-hebrew.org/)
 - [Ask Dr Brown (YouTube)](https://www.youtube.com/user/AskDrBrownVideos/playlists)
@@ -127,19 +111,21 @@
 
 
 ---------------------------------------------------------------------------------------------
-## 11. Subjects - Biology ##
+# 3. Biology #
+---------------------------------------------------------------------------------------------
 
 - [Free Energy Principle; Wikipedia](https://en.wikipedia.org/wiki/Free_energy_principle)
 
 
 ---------------------------------------------------------------------------------------------
-## 12. Subjects - [Computer Science](https://ingehap.github.io/MyStart_Subjects_CS.html) ##
+# 4. Subjects - [Computer Science](https://ingehap.github.io/MyStart_Subjects_CS.html) #
+---------------------------------------------------------------------------------------------
 
-### 12.1 CS - General Resources - Books ###
+## 4.1 CS - General Resources - Books ##
 
 - [Packt Subscription](https://subscription.packtpub.com/login)
 
-### 12.2 CS - General Resources - CIs - Travis CI ###
+## 4.2 CS - General Resources - CIs - Travis CI ##
 
 - [CircleCI](https://circleci.com/)
   + [Configurations](https://circleci.com/docs/2.0/configuration-reference/)
@@ -158,12 +144,12 @@
   + [Travis CI - Tutorial](https://docs.travis-ci.com/user/tutorial/)
   + [Travis CI - Wikipedia](https://en.wikipedia.org/wiki/Travis_CI)
 
-### 12.3 CS - General Resources - Competitions ###
+## 4.3 CS - General Resources - Competitions ##
 
 - [Analytics Vidhya - Datahack](https://datahack.analyticsvidhya.com/?utm_source=AVHome)
 - [Kaggle Competitions](https://www.kaggle.com/competitions)
 
-### 12.4 CS - General Resources - Data sets ###
+## 4.4 CS - General Resources - Data sets ##
 
 | Data set                  | Forum                      |
 | ------------------------- |:--------------------------:|
@@ -176,7 +162,7 @@
 [3002]: https://www.kaggle.com/datasets
 [3003]: https://unstats.un.org/home/
 
-### 12.5 CS - General Resources - Education ###
+## 4.5 CS - General Resources - Education ##
 
 - [Aalto Scientific Computing](http://scicomp.aalto.fi/training/)
 - [Code Refinery](https://coderefinery.org/lessons/)
@@ -188,7 +174,7 @@
 - [Udacity](https://www.udacity.com)
 - [W3Schools](https://www.w3schools.com/)
 
-### 12.6 CS - C++ - Books ###
+## 4.6 CS - C++ - Books ##
 
 - *Abrahams, C++ Template Metaprogramming*
 - *Alexrandrescu, Modern C++ Design*
@@ -202,20 +188,20 @@
 - *Sutter, Exceptional C++ Style*
 - *Sutter, More Exceptional C++*
 
-### 12.7 CS - C++ - Compilers ###
+## 4.7 CS - C++ - Compilers ##
 
 - [Visual Studio Professional; Subscription ID = 5537d862-eb42-44c7-abb0-7fe73c5bf6b1](https://my.visualstudio.com/benefits?mkt=en-us)
 
-### 12.8 CS - JSON ###
+## 4.8 CS - JSON ##
 
 [JSON homepage](http://www.json.org/)
 
-### 12.9 CS - Julia ###
+## 4.9 CS - Julia ##
 
 - [Julia Homepage](https://julialang.org/)
 - [Julia Documentation](https://docs.julialang.org)
 
-### 12.10 CS - Loglan - template ###
+## 4.10 CS - Loglan - template ##
 
 ```loglan
 /* Initilaize local variables
@@ -260,18 +246,18 @@ enddo
 return
 ```
 
-### 12.11 CS - Markdown - Resources  ###
+## 4.11 CS - Markdown - Resources  ##
 
 - [Pritchard Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-### 12.12 CS - Python  ###
+## 4.12 CS - Python  ##
 
 - [Python Homepage](https://www.python.org/)
 - [Python Documentation](https://docs.python.org)
 - [Python on English Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language))
 - [Jypyter Viewer](https://nbviewer.jupyter.org/github/WillKoehrsen/Data-Analysis/blob/master/plotly/Plotly%20Whirlwind%20Introduction.ipynb)
 
-### 12.12.1 CS - Python - Libraries ###
+## 4.12.1 CS - Python - Libraries ##
 
 - [cntk, pip](https://github.com/Microsoft/cntk)
 - [keras, pip](https://github.com/keras-team/keras)
@@ -279,11 +265,11 @@ return
 - [tensorflow, pip](https://github.com/tensorflow/tensorflow)
 - [theano, pip](https://github.com/Theano/Theano)
 
-### 12.13 CS - YAML - Resources  ###
+## 4.13 CS - YAML - Resources  ##
 
 - [Yaml](https://yaml.org/spec/)
 
-### 12.14 CS - Other ###
+## 4.14 CS - Other ##
 
 - [Analytics Vidhya](https://www.analyticsvidhya.com/)
   + [Analytics Vidhya - Data Science](https://www.analyticsvidhya.com/blog/category/data-science/)
@@ -345,9 +331,10 @@ return
   
 
 ---------------------------------------------------------------------------------------------
-## 13. Subjects - Earth Sciences ##
+# 5. Subjects - Earth Sciences #
+---------------------------------------------------------------------------------------------
 
-### 13.1 ES - Books ###
+## 5.1 ES - Books ##
 
 - [Cubitt, Geophysics for Petroleum Engineers](https://play.google.com/books/reader?id=JaLkZj47-2sC&pg=GBS.PP1)
 - [Dandekar, Petroleum Reservoir Rock and Fluid Properties](https://play.google.com/books/reader?id=tgTSBQAAQBAJ&pg=GBS.PP1)
@@ -363,9 +350,9 @@ return
 - [Trefil, A Scientist at the Seashore](https://play.google.com/books/reader?id=wzTDAgAAQBAJ&pg=GBS.PP1)
 - [Yang, Fundamentals of Petrophysics](https://play.google.com/books/reader?id=81Z7DQAAQBAJ&pg=GBS.PP1)
 
-### 13.2 Calculators ###
+## 5.2 ES - Calculators ##
 
-### 13.3 Constants ###
+## 5.3 ES - Constants ##
 
 | System               | Density (g/cc) | K (GPa) | G (GPa) | Molar mass (g/mol) | GC relation (km/s)      |
 |:--------------------:|:--------------:|:-------:|:-------:|:------------------:|:-----------------------:|
@@ -377,11 +364,11 @@ return
 | quartz               | 2.65           |  36.0   |  41.0   |                    |                         |
 | shale                | 2.65           |  30.0   |  10.0   |                    |                         |
 
-### 13.4 Courses ###
+## 5.4 Courses ##
 
 - [Signal processing for geologists and geophysicists](https://books.ifpenergiesnouvelles.fr/ebooks/signal-processing/)
 
-### 13.5 Formulas ###
+## 5.5 Formulas ##
 
 | Name                   | Formula                                            | Calculator    |
 |:----------------------:|:--------------------------------------------------:|:-------------:|
@@ -389,7 +376,7 @@ return
 | Temperature conversion | degC = (degF - 32) * 5 / 9                         | [Calc][10000] |
 | Western Atlas          | Rw(75 degF) = 0.0123 + 3647.5 * SALINITY**(-0.955) |               |
 
-### 13.6 Unit conversion ###
+## 5.6 Unit conversion ##
 
 | Unit 1               | Unit 2             |
 |:--------------------:|:------------------:|
@@ -404,7 +391,7 @@ return
 | 1 psi / ft           | 0.2262059 bar / m  |
 | 1 Sm3 / Sm3          | 5.614583 scf / bbl |
 
-### 13.7 Other ###
+## 5.7 Other ##
 
 - [Agile Libre](https://www.agilelibre.com/)
 - [Amazon Kindle reader](https://read.amazon.ca/)
@@ -449,9 +436,26 @@ return
 
 
 ---------------------------------------------------------------------------------------------
-## 14. Subjects - Mathematics ##
+# 6. Economy #
+---------------------------------------------------------------------------------------------
 
-### 14.1 Books ###
+## 6.1 Economy - Banks ##
+
+- [DnB](https://www.dnb.no)
+- [Sbanken](https://sbanken.no/)
+
+## 6.2 Economy - Investments ##
+
+- [Aksjesparingsprogram, Equinor](http://entry.statoil.no/HR/PerformanceAndReward/benefits/Pages/sharesaving.aspx)
+- [Investopedia](https://www.investopedia.com/)
+- [Oslo Børs, News](https://newsweb.oslobors.no/)
+
+
+---------------------------------------------------------------------------------------------
+# 7. Subjects - Mathematics #
+---------------------------------------------------------------------------------------------
+
+## 7.1 Books ##
 
 - [Abramowitz, Handbook of Mathematical Functions, with Formulas, Graphs, and Mathematical Tables](https://play.google.com/books/reader?id=KiPCAgAAQBAJ&pg=GBS.PP1)
 - [Copley, Mathematics for the Physical Sciences](https://play.google.com/store/books/details/Leslie_Copley_Mathematics_for_the_Physical_Science?id=Zp8oCQAAQBAJ)
@@ -463,7 +467,7 @@ return
 - [Tao, Solving Mathematical Problems, A Personal Perspective](https://play.google.com/books/reader?id=ZBTJWhXD05MC&pg=GBS.PP1)
 - [Watanabe, Integral Transform Techniques for Green's Function, 2nd ed](https://play.google.com/books/reader?id=fJ1wCAAAQBAJ&pg=GBS.PP1)
 
-### 14.2 Other ###
+## 7.2 Other ##
 
 - [Amazon Kindle (Reader)](https://read.amazon.ca/)
 - [Archives Grothendieck](https://grothendieck.umontpellier.fr/archives-grothendieck/)
@@ -487,21 +491,22 @@ return
 
 
 ---------------------------------------------------------------------------------------------
-## 15. Subjects - Physics ##
+# 8. Subjects - Physics #
+---------------------------------------------------------------------------------------------
 
-### 15.1 Books ###
+## 8.1 Books ##
 
-- [Bland, The Theory of Linear Viscoelasticity][11000]
-- [Carcione, Wave Fields in Real Media][11001]
-- [Gould, Introduction to Linear Elasticity][11002]
-- [McCain, Petroleum Reservoir Fluid Property Correlations][11003]
-- [McCain, The Properties of Petroleum Fluids][11004]
+- [Bland, The Theory of Linear Viscoelasticity](https://play.google.com/books/reader?id=tgTSBQAAQBAJ&pg=GBS.PP1)
+- [Carcione, Wave Fields in Real Media](https://play.google.com/books/reader?id=yR4tBAAAQBAJ&pg=GBS.PP1)
+- [Gould, Introduction to Linear Elasticity](https://play.google.com/books/reader?id=HVVDAAAAQBAJ&pg=GBS.PP1)
+- [McCain, Petroleum Reservoir Fluid Property Correlations](https://play.google.com/books/reader?id=6jeHfTQlEtIC&pg=GBS.PR1)
+- [McCain, The Properties of Petroleum Fluids](https://play.google.com/books/reader?id=7MQQ2F-akSoC&hl=no&pg=GBS.PP1)
 - [Nedelec, Acoustic and Electromagnetic Equations](https://play.google.com/books/reader?id=uvXiBwAAQBAJ&pg=GBS.PP1)
-- [Trefil, Introduction to the Physics of Fluids and Solids][11005]
+- [Trefil, Introduction to the Physics of Fluids and Solids](https://play.google.com/books/reader?id=yF2q8QblBnYC&pg=GBS.PR1)
 
 Current book: [Bookmark](https://play.google.com/books/reader?id=HVVDAAAAQBAJ&pg=GBS.PA1)
 
-### 15.2 Web ###
+## 8.2 Web ##
 
 - [Amazon Kindle](https://read.amazon.ca/)
 - [CERN Document Server](http://cdsweb.cern.ch/)
@@ -513,34 +518,27 @@ Current book: [Bookmark](https://play.google.com/books/reader?id=HVVDAAAAQBAJ&pg
 - [Principle of least action; Wikipedia](https://en.wikipedia.org/wiki/Principle_of_least_action)
 - [Quanta Magazine](https://www.quantamagazine.org/)
 
-[//]: # (Collection of links 11000 - 12000)
-[11000]: https://play.google.com/books/reader?id=tgTSBQAAQBAJ&pg=GBS.PP1
-[11001]: https://play.google.com/books/reader?id=yR4tBAAAQBAJ&pg=GBS.PP1
-[11002]: https://play.google.com/books/reader?id=HVVDAAAAQBAJ&pg=GBS.PP1
-[11003]: https://play.google.com/books/reader?id=6jeHfTQlEtIC&pg=GBS.PR1
-[11004]: https://play.google.com/books/reader?id=7MQQ2F-akSoC&hl=no&pg=GBS.PP1
-[11005]: https://play.google.com/books/reader?id=yF2q8QblBnYC&pg=GBS.PR1
-
 
 ---------------------------------------------------------------------------------------------
-## 16. Other ##
+# 9. Other #
+---------------------------------------------------------------------------------------------
 
-### 16.1 Other - A ###
+## 9.1 Other - A ##
 
 - [AAPG Wiki](https://wiki.aapg.org/Main_Page)
 - [ACCU](https://accu.org/)
 - [ActiveState](https://www.activestate.com/)
-- [AI index][5001]
-- [Algorithmia][5002]
+- [AI index](https://aiindex.org/)
+- [Algorithmia](https://algorithmia.com/)
 - [Amazon](https://www.amazon.com)
   + [Amazon - Manage Your Content and Devices](https://www.amazon.com/mn/dcw/myx.html/ref=nav_youraccount_myk#/home/content/booksAll/dateDsc/)
 
-### 16.2 Other - C ###
+## 9.2 Other - C ##
 
 - [CoCalc](https://cocalc.com/)
 - [Codeburst](https://codeburst.io/)
 
-### 16.3 Other - D ###
+## 9.3 Other - D ##
 
 - [Data Science Central](https://www.datasciencecentral.com)
 - [DataCamp](https://www.datacamp.com)
@@ -549,28 +547,28 @@ Current book: [Bookmark](https://play.google.com/books/reader?id=HVVDAAAAQBAJ&pg
 - [Digital Academy](http://entry.statoil.no/HR/LearnStatoil/DigitalAcademy/pages/digitalacademy-learn.aspx)
 - [Distill](https://distill.pub/)
 
-### 16.4 Other - F ###
+## 9.4 Other - F ##
 
 - [Facebook](https://www.facebook.com/)
 - [freeCodeCamp](https://medium.freecodecamp.org/)
 
-### 16.5 Other - H ###
+## 9.5 Other - H ##
 
 - [HackerNoon](https://hackernoon.com/)
 
 
-### 16.6 Other - K ###
+## 9.6 Other - K ##
 
 - [Kaggle](https://www.kaggle.com/)
   + [Kaggle kernels](https://www.kaggle.com/kernels)
 - [KD Nuggets](https://www.kdnuggets.com/)
 
-### 16.7 Other - S ###
+## 9.7 Other - S ##
 
 - [Software Carpentry](https://software-carpentry.org/lessons/)
 - [Stochasticlifestyle](http://www.stochasticlifestyle.com/)
  
-### 16.8 Other - Y ###
+## 9.8 Other - Y ##
 
 - [YouTube playlists](https://www.youtube.com)
   + [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/featured)
@@ -588,6 +586,3 @@ Current book: [Bookmark](https://play.google.com/books/reader?id=HVVDAAAAQBAJ&pg
   + [PyCon KR](https://www.youtube.com/channel/UC26x6D5xpKx6io4ShfXa_Ow/playlists)
   + [UTAPWeLS](https://www.youtube.com/channel/UCHWnztyGyQPEXXbp2Tu0_DA/videos?disable_polymer=1)
 
-[//]: # (Collection of links 5001 - 9999)
-[5001]: https://aiindex.org/
-[5002]: https://algorithmia.com/
