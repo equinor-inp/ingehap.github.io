@@ -20,35 +20,49 @@
 # 1. Research (general) #
 ---------------------------------------------------------------------------------------------
 
-## 1.1 Research - Communities ##
+## 1.1 R - Communities ##
 
 - [Academia](https://www.academia.edu/)
   + [Academia - Grants](https://www.academia.edu/grants)
 - [ResearchGate, std](https://www.researchgate.net/profile/Inge_Pettersen)
 
-## 1.2 Research - Preprints ##
-
-- [arXiv](https://arxiv.org/)
-
-## 1.3 Research - Reporting ##
-
-- [BellingCat](https://www.bellingcat.com/)
-
-## 1.4 Research - Search Engines ##
+## 1.2 R - Databases ##
 
 - [ACM Digital Library](https://dl.acm.org/dl.cfm)
+- [BrightTALK](https://www.brighttalk.com/)
 - [Internet Archive Search](https://archive.org/search.php)
 - [LovData](https://lovdata.no/)
-- [Preprint Servers](https://ingehap.github.io/MyStart_SearchEngines_Preprints.html)
 - [Quora](https://www.quora.com)
   + [Big Data Analysis](https://www.quora.com/topic/Big-Data-Analysis)
   + [Data Analysis](https://www.quora.com/topic/Data-Analysis)
   + [Data Science](https://www.quora.com/topic/Data-Science)
-- [Statistics Search](https://ingehap.github.io/MyStart_SearchEngines_Statistics.html)
-- [Wiki Search](https://ingehap.github.io/MyStart_SearchEngines_Wiki.html)
-- [Other](https://ingehap.github.io/MyStart_SearchEngines.html)
+- [Wikimedia Foundation Governance Wiki](https://foundation.wikimedia.org/wiki/Home)
+  + [Meta-Wiki](https://meta.wikimedia.org/wiki/Main_Page)
+  + [Wikibooks](https://en.wikibooks.org/wiki/Main_Page)
+  + [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page)
+  + [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page)
+  + [Wikipedia](https://en.wikipedia.org/wiki/Main_Page)
+  + [Wikiquote](https://en.wikiquote.org/wiki/Main_Page)
+  + [Wikisource](https://en.wikisource.org/wiki/Main_Page)
+  + [Wikispecies](https://species.wikimedia.org/wiki/Main_Page)
+  + [Wikiversity](https://en.wikiversity.org/wiki/Wikiversity:Main_Page)
+  + [Wikivoyage](https://en.wikivoyage.org/wiki/Main_Page)
+  + [Wiktionary](https://en.wiktionary.org/wiki/Wiktionary:Main_Page)
+  
+## 1.3 R - Preprints ##
 
-### 1.4.1 Research - Search Engines - Theses ###
+- [arXiv](https://arxiv.org/)
+- [biorXiv](https://www.biorxiv.org/)
+- [eartharXiv](https://eartharxiv.org/)
+- [ePrints Soton (Univ. Southampton)](https://eprints.soton.ac.uk/)
+- [OSF (preprints)](https://osf.io/preprints/)
+- [Papers with Code](https://www.paperswithcode.com/)
+
+## 1.4 R - Reporting ##
+
+- [BellingCat](https://www.bellingcat.com/)
+
+### 1.5 R - Theses ###
 
 - [digitalcommons.lsu.edu](https://digitalcommons.lsu.edu/gradschool_disstheses/)
 - [Durham e-Theses](http://etheses.dur.ac.uk/)
@@ -56,9 +70,8 @@
 - [Univ Stockholm (Math)](https://www.math.su.se/english/publications/dissertations/phd-theses/phd-theses-in-mathematics-1.70794)
 - [UWC Electronic Theses and Dissertations Repository](https://etd.uwc.ac.za/)
 
-## 1.5 Research - Tools ##
+## 1.6 R - Tools ##
 
-- [BrightTALK](https://www.brighttalk.com/)
 - [Digipost](https://www.digipost.no/app/#/)
 - [Evernote Web](https://www.evernote.com/client/web#?an=true&n=fb19ba95-be6d-4b4b-98a0-a44f39c5fc08&s=s134&)
 - [Git Bash](https://git-scm.com/)
@@ -82,18 +95,6 @@
   + [Google Sheet API](https://developers.google.com/sheets/api/)
   + [My books](https://play.google.com/books)
 - [KanbanFlow (std)](https://kanbanflow.com)
-- [Wikimedia Foundation Governance Wiki](https://foundation.wikimedia.org/wiki/Home)
-  + [Meta-Wiki](https://meta.wikimedia.org/wiki/Main_Page)
-  + [Wikibooks](https://en.wikibooks.org/wiki/Main_Page)
-  + [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page)
-  + [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page)
-  + [Wikipedia](https://en.wikipedia.org/wiki/Main_Page)
-  + [Wikiquote](https://en.wikiquote.org/wiki/Main_Page)
-  + [Wikisource](https://en.wikisource.org/wiki/Main_Page)
-  + [Wikispecies](https://species.wikimedia.org/wiki/Main_Page)
-  + [Wikiversity](https://en.wikiversity.org/wiki/Wikiversity:Main_Page)
-  + [Wikivoyage](https://en.wikivoyage.org/wiki/Main_Page)
-  + [Wiktionary](https://en.wiktionary.org/wiki/Wiktionary:Main_Page)
 
 &nbsp;
 
