@@ -3,6 +3,7 @@
 ---------------------------------------------------------------------------------------------
 
 - 1\. Research (general)
+- 1\.1 R - Communities
 - 2\. Ancient Near East
 - 3\. Biology
 - 4\. Computer Science
@@ -62,7 +63,7 @@
 
 - [BellingCat](https://www.bellingcat.com/)
 
-### 1.5 R - Theses ###
+## 1.5 R - Theses ##
 
 - [digitalcommons.lsu.edu](https://digitalcommons.lsu.edu/gradschool_disstheses/)
 - [Durham e-Theses](http://etheses.dur.ac.uk/)
