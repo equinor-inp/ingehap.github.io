@@ -4,13 +4,7 @@
 ---------------------------------------------------------------------------------------------
 ## 0. Table of Contents ##
 
-- 1\. General resources
-- 2\. CIs
-- 3\. Competitions
-- 4\. Compilers
-- 5\. Data sets
 - 6\. Economy
-- 7\. Education
 - 8\. Libraries
 - 9\. Research
 - 10\. Subjects - Ancient Near East
@@ -23,179 +17,18 @@
 
 
 ---------------------------------------------------------------------------------------------
-## 1. General resources ##
-
-| Language      | Book List     | Home page     | Documentation | Cheat sheet        | Other                |
-| ------------- |:-------------:|:-------------:|:-------------:|:------------------:|:--------------------:|
-| C++           | [Page][1]     |               |               |                    |                      |
-| JSON          |               | [Home][9]     |               |                    |                      |
-| Julia         |               | [Home][2]     | [Page][6]     |                    |                      |
-| Loglan        |               |               |               | [Page][4]          |                      |
-| Markdown      |               |               |               | [Pritchard][3]     |                      |
-| Python        |               | [Home][5]     | [Page][7]     |                    | [Jypyter Viewer][10] |
-| Yaml          |               | [Home][8]     |               |                    |                      |
-
-[//]: # (Collection of links 1 - 1000)
-[1]: ./CPP_books.md
-[2]: https://julialang.org/
-[3]: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-[4]: ./Loglan_CheatSheet.md
-[5]: https://www.python.org/
-[6]: https://docs.julialang.org
-[7]: https://docs.python.org
-[8]: https://yaml.org/spec/
-[9]: http://www.json.org/
-[10]: https://nbviewer.jupyter.org/github/WillKoehrsen/Data-Analysis/blob/master/plotly/Plotly%20Whirlwind%20Introduction.ipynb
-
-
----------------------------------------------------------------------------------------------
-## 2. CIs ##
-
-### 2.1 Travis CI ###
-
-- [CircleCI](https://circleci.com/)
-  + [Configurations](https://circleci.com/docs/2.0/configuration-reference/)
-  + [Docker](https://circleci.com/docs/2.0/circleci-images/)
-  + [Hosting Options](https://circleci.com/product/#hosting-options)
-  + [Integration Options](https://circleci.com/product/#integrations)
-- [Travis CI][1301]
-  + [Travis CI - Blog][1302]
-  + [Travis CI - Building a Python Project][1305]
-  + [Travis CI - Changelog][1310]
-  + [Travis CI - Configuring Build Notifications][1308]
-  + [Travis CI - Core Concepts for Beginners][1303]
-  + [Travis CI - Customizing the Build][1307]
-  + [Travis CI - Docs][1304]
-  + [Travis CI - Getting started][1309]
-  + [Travis CI - Tutorial][1306]
-  + [Travis CI - Wikipedia][1311]
-
-[//]: # (Collection of links 1301 - 1500)
-[1301]: https://travis-ci.org/
-[1302]: https://blog.travis-ci.com/
-[1303]: https://docs.travis-ci.com/user/for-beginners
-[1304]: https://docs.travis-ci.com/
-[1305]: https://docs.travis-ci.com/user/languages/python/
-[1306]: https://docs.travis-ci.com/user/tutorial/
-[1307]: https://docs.travis-ci.com/user/customizing-the-build/
-[1308]: https://docs.travis-ci.com/user/notifications/
-[1309]: https://travis-ci.com/getting_started
-[1310]: https://changelog.travis-ci.com/
-[1311]: https://en.wikipedia.org/wiki/Travis_CI
-
-
----------------------------------------------------------------------------------------------
-## 3. Competitions ##
-
-- [Analytics Vidhya - Datahack][1501]
-- [Kaggle Competitions][1502]
-
-[//]: # (Collection of links 1501 - 1700)
-[1501]: https://datahack.analyticsvidhya.com/?utm_source=AVHome
-[1502]: https://www.kaggle.com/competitions
-
-
----------------------------------------------------------------------------------------------
-## 4. Compilers ##
-
-- [Visual Studio Professional; Subscription ID = 5537d862-eb42-44c7-abb0-7fe73c5bf6b1][1701]
-
-[//]: # (Collection of links 1701 - 2000)
-[1701]: https://my.visualstudio.com/benefits?mkt=en-us
-
-
----------------------------------------------------------------------------------------------
-## 5. Data sets ##
-
-| Data set                  | Forum                      |
-| ------------------------- |:--------------------------:|
-| ImageNet                  | [Google group forum][3001] |
-| [Kaggle collection][3002] |                            |
-| [UNSD Statistics][3003]   |                            |
-
-[//]: # (Collection of links 3001 - 3500)
-[3001]: https://groups.google.com/forum/#!forum/imagenet-community
-[3002]: https://www.kaggle.com/datasets
-[3003]: https://unstats.un.org/home/
-
-
----------------------------------------------------------------------------------------------
 ## 6. Economy ##
 
 ### 6.1 Economy - Banks ###
 
-- [DnB][2501]
-- [Sbanken][2502]
+- [DnB](https://www.dnb.no)
+- [Sbanken](https://sbanken.no/)
 
 ### 6.2 Economy - Investments ###
 
-- [Aksjesparingsprogram, Equinor][2503]
-- [Investopedia][2504]
-- [Oslo Børs, News][2505]
-
-[//]: # (Collection of links 2501 - 3000)
-[2501]: https://www.dnb.no
-[2502]: https://sbanken.no/
-[2503]: http://entry.statoil.no/HR/PerformanceAndReward/benefits/Pages/sharesaving.aspx
-[2504]: https://www.investopedia.com/
-[2505]: https://newsweb.oslobors.no/
-
-
----------------------------------------------------------------------------------------------
-## 7. Education ##
-
-### 7.1 Education - General courses ###
-
-- [Aalto Scientific Computing][2009]
-- [Code Refinery][2008]
-- [Data Carpentry][2007]
-- [HPC Carpentry][2006]
-- [Library Carpentry][2005]
-- [Software Carpentry][2004]
-
-### 7.2 Education - Special courses ###
-
-| Location      | Course name                         |
-| ------------- |:-----------------------------------:|
-| Udacity       | [Data Analyst Nanodegree][2002]     |
-| Coursera      | [Data Science Specialization][2001] |
-| W3Schools     | [Tutorials][2003]                   |
-
-[//]: # (Collection of links 2001 - 2500)
-[2001]: https://www.coursera.org/specializations/jhu-data-science
-[2002]: https://www.udacity.com/course/data-analyst-nanodegree--nd002?v=a4
-[2003]: https://www.w3schools.com/
-[2004]: https://software-carpentry.org/lessons/
-[2005]: https://librarycarpentry.org/lessons/
-[2006]: https://hpc-carpentry.github.io/
-[2007]: https://datacarpentry.org/lessons/
-[2008]: https://coderefinery.org/lessons/
-[2009]: http://scicomp.aalto.fi/training/
-
-
----------------------------------------------------------------------------------------------
-## 8. Libraries ##
-
-### 8.1 Libraries - Python ###
-
-| Library       | Code           | Installation  | Documentation | Forum                      |
-| ------------- |:--------------:|:-------------:|:-------------:|:--------------------------:|
-| cntk          | [GitHub][4001] | pip           |               |                            |
-| keras         | [GitHub][4002] | pip           | [Doc][4003]   | [Google group forum][4004] |
-| statsmodels   |                | conda         |               | [Google group forum][4005] |
-| tensorflow    | [GitHub][4006] | pip           | [Doc][4007]   |                            |
-| theano        | [GitHub][4008] | pip           |               | [Google group forum][4009] |
-
-[//]: # (Collection of links 4001 - 5000)
-[4001]: https://github.com/Microsoft/cntk
-[4002]: https://github.com/keras-team/keras
-[4003]: https://keras.io/
-[4004]: https://groups.google.com/forum/#!forum/keras-users
-[4005]: https://groups.google.com/forum/#!forum/pystatsmodels
-[4006]: https://github.com/tensorflow/tensorflow
-[4007]: https://www.tensorflow.org/
-[4008]: https://github.com/Theano/Theano
-[4009]: https://groups.google.com/forum/#!forum/theano-users
+- [Aksjesparingsprogram, Equinor](http://entry.statoil.no/HR/PerformanceAndReward/benefits/Pages/sharesaving.aspx)
+- [Investopedia](https://www.investopedia.com/)
+- [Oslo Børs, News](https://newsweb.oslobors.no/)
 
 
 ---------------------------------------------------------------------------------------------
@@ -302,11 +135,60 @@
 ---------------------------------------------------------------------------------------------
 ## 12. Subjects - [Computer Science](https://ingehap.github.io/MyStart_Subjects_CS.html) ##
 
-### 12.1 General ###
+### 12.1 CS - General Resources - Books ###
 
 - [Packt Subscription](https://subscription.packtpub.com/login)
 
-### 12.2 C++ - Books ###
+### 12.2 CS - General Resources - CIs - Travis CI ###
+
+- [CircleCI](https://circleci.com/)
+  + [Configurations](https://circleci.com/docs/2.0/configuration-reference/)
+  + [Docker](https://circleci.com/docs/2.0/circleci-images/)
+  + [Hosting Options](https://circleci.com/product/#hosting-options)
+  + [Integration Options](https://circleci.com/product/#integrations)
+- [Travis CI](https://travis-ci.org/)
+  + [Travis CI - Blog](https://blog.travis-ci.com/)
+  + [Travis CI - Building a Python Project](https://docs.travis-ci.com/user/languages/python/)
+  + [Travis CI - Changelog](https://changelog.travis-ci.com/)
+  + [Travis CI - Configuring Build Notifications](https://docs.travis-ci.com/user/notifications/)
+  + [Travis CI - Core Concepts for Beginners](https://docs.travis-ci.com/user/for-beginners)
+  + [Travis CI - Customizing the Build](https://docs.travis-ci.com/user/customizing-the-build/)
+  + [Travis CI - Docs](https://docs.travis-ci.com/)
+  + [Travis CI - Getting started](https://travis-ci.com/getting_started)
+  + [Travis CI - Tutorial](https://docs.travis-ci.com/user/tutorial/)
+  + [Travis CI - Wikipedia](https://en.wikipedia.org/wiki/Travis_CI)
+
+### 12.3 CS - General Resources - Competitions ###
+
+- [Analytics Vidhya - Datahack](https://datahack.analyticsvidhya.com/?utm_source=AVHome)
+- [Kaggle Competitions](https://www.kaggle.com/competitions)
+
+### 12.4 CS - General Resources - Data sets ###
+
+| Data set                  | Forum                      |
+| ------------------------- |:--------------------------:|
+| ImageNet                  | [Google group forum][3001] |
+| [Kaggle collection][3002] |                            |
+| [UNSD Statistics][3003]   |                            |
+
+[//]: # (Collection of links 3001 - 3500)
+[3001]: https://groups.google.com/forum/#!forum/imagenet-community
+[3002]: https://www.kaggle.com/datasets
+[3003]: https://unstats.un.org/home/
+
+### 12.5 CS - General Resources - Education ###
+
+- [Aalto Scientific Computing](http://scicomp.aalto.fi/training/)
+- [Code Refinery](https://coderefinery.org/lessons/)
+- [Coursera](https://www.coursera.org)
+- [Data Carpentry](https://datacarpentry.org/lessons/)
+- [HPC Carpentry](https://hpc-carpentry.github.io/)
+- [Library Carpentry](https://librarycarpentry.org/lessons/)
+- [Software Carpentry](https://software-carpentry.org/lessons/)
+- [Udacity](https://www.udacity.com)
+- [W3Schools](https://www.w3schools.com/)
+
+### 12.6 CS - C++ - Books ###
 
 - *Abrahams, C++ Template Metaprogramming*
 - *Alexrandrescu, Modern C++ Design*
@@ -320,7 +202,20 @@
 - *Sutter, Exceptional C++ Style*
 - *Sutter, More Exceptional C++*
 
-### 12.3 Loglan - template ###
+### 12.7 CS - C++ - Compilers ###
+
+- [Visual Studio Professional; Subscription ID = 5537d862-eb42-44c7-abb0-7fe73c5bf6b1](https://my.visualstudio.com/benefits?mkt=en-us)
+
+### 12.8 CS - JSON ###
+
+[JSON homepage](http://www.json.org/)
+
+### 12.9 CS - Julia ###
+
+- [Julia Homepage](https://julialang.org/)
+- [Julia Documentation](https://docs.julialang.org)
+
+### 12.10 CS - Loglan - template ###
 
 ```loglan
 /* Initilaize local variables
@@ -365,11 +260,30 @@ enddo
 return
 ```
 
-### 12.3 Python - Resources  ###
+### 12.11 CS - Markdown - Resources  ###
 
+- [Pritchard Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+### 12.12 CS - Python  ###
+
+- [Python Homepage](https://www.python.org/)
+- [Python Documentation](https://docs.python.org)
 - [Python on English Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language))
+- [Jypyter Viewer](https://nbviewer.jupyter.org/github/WillKoehrsen/Data-Analysis/blob/master/plotly/Plotly%20Whirlwind%20Introduction.ipynb)
 
-### 12.4 Other ###
+### 12.12.1 CS - Python - Libraries ###
+
+- [cntk, pip](https://github.com/Microsoft/cntk)
+- [keras, pip](https://github.com/keras-team/keras)
+- [statsmodels, conda](https://keras.io/)
+- [tensorflow, pip](https://github.com/tensorflow/tensorflow)
+- [theano, pip](https://github.com/Theano/Theano)
+
+### 12.13 CS - YAML - Resources  ###
+
+- [Yaml](https://yaml.org/spec/)
+
+### 12.14 CS - Other ###
 
 - [Analytics Vidhya](https://www.analyticsvidhya.com/)
   + [Analytics Vidhya - Data Science](https://www.analyticsvidhya.com/blog/category/data-science/)
@@ -433,7 +347,7 @@ return
 ---------------------------------------------------------------------------------------------
 ## 13. Subjects - Earth Sciences ##
 
-### 13.1 Books ###
+### 13.1 ES - Books ###
 
 - [Cubitt, Geophysics for Petroleum Engineers](https://play.google.com/books/reader?id=JaLkZj47-2sC&pg=GBS.PP1)
 - [Dandekar, Petroleum Reservoir Rock and Fluid Properties](https://play.google.com/books/reader?id=tgTSBQAAQBAJ&pg=GBS.PP1)
