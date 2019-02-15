@@ -302,7 +302,11 @@
 ---------------------------------------------------------------------------------------------
 ## 12. Subjects - [Computer Science](https://ingehap.github.io/MyStart_Subjects_CS.html) ##
 
-### 12.1 Books - C++ ###
+### 12.1 General ###
+
+- [Packt Subscription](https://subscription.packtpub.com/login)
+
+### 12.2 C++ - Books ###
 
 - *Abrahams, C++ Template Metaprogramming*
 - *Alexrandrescu, Modern C++ Design*
@@ -315,10 +319,6 @@
 - *Sutter, Exceptional C++*
 - *Sutter, Exceptional C++ Style*
 - *Sutter, More Exceptional C++*
-
-### 12.2 Books - streaming ###
-
-- [Packt Subscription](https://subscription.packtpub.com/login)
 
 ### 12.3 Loglan - template ###
 
@@ -364,6 +364,10 @@ dowhile GET_FRAME ()
 enddo
 return
 ```
+
+### 12.3 Python - Resources  ###
+
+- [Python on English Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language))
 
 ### 12.4 Other ###
 
