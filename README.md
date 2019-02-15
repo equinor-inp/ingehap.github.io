@@ -3,7 +3,7 @@
 ---------------------------------------------------------------------------------------------
 
 - 1\. Research (general)
-- 1\.1 R - Communities
+  + 1\.1 R - Communities
 - 2\. Ancient Near East
 - 3\. Biology
 - 4\. Computer Science
