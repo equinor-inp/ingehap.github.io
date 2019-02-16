@@ -31,7 +31,10 @@
 
 ## 1.2 R - Databases ##
 
+- [AAPG DataPages](http://archives.datapages.com/data/index.html)    
 - [ACM Digital Library](https://dl.acm.org/dl.cfm)
+- [Bokmålsordboka and Nynorskordboka](https://ordbok.uib.no/)
+- [BORA (Bergen Open Research Archive, UiB)](http://bora.uib.no/)
 - [BrightTALK](https://www.brighttalk.com/)
 - [Internet Archive Search](https://archive.org/search.php)
 - [LovData](https://lovdata.no/)
@@ -64,6 +67,7 @@
 ## 1.4 R - Reporting ##
 
 - [BellingCat](https://www.bellingcat.com/)
+- [Centre for Ivestigative Journalism](https://tcij.org/)
 
 ## 1.5 R - Statistics ##
 
