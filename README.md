@@ -514,6 +514,7 @@ return
 ## 6.2 Economy - Investments ##
 
 - [Aksjesparingsprogram, Equinor](http://entry.statoil.no/HR/PerformanceAndReward/benefits/Pages/sharesaving.aspx)
+- [Finansportalen](https://www.finansportalen.no/)
 - [Investopedia](https://www.investopedia.com/)
 - [Oslo Børs, News](https://newsweb.oslobors.no/)
 
