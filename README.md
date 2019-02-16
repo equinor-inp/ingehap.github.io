@@ -179,7 +179,7 @@
 &nbsp;
 
 ---------------------------------------------------------------------------------------------
-# 4. Subjects - [Computer Science](https://ingehap.github.io/MyStart_Subjects_CS.html) #
+# 4. [Computer Science](https://ingehap.github.io/MyStart_Subjects_CS.html) #
 ---------------------------------------------------------------------------------------------
 
 ## 4.1 CS - General Resources - Books ##
@@ -395,7 +395,7 @@ return
 &nbsp;
 
 ---------------------------------------------------------------------------------------------
-# 5. Subjects - Earth Sciences #
+# 5. Earth Sciences #
 ---------------------------------------------------------------------------------------------
 
 ## 5.1 ES - Books ##
@@ -523,10 +523,10 @@ return
 &nbsp;
 
 ---------------------------------------------------------------------------------------------
-# 7. Subjects - Mathematics #
+# 7. Mathematics #
 ---------------------------------------------------------------------------------------------
 
-## 7.1 Books ##
+## 7.1 M - Books ##
 
 - [Abramowitz, Handbook of Mathematical Functions, with Formulas, Graphs, and Mathematical Tables](https://play.google.com/books/reader?id=KiPCAgAAQBAJ&pg=GBS.PP1)
 - [Copley, Mathematics for the Physical Sciences](https://play.google.com/store/books/details/Leslie_Copley_Mathematics_for_the_Physical_Science?id=Zp8oCQAAQBAJ)
@@ -538,7 +538,7 @@ return
 - [Tao, Solving Mathematical Problems, A Personal Perspective](https://play.google.com/books/reader?id=ZBTJWhXD05MC&pg=GBS.PP1)
 - [Watanabe, Integral Transform Techniques for Green's Function, 2nd ed](https://play.google.com/books/reader?id=fJ1wCAAAQBAJ&pg=GBS.PP1)
 
-## 7.2 Other ##
+## 7.2 M - Other ##
 
 - [Amazon Kindle (Reader)](https://read.amazon.ca/)
 - [Archives Grothendieck](https://grothendieck.umontpellier.fr/archives-grothendieck/)
@@ -565,10 +565,10 @@ return
 &nbsp;
 
 ---------------------------------------------------------------------------------------------
-# 8. Subjects - Physics #
+# 8. Physics #
 ---------------------------------------------------------------------------------------------
 
-## 8.1 Books ##
+## 8.1 P - Books ##
 
 - [Bland, The Theory of Linear Viscoelasticity](https://play.google.com/books/reader?id=tgTSBQAAQBAJ&pg=GBS.PP1)
 - [Carcione, Wave Fields in Real Media](https://play.google.com/books/reader?id=yR4tBAAAQBAJ&pg=GBS.PP1)
@@ -580,7 +580,7 @@ return
 
 Current book: [Bookmark](https://play.google.com/books/reader?id=HVVDAAAAQBAJ&pg=GBS.PA1)
 
-## 8.2 Web ##
+## 8.2 P - Web ##
 
 - [Amazon Kindle](https://read.amazon.ca/)
 - [CERN Document Server](http://cdsweb.cern.ch/)
