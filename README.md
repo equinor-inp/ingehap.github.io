@@ -65,7 +65,18 @@
 
 - [BellingCat](https://www.bellingcat.com/)
 
-## 1.5 R - Theses ##
+## 1.5 R - Statistics ##
+
+- [APEC Statistics](http://apec.org/)
+- [EUROSTAT](https://www.jodidata.org/about-jodi/partners/eurostat.aspx)
+- [GECF Statistics](https://www.gecf.org/)
+- [IEA Statistics](https://www.iea.org/statistics/)
+- [IEF Statistics](https://www.ief.org/)
+- [Jodi Statistics](https://www.jodidata.org/)
+- [OLADE Statistics](http://www.olade.org/)
+- [OPEC Statistics](https://www.opec.org/opec_web/en/)
+
+## 1.6 R - Theses ##
 
 - [digitalcommons.lsu.edu](https://digitalcommons.lsu.edu/gradschool_disstheses/)
 - [Durham e-Theses](http://etheses.dur.ac.uk/)
@@ -73,10 +84,10 @@
 - [Univ Stockholm (Math)](https://www.math.su.se/english/publications/dissertations/phd-theses/phd-theses-in-mathematics-1.70794)
 - [UWC Electronic Theses and Dissertations Repository](https://etd.uwc.ac.za/)
 
-## 1.6 R - Tools ##
+## 1.7 R - Tools ##
 
-- [Digipost](https://www.digipost.no/app/#/)
-- [Evernote Web](https://www.evernote.com/client/web#?an=true&n=fb19ba95-be6d-4b4b-98a0-a44f39c5fc08&s=s134&)
+### 1.7.1 R - Tools - Git ###
+
 - [Git Bash](https://git-scm.com/)
   + [Command Line Tutorial](https://www.youtube.com/watch?v=HVsySz-h9r4)
 - [GitHub](https://github.com/)
@@ -92,11 +103,19 @@
   + [Docs](https://docs.gitlab.com/)
   + [Search](https://gitlab.com/explore/projects?sort=stars_desc)
   + [Training](https://about.gitlab.com/training/)
+  
+### 1.7.2 R - Tools - Google ###
+
 - Google
   + [GDrive (highest)](https://drive.google.com/drive/my-drive)
   + [GMail](https://mail.google.com/mail/u/0/#inbox)
   + [Google Sheet API](https://developers.google.com/sheets/api/)
   + [My books](https://play.google.com/books)
+  
+### 1.7.3 R - Tools - Other ###
+
+- [Digipost](https://www.digipost.no/app/#/)
+- [Evernote Web](https://www.evernote.com/client/web#?an=true&n=fb19ba95-be6d-4b4b-98a0-a44f39c5fc08&s=s134&)
 - [KanbanFlow (std)](https://kanbanflow.com)
 
 &nbsp;
