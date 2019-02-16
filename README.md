@@ -41,6 +41,7 @@
 - [Janus Database](http://web.iodp.tamu.edu/OVERVIEW/?&set=1)
   + [Janus Data Types & Examples](http://iodp.tamu.edu/database/datatypes.html#therm)
 - [LovData](https://lovdata.no/)
+- [Nasjonalbiblioteket, search](https://www.nb.no/search)
 - [On-Line Encyclopedia of Integer Sequences (OEIS)](http://oeis.org/)
 - [Pangaea](https://www.pangaea.de/)
 - [ProQuest](https://search.proquest.com/)
