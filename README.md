@@ -36,6 +36,10 @@
 - [Bokmålsordboka and Nynorskordboka](https://ordbok.uib.no/)
 - [BORA (Bergen Open Research Archive, UiB)](http://bora.uib.no/)
 - [BrightTALK](https://www.brighttalk.com/)
+- [Dagbladet Arkiv](https://www.dagbladet.no/eavis/sok/)
+- [Encyclopaedia Iranica](http://www.iranicaonline.org/)
+- [Feedly](https://feedly.com/i/my)
+- [HEPData](https://hepdata.net/)
 - [inSPIRE](http://inspirehep.net/)
 - [Internet Archive Search](https://archive.org/search.php)
 - [Janus Database](http://web.iodp.tamu.edu/OVERVIEW/?&set=1)
@@ -124,6 +128,7 @@
 - Google
   + [GDrive (highest)](https://drive.google.com/drive/my-drive)
   + [GMail](https://mail.google.com/mail/u/0/#inbox)
+  + [Google Scholar](https://scholar.google.no/)
   + [Google Sheet API](https://developers.google.com/sheets/api/)
   + [My books](https://play.google.com/books)
   
@@ -318,7 +323,13 @@ return
 - [Python on English Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language))
 - [Jypyter Viewer](https://nbviewer.jupyter.org/github/WillKoehrsen/Data-Analysis/blob/master/plotly/Plotly%20Whirlwind%20Introduction.ipynb)
 
-## 4.12.1 CS - Python - Libraries ##
+### 4.12.1 CS - Python - Libraries ###
+
+- [Langtangen - Finite Difference Computing with Exponential Decay Models](https://play.google.com/books/reader?id=7NhCDwAAQBAJ&pg=GBS.PP1)
+- [Langtangen - Scaling of Differential Equations](https://play.google.com/books/reader?id=JtlCDwAAQBAJ&pg=GBS.PP1)
+- [Langtangen - Solving PDEs in Python, The FEniCS Tutorial I](https://play.google.com/books/reader?id=JtpCDwAAQBAJ&pg=GBS.PP1)
+
+### 4.12.2 CS - Python - Libraries ###
 
 - [cntk, pip](https://github.com/Microsoft/cntk)
 - [keras, pip](https://github.com/keras-team/keras)
@@ -440,7 +451,11 @@ return
 | Temperature conversion | degC = (degF - 32) * 5 / 9                         | [Calc][10000] |
 | Western Atlas          | Rw(75 degF) = 0.0123 + 3647.5 * SALINITY**(-0.955) |               |
 
-## 5.6 Unit conversion ##
+## 5.6 Maps ##
+
+- [GeoIndex Offshore (BGS)](http://mapapps2.bgs.ac.uk/geoindex_offshore/home.html?submit=Open+the+offshore+GeoIndex)
+
+## 5.7 Unit conversion ##
 
 | Unit 1               | Unit 2             |
 |:--------------------:|:------------------:|
@@ -477,6 +492,7 @@ return
 - [Mir titles](https://archive.org/details/@mirtitles)
 - [NPD - Bulletins](http://factpages.npd.no/ReportServer?/FactPages/Attributes/wellbore&rs:Command=Render&rc:Toolbar=false&rc:parameters=f&CultureCode=en)
 - [NPD - Estimated temperature at final total depth](http://www.npd.no/engelsk/cwi/cmn_doc/wdss_description_bht.htm)
+- [NPD - Factpages](http://factpages.npd.no/factpages/)
 - [NPD - Geographical data](http://factpages.npd.no/ReportServer?/FactPages/geography/geography_all&rs:Command=Render&rc:Toolbar=false&rc:Parameters=f&IpAddress=1&CultureCode=en)
 - [NPD - Shapefile](https://en.wikipedia.org/wiki/Shapefile)
 - [NPD - Wellbore attribute description](http://factpages.npd.no/ReportServer?/FactPages/Attributes/wellbore&rs:Command=Render&rc:Toolbar=false&rc:parameters=f&CultureCode=en)
