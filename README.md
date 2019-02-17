@@ -150,6 +150,18 @@
 
 - [Ask Dr Brown (YouTube)](https://www.youtube.com/user/AskDrBrownVideos/playlists)
 - [Heiser, Michael S.](http://drmsh.com/)
+  + [Commentary on Acts 1:1-11 (Naked Bible Podcast)](https://www.youtube.com/watch?v=lG8Xf3zl9kg)
+  + [Commentary on Acts 1:12-26 (Naked Bible Podcast)](https://www.youtube.com/watch?v=yJl7bWpMJEU)
+  + [Commentary on Acts 2:1-21 (Naked Bible Podcast)](https://www.youtube.com/watch?v=GcuPA9oIzlU)
+  + [Commentary on Acts 2:22-41 (Naked Bible Podcast)](https://www.youtube.com/watch?v=EKBt7CczZl0)
+  + [Commentary on Acts 3 (Naked Bible Podcast)](https://www.youtube.com/watch?v=OG9jir6MoCI)
+  + [Commentary on Acts 9 (Naked Bible Podcast)](https://www.youtube.com/watch?v=KRjpX7J3P1E)
+  + [Eschatology Overview](https://www.youtube.com/watch?v=P4qc6eMhbKc)
+  + [From Chaos to Restoration (Part 1)](https://www.youtube.com/watch?v=0K9hBHwt5n0&t=1649s)
+  + [From Chaos to Restoration (Part 2)](https://www.youtube.com/watch?v=xpEkX83781I)
+  + [Genesis and the Ancient Near East](https://www.youtube.com/watch?v=rN2Ppbrtf-Q)
+  + [Postmodernism, Neopaganism, Science Fiction, and Biblical Apologetics](https://www.youtube.com/watch?v=gciGgn_2v0I)
+  + [What Day Was Jesus Born ?](https://www.youtube.com/watch?v=Dz1ZFkz1QtA)
 - [rabbi Sacks](http://rabbisacks.org/)
 
 ## 2.2 ANE - Databases ##
