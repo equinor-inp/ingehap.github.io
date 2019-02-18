@@ -569,7 +569,12 @@ return
 - [Tao, Solving Mathematical Problems, A Personal Perspective](https://play.google.com/books/reader?id=ZBTJWhXD05MC&pg=GBS.PP1)
 - [Watanabe, Integral Transform Techniques for Green's Function, 2nd ed](https://play.google.com/books/reader?id=fJ1wCAAAQBAJ&pg=GBS.PP1)
 
-## 7.2 M - Other ##
+## 7.2 M - Journals ##
+
+- [Quanta Magazine](https://www.quantamagazine.org/)
+- [SIAM News](https://sinews.siam.org/Current-Issue/Issue-Archives)
+
+## 7.3 M - Other ##
 
 - [Amazon Kindle (Reader)](https://read.amazon.ca/)
 - [Archives Grothendieck](https://grothendieck.umontpellier.fr/archives-grothendieck/)
@@ -583,7 +588,6 @@ return
 - [One Mathematical Cat](http://www.onemathematicalcat.org/)
 - [Principle of maximum entropy; Wikipedia](https://en.wikipedia.org/wiki/Principle_of_maximum_entropy)
 - [Project Euclid](https://projecteuclid.org/)
-- [Quanta Magazine](https://www.quantamagazine.org/)
 - [SIAM Bookstore](http://bookstore.siam.org/)
 - [UMN, School of Mathematics](https://math.umn.edu/)
   + [Data Science Seminars](https://www.ima.umn.edu/seminar/dsseminar)
