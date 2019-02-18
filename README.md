@@ -74,6 +74,7 @@
 
 - [arXiv](https://arxiv.org/)
 - [biorXiv](https://www.biorxiv.org/)
+- [CORE](https://core.ac.uk/)
 - [eartharXiv](https://eartharxiv.org/)
 - [ePrints Soton (Univ. Southampton)](https://eprints.soton.ac.uk/)
 - [OSF (preprints)](https://osf.io/preprints/)
@@ -486,12 +487,14 @@ return
 
 - [Agile Libre](https://www.agilelibre.com/)
 - [Amazon Kindle reader](https://read.amazon.ca/)
+- [Curvenam.es](http://curvenam.es/)
 - [EAGE Play list](https://www.youtube.com/channel/UC-OVFor4pRDBLFDwLW4C6UQ)
 - [Editions Technip](http://www.editionstechnip.com/en.html)
 - [Effective medium approximations; Wikipedia](https://en.wikipedia.org/wiki/Effective_medium_approximations)
 - [Exploration Geophysics](https://library.seg.org/loi/exgeef)
 - [Force Seminars](https://www.youtube.com/playlist?list=PLQRq8gtBBwegwPkyp4oPFcHcfowtc2lCV)
 - [Geophysics](https://library.seg.org/loi/gpysa7)
+- [Geophysics Information System](https://fis-gp.liag-hannover.de/fis_gp/startFIS.php?_language=en)
 - [Google Play](https://play.google.com/books)
 - [IARP](http://www.rockphysicists.org/)
 - [IFP Energies nouvelles e-books](https://books.ifpenergiesnouvelles.fr/ebooks/home/index.htm)
