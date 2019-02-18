@@ -611,17 +611,21 @@ return
 
 Current book: [Bookmark](https://play.google.com/books/reader?id=HVVDAAAAQBAJ&pg=GBS.PA1)
 
-## 8.2 P - Web ##
+## 8.2 P - Journals ##
+
+- [Fra Fysikkens Verden](http://www.norskfysisk.no/fra-fysikkens-verden/tidligere-utgaver-av-fra-fysikkens-verden/)
+- [Kvant](http://www.kvant.dk/)
+- [Physics Teacher](https://aapt.scitation.org/journal/pte)
+- [Quanta Magazine](https://www.quantamagazine.org/)
+
+## 8.3 P - Web ##
 
 - [Amazon Kindle](https://read.amazon.ca/)
 - [CERN Document Server](http://cdsweb.cern.ch/)
 - [Google Play](https://play.google.com/books)
-- [Kvant](http://www.kvant.dk/)
 - [liveBooks Manning](https://livebook.manning.com/#!//library)
 - [Mir titles](https://archive.org/details/@mirtitles)
-- [Physics Teacher](https://aapt.scitation.org/journal/pte)
 - [Principle of least action; Wikipedia](https://en.wikipedia.org/wiki/Principle_of_least_action)
-- [Quanta Magazine](https://www.quantamagazine.org/)
 
 &nbsp;
 
