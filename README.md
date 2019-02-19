@@ -249,6 +249,7 @@
 - [Data Carpentry](https://datacarpentry.org/lessons/)
 - [HPC Carpentry](https://hpc-carpentry.github.io/)
 - [Library Carpentry](https://librarycarpentry.org/lessons/)
+- [Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
 - [Software Carpentry](https://software-carpentry.org/lessons/)
 - [Udacity](https://www.udacity.com)
 - [W3Schools](https://www.w3schools.com/)
