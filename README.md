@@ -227,6 +227,7 @@
 
 - [Analytics Vidhya - Datahack](https://datahack.analyticsvidhya.com/?utm_source=AVHome)
 - [Kaggle Competitions](https://www.kaggle.com/competitions)
+  + [How to Make a Data Science Project with Kaggle](https://www.youtube.com/watch?v=m2DfpM6MyB8)
 
 ## 4.4 CS - General Resources - Data sets ##
 
