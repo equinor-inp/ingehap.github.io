@@ -245,17 +245,24 @@
 ## 4.5 CS - General Resources - Education ##
 
 - [Aalto Scientific Computing](http://scicomp.aalto.fi/training/)
+- [ACM (Association for Computing Machinery)](https://www.acm.org/)
+- [Cloud Vision](https://cloud.google.com/vision/)
 - [Code Refinery](https://coderefinery.org/lessons/)
 - [Coursera](https://www.coursera.org)
 - [Data Carpentry](https://datacarpentry.org/lessons/)
 - [HPC Carpentry](https://hpc-carpentry.github.io/)
 - [Library Carpentry](https://librarycarpentry.org/lessons/)
 - [Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
+  + [Create a Python app in Azure App Service on Linux ](https://docs.microsoft.com/nb-no/azure/app-service/containers/quickstart-python)
 - [Software Carpentry](https://software-carpentry.org/lessons/)
 - [Udacity](https://www.udacity.com)
 - [W3Schools](https://www.w3schools.com/)
 
-## 4.6 CS - C++ - Books ##
+## 4.6 CS - Language - C++ - Blogs ##
+
+- [Jason Turner](https://www.patreon.com/lefticus)
+
+## 4.6 CS - Language - C++ - Books ##
 
 - *Abrahams, C++ Template Metaprogramming*
 - *Alexrandrescu, Modern C++ Design*
@@ -269,20 +276,20 @@
 - *Sutter, Exceptional C++ Style*
 - *Sutter, More Exceptional C++*
 
-## 4.7 CS - C++ - Compilers ##
+## 4.7 CS - Language - C++ - Compilers ##
 
 - [Visual Studio Professional; Subscription ID = 5537d862-eb42-44c7-abb0-7fe73c5bf6b1](https://my.visualstudio.com/benefits?mkt=en-us)
 
-## 4.8 CS - JSON ##
+## 4.8 CS - Language - JSON ##
 
 [JSON homepage](http://www.json.org/)
 
-## 4.9 CS - Julia ##
+## 4.9 CS - Language - Julia ##
 
 - [Julia Homepage](https://julialang.org/)
 - [Julia Documentation](https://docs.julialang.org)
 
-## 4.10 CS - Loglan - template ##
+## 4.10 CS - Language - Loglan - template ##
 
 ```loglan
 /* Initilaize local variables
@@ -327,32 +334,35 @@ enddo
 return
 ```
 
-## 4.11 CS - Markdown - Resources  ##
+## 4.11 CS - Language - Markdown - Resources  ##
 
 - [Pritchard Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-## 4.12 CS - Python  ##
+## 4.12 CS - Language - Python  ##
 
+- [Google's Python Class](https://developers.google.com/edu/python/)
+- [nbviewer](https://nbviewer.jupyter.org/)
 - [Python Homepage](https://www.python.org/)
 - [Python Documentation](https://docs.python.org)
 - [Python on English Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language))
-- [Jypyter Viewer](https://nbviewer.jupyter.org/github/WillKoehrsen/Data-Analysis/blob/master/plotly/Plotly%20Whirlwind%20Introduction.ipynb)
+- [Plotly](https://nbviewer.jupyter.org/github/WillKoehrsen/Data-Analysis/blob/master/plotly/Plotly%20Whirlwind%20Introduction.ipynb)
 
-### 4.12.1 CS - Python - Libraries ###
+### 4.12.1 CS - Language - Python - Books ###
 
 - [Langtangen - Finite Difference Computing with Exponential Decay Models](https://play.google.com/books/reader?id=7NhCDwAAQBAJ&pg=GBS.PP1)
 - [Langtangen - Scaling of Differential Equations](https://play.google.com/books/reader?id=JtlCDwAAQBAJ&pg=GBS.PP1)
 - [Langtangen - Solving PDEs in Python, The FEniCS Tutorial I](https://play.google.com/books/reader?id=JtpCDwAAQBAJ&pg=GBS.PP1)
 
-### 4.12.2 CS - Python - Libraries ###
+### 4.12.2 CS - Language - Python - Libraries ###
 
 - [cntk, pip](https://github.com/Microsoft/cntk)
 - [keras, pip](https://github.com/keras-team/keras)
+- [resscript.geophysics.oracle_database module](https://sdp.equinor.com/wikidocs/GBS/ResScript_Modules_Documentation/resscript.geophysics.oracle_database.html)
 - [statsmodels, conda](https://keras.io/)
 - [tensorflow, pip](https://github.com/tensorflow/tensorflow)
 - [theano, pip](https://github.com/Theano/Theano)
 
-## 4.13 CS - YAML - Resources  ##
+## 4.13 CS - Language - YAML - Resources  ##
 
 - [Yaml](https://yaml.org/spec/)
 
@@ -364,8 +374,10 @@ return
   + [Analytics Vidhya - Machine Learning](https://www.analyticsvidhya.com/blog/category/machine-learning/) 
   + [Analytics Vidhya - Python Archive](https://www.analyticsvidhya.com/blog/category/python-2/)
   + [Analytics Vidhya - Training](https://trainings.analyticsvidhya.com/)
+- [Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/)
 - [Data36](https://data36.com/)
 - [EliteDataScience](https://elitedatascience.com)
+- [Git Bash](C:\appl\Git\git-bash.exe --cd-to-home)
 - [GitHub](https://github.com/)
   + [ActiveState - Code](https://github.com/ActiveState/code)
   + [Alessandro Amato del Monte](https://github.com/aadm)
@@ -389,10 +401,14 @@ return
   + [Peter Melchior](https://github.com/pmelchior/)
   + [pytorch](https://github.com/pytorch)
   + [ResidentMario - missingno](https://github.com/ResidentMario/missingno)
+  + [sconten - rppy - rock physics library for Python](https://github.com/sconten/rppy)
   + [SSH](https://help.github.com/articles/connecting-to-github-with-ssh/)
   + [Statoil, libres](https://github.com/Statoil/libres)
   + [taki0112, Tensorflow-DatasetAPI](https://github.com/taki0112/Tensorflow-DatasetAPI)
+- [Introducing TensorFlow Probability](https://medium.com/tensorflow/introducing-tensorflow-probability-dca4c304e245)
 - [MMIX Home Page](http://mmix.cs.hm.edu/)
+- [Playground TensorFlow](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.55876&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
+- [Probabilistic programming; Wikipedia (english)](https://en.wikipedia.org/wiki/Probabilistic_programming_language)
 - [Reddit](https://www.reddit.com)
   + [Data Science](https://www.reddit.com/r/datascience/)
   + [Machine Learning](https://www.reddit.com/r/MachineLearning/)
@@ -517,6 +533,7 @@ return
 - [OnePetro](https://www.onepetro.org/)
 - [Open Group, digitalization](http://www3.opengroup.org/open-subsurface-data-universe)
 - [OpenEarth Community](https://openearth.community/)
+- [OSIsoft](https://www.osisoft.com/)
 - [PennWell books](https://www.pennwellbooks.com/categories/petroleum.html)
 - [Quanta Magazine](https://www.quantamagazine.org/)
 - [Rocks-2-Digits (blog)](http://txresources.com/rocks2digits/)
