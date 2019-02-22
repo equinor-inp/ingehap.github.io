@@ -144,7 +144,7 @@
 &nbsp;
 
 ---------------------------------------------------------------------------------------------
-# 2. Subjects - Ancient Near East #
+# 2. Ancient Near East #
 ---------------------------------------------------------------------------------------------
 
 ## 2.1 ANE - Blogs ##
@@ -162,6 +162,7 @@
   + [From Chaos to Restoration (Part 2)](https://www.youtube.com/watch?v=xpEkX83781I)
   + [Genesis and the Ancient Near East](https://www.youtube.com/watch?v=rN2Ppbrtf-Q)
   + [Postmodernism, Neopaganism, Science Fiction, and Biblical Apologetics](https://www.youtube.com/watch?v=gciGgn_2v0I)
+  + [Taking The Bible's Own Context Seriously (Naked Bible Podcast)](https://www.youtube.com/watch?v=GGoJasU0VvU)
   + [What Day Was Jesus Born ?](https://www.youtube.com/watch?v=Dz1ZFkz1QtA)
 - [rabbi Sacks](http://rabbisacks.org/)
 
@@ -613,6 +614,17 @@ return
   + [DTC](http://www.dtc.umn.edu/seminars/online.php)
   + [IMA Video Library](https://www.ima.umn.edu/videos)
   + [Mathematics of Climate Seminars](http://www-users.math.umn.edu/~mcgehee/Seminars/ClimateChange/schedule/seminar_archives.html)
+
+&nbsp;
+
+&nbsp;
+
+---------------------------------------------------------------------------------------------
+# 8. Music #
+---------------------------------------------------------------------------------------------
+
+- [Paul Wilbur - THE WATCHMAN FULL ALBUM](https://www.youtube.com/watch?v=ucBsdH1xoLE)
+- [The Highwaymen Live in Las Vegas](https://www.youtube.com/watch?v=qAiPsZRZNOI)
 
 &nbsp;
 
