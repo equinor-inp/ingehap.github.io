@@ -569,6 +569,11 @@ return
 - [Investopedia](https://www.investopedia.com/)
 - [Oslo Børs, News](https://newsweb.oslobors.no/)
 
+## 6.3 Economy - Pension ##
+
+- [NAV](https://www.nav.no/no/Person/Pensjon/Hva+kan+jeg+fa+i+pensjon)
+- [Statens pensjonskasse](https://www.spk.no/)
+
 &nbsp;
 
 &nbsp;
