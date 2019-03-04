@@ -582,6 +582,12 @@ return
 # 7. Mathematics #
 ---------------------------------------------------------------------------------------------
 
+## 8.1 M - Amazon book lists ##
+
+- [Differential Geometry](https://www.amazon.com/Best-Sellers-Kindle-Store-Differential-Geometry/zgbs/digital-text/158720011/ref=zg_bs_nav_kstore_6_158717011)
+- [Geometry & Topology](https://www.amazon.com/Best-Sellers-Kindle-Store-Geometry-Topology/zgbs/digital-text/158717011/ref=zg_bs_nav_kstore_6_158715011)
+- [Mathematics Research](https://www.amazon.com/Best-Sellers-Kindle-Store-Mathematics-Research/zgbs/digital-text/159761011/ref=zg_bs_nav_kstore_5_158705011)
+
 ## 7.1 M - Books ##
 
 - [Abramowitz, Handbook of Mathematical Functions, with Formulas, Graphs, and Mathematical Tables](https://play.google.com/books/reader?id=KiPCAgAAQBAJ&pg=GBS.PP1)
@@ -638,6 +644,11 @@ return
 ---------------------------------------------------------------------------------------------
 # 8. Physics #
 ---------------------------------------------------------------------------------------------
+
+## 8.1 P - Amazon book lists ##
+
+- [Chaos & Systems](https://www.amazon.com/Best-Sellers-Kindle-Store-Chaos-Systems/zgbs/digital-text/158715011/ref=zg_bs_nav_kstore_6_159761011)
+- [System Theory Physics](https://www.amazon.com/gp/bestsellers/digital-text/159805011/ref=zg_b_bs_159805011_1)
 
 ## 8.1 P - Books ##
 
