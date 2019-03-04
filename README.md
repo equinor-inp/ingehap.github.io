@@ -147,6 +147,11 @@
 # 2. Ancient Near East #
 ---------------------------------------------------------------------------------------------
 
+## 2.1 ANE - Amazon book lists ##
+
+- [Christian Reference](https://www.amazon.com/Best-Sellers-Kindle-Store-Christian-Reference/zgbs/digital-text/158380011/ref=zg_bs_nav_kstore_4_158296011)
+- [Christian Theology](https://www.amazon.com/Best-Sellers-Kindle-Store-Christian-Theology/zgbs/digital-text/158415011/ref=zg_bs_nav_kstore_4_158296011)
+
 ## 2.1 ANE - Blogs ##
 
 - [Ask Dr Brown (YouTube)](https://www.youtube.com/user/AskDrBrownVideos/playlists)
@@ -582,7 +587,7 @@ return
 # 7. Mathematics #
 ---------------------------------------------------------------------------------------------
 
-## 8.1 M - Amazon book lists ##
+## 7.1 M - Amazon book lists ##
 
 - [Differential Geometry](https://www.amazon.com/Best-Sellers-Kindle-Store-Differential-Geometry/zgbs/digital-text/158720011/ref=zg_bs_nav_kstore_6_158717011)
 - [Geometry & Topology](https://www.amazon.com/Best-Sellers-Kindle-Store-Geometry-Topology/zgbs/digital-text/158717011/ref=zg_bs_nav_kstore_6_158715011)
