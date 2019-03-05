@@ -446,7 +446,11 @@ return
 # 5. Earth Sciences #
 ---------------------------------------------------------------------------------------------
 
-## 5.1 ES - Books ##
+## 5.1 ES - Amazon book lists ##
+
+- [Geophysics](https://www.amazon.com/Best-Sellers-Kindle-Store-Geophysics/zgbs/digital-text/158682011/ref=zg_bs_nav_kstore_5_158676011)
+
+## 5.2 ES - Books ##
 
 - [Cubitt, Geophysics for Petroleum Engineers](https://play.google.com/books/reader?id=JaLkZj47-2sC&pg=GBS.PP1)
 - [Dandekar, Petroleum Reservoir Rock and Fluid Properties](https://play.google.com/books/reader?id=tgTSBQAAQBAJ&pg=GBS.PP1)
@@ -462,9 +466,9 @@ return
 - [Trefil, A Scientist at the Seashore](https://play.google.com/books/reader?id=wzTDAgAAQBAJ&pg=GBS.PP1)
 - [Yang, Fundamentals of Petrophysics](https://play.google.com/books/reader?id=81Z7DQAAQBAJ&pg=GBS.PP1)
 
-## 5.2 ES - Calculators ##
+## 5.3 ES - Calculators ##
 
-## 5.3 ES - Constants ##
+## 5.4 ES - Constants ##
 
 | System               | Density (g/cc) | K (GPa) | G (GPa) | Molar mass (g/mol) | GC relation (km/s)      |
 |:--------------------:|:--------------:|:-------:|:-------:|:------------------:|:-----------------------:|
@@ -476,11 +480,11 @@ return
 | quartz               | 2.65           |  36.0   |  41.0   |                    |                         |
 | shale                | 2.65           |  30.0   |  10.0   |                    |                         |
 
-## 5.4 Courses ##
+## 5.5 Courses ##
 
 - [Signal processing for geologists and geophysicists](https://books.ifpenergiesnouvelles.fr/ebooks/signal-processing/)
 
-## 5.5 Formulas ##
+## 5.6 Formulas ##
 
 | Name                   | Formula                                            | Calculator    |
 |:----------------------:|:--------------------------------------------------:|:-------------:|
@@ -488,11 +492,11 @@ return
 | Temperature conversion | degC = (degF - 32) * 5 / 9                         | [Calc][10000] |
 | Western Atlas          | Rw(75 degF) = 0.0123 + 3647.5 * SALINITY**(-0.955) |               |
 
-## 5.6 Maps ##
+## 5.7 Maps ##
 
 - [GeoIndex Offshore (BGS)](http://mapapps2.bgs.ac.uk/geoindex_offshore/home.html?submit=Open+the+offshore+GeoIndex)
 
-## 5.7 Unit conversion ##
+## 5.8 Unit conversion ##
 
 | Unit 1               | Unit 2             |
 |:--------------------:|:------------------:|
@@ -507,7 +511,7 @@ return
 | 1 psi / ft           | 0.2262059 bar / m  |
 | 1 Sm3 / Sm3          | 5.614583 scf / bbl |
 
-## 5.7 Other ##
+## 5.9 Other ##
 
 - [Agile Libre](https://www.agilelibre.com/)
 - [Amazon Kindle reader](https://read.amazon.ca/)
