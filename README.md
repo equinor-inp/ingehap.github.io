@@ -255,6 +255,8 @@
 - [ACM (Association for Computing Machinery)](https://www.acm.org/)
 - [Cloud Vision](https://cloud.google.com/vision/)
 - [Code Refinery](https://coderefinery.org/lessons/)
+- [CoCalc](https://cocalc.com/)
+- [Codeburst](https://codeburst.io/)
 - [Coursera](https://www.coursera.org)
 - [Data Carpentry](https://datacarpentry.org/lessons/)
 - [HPC Carpentry](https://hpc-carpentry.github.io/)
@@ -412,7 +414,11 @@ return
   + [SSH](https://help.github.com/articles/connecting-to-github-with-ssh/)
   + [Statoil, libres](https://github.com/Statoil/libres)
   + [taki0112, Tensorflow-DatasetAPI](https://github.com/taki0112/Tensorflow-DatasetAPI)
+- [HackerNoon](https://hackernoon.com/)
 - [Introducing TensorFlow Probability](https://medium.com/tensorflow/introducing-tensorflow-probability-dca4c304e245)
+- [Kaggle](https://www.kaggle.com/)
+  + [Kaggle kernels](https://www.kaggle.com/kernels)
+- [KD Nuggets](https://www.kdnuggets.com/)
 - [MMIX Home Page](http://mmix.cs.hm.edu/)
 - [Playground TensorFlow](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.55876&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
 - [Probabilistic programming; Wikipedia (english)](https://en.wikipedia.org/wiki/Probabilistic_programming_language)
@@ -516,6 +522,7 @@ return
 
 ## 5.9 Other ##
 
+- [AAPG Wiki](https://wiki.aapg.org/Main_Page)
 - [Agile Libre](https://www.agilelibre.com/)
 - [Amazon Kindle reader](https://read.amazon.ca/)
 - [Curvenam.es](http://curvenam.es/)
@@ -700,18 +707,12 @@ Current book: [Bookmark](https://play.google.com/books/reader?id=HVVDAAAAQBAJ&pg
 
 ## 9.1 Other - A ##
 
-- [AAPG Wiki](https://wiki.aapg.org/Main_Page)
 - [ACCU](https://accu.org/)
 - [ActiveState](https://www.activestate.com/)
 - [AI index](https://aiindex.org/)
 - [Algorithmia](https://algorithmia.com/)
 - [Amazon](https://www.amazon.com)
   + [Amazon - Manage Your Content and Devices](https://www.amazon.com/mn/dcw/myx.html/ref=nav_youraccount_myk#/home/content/booksAll/dateDsc/)
-
-## 9.2 Other - C ##
-
-- [CoCalc](https://cocalc.com/)
-- [Codeburst](https://codeburst.io/)
 
 ## 9.3 Other - D ##
 
@@ -726,17 +727,6 @@ Current book: [Bookmark](https://play.google.com/books/reader?id=HVVDAAAAQBAJ&pg
 
 - [Facebook](https://www.facebook.com/)
 - [freeCodeCamp](https://medium.freecodecamp.org/)
-
-## 9.5 Other - H ##
-
-- [HackerNoon](https://hackernoon.com/)
-
-
-## 9.6 Other - K ##
-
-- [Kaggle](https://www.kaggle.com/)
-  + [Kaggle kernels](https://www.kaggle.com/kernels)
-- [KD Nuggets](https://www.kdnuggets.com/)
 
 ## 9.7 Other - S ##
 
