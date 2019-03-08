@@ -469,6 +469,8 @@ return
 
 ## 5.3 ES - Calculators ##
 
+- [Calculators](https://github.com/ingehap/ingehap.github/GSCalculators.html)
+
 ## 5.4 ES - Constants ##
 
 | System               | Density (g/cc) | K (GPa) | G (GPa) | Molar mass (g/mol) | GC relation (km/s)      |
