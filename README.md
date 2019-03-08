@@ -469,7 +469,7 @@ return
 
 ## 5.3 ES - Calculators ##
 
-- [Calculators](https://github.com/ingehap/ingehap.github/GSCalculators.html)
+- [Calculators](https://ingehap.github.io/GSCalculators.html)
 
 ## 5.4 ES - Constants ##
 
