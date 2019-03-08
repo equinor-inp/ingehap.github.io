@@ -209,6 +209,7 @@
 ## 4.1 CS - General Resources - Books ##
 
 - [Packt Subscription](https://subscription.packtpub.com/login)
+- [Pragmatic Bookshelf](https://pragprog.com/)
 
 ## 4.2 CS - General Resources - CIs - Travis CI ##
 
