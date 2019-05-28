@@ -36,6 +36,11 @@ table, th, td {
 
 <h1> Calculators </h1>
 
+<p><h3>C00. Convert between Sm3/Sm3 and scf/bbl:</h3><p>
+
+<p><input id="c2" onkeyup="convert2('Sm3/Sm3')"> Volume ratio (Sm3/Sm3)</p>
+<p><input id="f2" onkeyup="convert2('scf/bbl')"> Volume ratio (scf/bbl)</p> 
+
 <p><h3>C01. Convert between Celsius and Fahrenheit:</h3></p>
 
 <p><input id="c" onkeyup="convert('C')"> Temperature (degrees Celsius)</p>
@@ -85,6 +90,17 @@ function convert(degree) {
   }
 }
 
+function convert2(vol_ratio) {
+  var x;
+  if (degree == "Sm3/Sm3") {
+    x = document.getElementById("c2").value * 5.614583;
+    document.getElementById("f2").value = x;
+  } else {
+    x = (document.getElementById("f2").value / 5.614583;
+    document.getElementById("c2").value = x;
+  }
+}
+    
 function calc1() {
   var temp = Number(document.getElementById("in11").value);
   var water_res = Number(document.getElementById("in12").value);
