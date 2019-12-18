@@ -91,10 +91,13 @@ table, th, td {
     cd <my_project>
     python -m venv .venv
     source .venv/bin/activate (Linux)
+    mkdir images
     
     cd doc
-    # edit index.rst and other files
-    make html
+    # 1. edit index.rst and other files
+    # 2. building documentation
+    sphinx-build -b html . ..\build\sphinx\html
+    sphinx-build -b epub . ..\build\sphinx\epub
   </code>
 </pre>
     
