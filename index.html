@@ -148,9 +148,73 @@ table, th, td {
 </pre>
 
 <H3>4.5 CS - Testing</H3>
+
+<H4>4.5.1 CS - Testing - Terminology</H4>
+<pre>
+  <code>
+  unit test                 testing fcunction / module / class in isolation
+  integration test          testing a large subsystem, several unit tests
+  system test (end-to-end)  testing the complete system     
+  functional test           test a single bit of functionality
+  subcataneous test         test that does not run GUI, but below end-user interface
+  session                   one invocation of pytest
+  </code>
+</pre>
+
+<H4>4.5.2 CS - Testing - Python Testing Libraries</H4>
+
+<H5>4.5.2.1 CS - Testing - Python Testing Libraries - nose</H5>
+
 <ul>
 <li><a href="https://nose.readthedocs.io/en/latest/">nose - Read The Docs</a></li>
+</ul>
+
+<H5>4.5.2.2 CS - Testing - Python Testing Libraries - pytest</H5>
+
+<ul>
 <li><a href="https://docs.pytest.org/en/latest/">pytest - homepage</a></li>
+</ul>
+
+<pre>
+  <code>
+  How to run pytest
+  -----------------
+  pytest                            looks in current folder and in subfolders for test files
+                                    runs the test code it finds
+  pytest --help                     prints help information
+  pytest <directories>              as pytest, but with roots as given
+  pytest <file names sep by space>  run all tests in the files
+  pytest -v test_a.py::test_b       run function test_b located in file test_a
+  
+  Naming conventions
+  ------------------
+  Default rules for making code discoverable by pytest are
+  - name test files test_*.py or *_test.py
+  - name test functions / modules test_*
+  - name test classes Test*
+  The default rules may be altered via a onfiguration file
+  
+  Understanding pytest output
+  ---------------------------
+  F = failures
+  E = errors
+  s = skips (defined by decorators @pytest.mark.skip() or @pytest.mark.skipif())
+  x = xfails (expected to fail and fails; defined by @pytest.mark.xfail())
+  X = xpasses (expected to fail, but passes)
+  </code>
+  
+  Configuration files
+  -------------------
+  One of the files pytest.ini, toc.ini, or setup.cfg
+  
+  Compatibility with other test libraries
+  ---------------------------------------
+  pytest can run tests written for unittest and nose packages
+</pre>
+
+<H5>4.5.2.2 CS - Testing - Python Testing Libraries - unittest</H5>
+
+<ul>
 <li><a href="https://docs.python.org/3/library/unittest.html">unittest - homepage</a></li>
 </ul>
 
