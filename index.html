@@ -43,6 +43,7 @@ table, th, td {
     4. Computer Science (CS)
     4.1 CS - Communities
     4.2 CS - Programming Languages
+    4.2.1 CS - Programming Languages - Tcl
     4.3 CS - How to document
     4.3.1 CS - How to document - General
     4.3.2 CS - How to document - Python
@@ -106,7 +107,27 @@ table, th, td {
     $PG_GEOLOG_HOME/lib                Tcl extension libraries
     parray env                         show environment variables
     
-    Geolog specific - Starting Tcl intepreter
+    Geolog specific - script 1
+    #bin/hw.tcl
+    puts "Hello World!"
+    
+    Geolog specific - script 2
+    #bin/hwtk.tcl
+    toplevel .w
+    button .w.b -text "Bye!" -command "destroy .w"
+    pack .w.b
+    
+    Geolog specific - standalone programs (Tclsh)
+    #!/bin/sh
+    # the next line restarts using tclsh\
+    exec tclsh "$0""$@"
+    
+    Geolog specific - standalone programs (Tksh)
+    #!/bin/sh
+    # the next line restarts using tksh\
+    exec tksh "$0" "$@"
+    
+    Geolog specific - starting Tcl intepreter
     on Unix cmd line:              geolog tclsh
     on Geolog Launcher bar:        File/Tcl Terminal
     bottom arrow in Well/Project (looks in bin)
