@@ -102,6 +102,14 @@ table, th, td {
   
     Geolog specific - environment variables
     set env(PG_GEOLOG_HOME)            location of release area
+    set env(PG_GEOLOG_HOME) <val>      change value
+    $PG_GEOLOG_HOME/lib                Tcl extension libraries
+    parray env                         show environment variables
+    
+    Geolog specific - Starting Tcl intepreter
+    on Unix cmd line:              geolog tclsh
+    on Geolog Launcher bar:        File/Tcl Terminal
+    bottom arrow in Well/Project (looks in bin)
     
     Sources
     Welch, "Practical Programming in Tcl and Tk"
