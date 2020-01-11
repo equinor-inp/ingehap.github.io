@@ -201,23 +201,31 @@ table, th, td {
 <H3>4.5 CS - Reminders</H3>
 
 <H4>4.5.1 CS - Rems - Setting up a project</H4>
-
 <pre>
   <code>
-    # pip install sphinx
-    # pip install pyscaffold[all]
+    Assumed packages
+    - pip install sphinx
+    - pip install pyscaffold[all]
     
-    putup <my_project>
-    cd <my_project>
+    Make a project by pyscaffold
+    putup "my_project"
+    cd "my_project"
     python -m venv .venv
     source .venv/bin/activate (Linux)
     mkdir images
     
+    Make documentation
     cd doc
     # 1. edit index.rst and other files
     # 2. building documentation
     sphinx-build -b html . ..\build\sphinx\html
     sphinx-build -b epub . ..\build\sphinx\epub
+    python setup.py docs
+    
+    Make distributions
+    build source distribution         python setup.py sdist
+    build binary distribution         python setup.py bdist
+    build wheel distribution          python setup.py bdist_wheel
   </code>
 </pre>
 
