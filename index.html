@@ -254,7 +254,6 @@ table, th, td {
 <ul>
 <li><a href="https://docs.pytest.org/en/latest/">pytest - homepage</a></li>
 </ul>
-
 <pre>
   <code>
   How to run pytest
@@ -265,6 +264,12 @@ table, th, td {
   pytest "directories"              as pytest, but with roots as given
   pytest "file names sep by space"  run all tests in the files
   pytest -v test_a.py::test_b       run function test_b located in file test_a
+  pytest --version                  pytest lib version
+  pytest --tb=no                    turns off stak trace
+  pytest -q                         decrease verbosity
+  pytest -l                         show locals in tracebacks
+  pytest -x                         stops if a test fails
+  pytest --collect-only             only collect tests, don't execute
   
   Naming conventions
   ------------------
