@@ -234,12 +234,14 @@ table, th, td {
 <H4>4.6.1 CS - Testing - Terminology</H4>
 <pre>
   <code>
-  unit test                 testing fcunction / module / class in isolation
-  integration test          testing a large subsystem, several unit tests
-  system test (end-to-end)  testing the complete system     
+  fixture                   setup/teardown functions or representing data/resources
   functional test           test a single bit of functionality
-  subcataneous test         test that does not run GUI, but below end-user interface
+  hook functions            way of inserting code in pytest executions
+  integration test          testing a large subsystem, several unit tests
   session                   one invocation of pytest
+  subcataneous test         test that does not run GUI, but below end-user interface
+  system test (end-to-end)  testing the complete system 
+  unit test                 testing fcunction / module / class in isolation
   </code>
 </pre>
 
@@ -290,7 +292,11 @@ table, th, td {
   
   Configuration files
   -------------------
-  One of the files pytest.ini, toc.ini, or setup.cfg
+  pytest.ini        directives for changing behavior of pytest
+  conftest.py       hook functions and fixtures (one in test, one in subdirs)
+  toc.ini
+  setup.cfg
+  
   
   Compatibility with other test libraries
   ---------------------------------------
