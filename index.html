@@ -290,6 +290,28 @@ table, th, td {
   Compatibility with other test libraries
   ---------------------------------------
   pytest can run tests written for unittest and nose packages
+  
+  Marking test functions by decorators
+  ------------------------------------
+  @pytest.mark.simple
+  def test_anything():
+  ..
+  >> pytest -v -m 'simple'
+  
+  Skipping test functions by decorators
+  -------------------------------------
+  @pytest.mark.skip(reason='bad code, must be fixed')
+  def test_meaning_of_life():
+  ..
+  @pytest.mark.skipif(tasks.__version__ < '0.2.0')
+  def test_other():
+  >> pytest -rs
+  
+  Marking tests as expecting to fail
+  ----------------------------------
+  @pytest.mark.xfail(reason='missing input')
+  def test_one():
+  
 </pre>
 
 <H4>4.6.4 CS - Testing - Python Testing Library unittest</H4>
