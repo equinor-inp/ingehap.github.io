@@ -359,11 +359,48 @@ table, th, td {
 
 <H3>4.9 CS - Version Control</H3>
 
-<H4>4.9.1 CS - Version Control - Git</H4>
+<H4>4.9.1 CS - Version Control - Terminology</H4>
 
 <pre>
   <code>
+  Monorepo    store multiple packages in the same repo
+  </code>
+</pre>
 
+<H4>4.9.2 CS - Version Control - Git</H4>
+
+<pre>
+  <code>
+  Download
+  --------
+  https://git-scm.com/downloads
+
+  Set-up
+  ------
+  git config --global user.name "Inge H. A. Pettersen"
+  git config --global user.email ingehap@gmail.com
+  
+  Check set-up
+  ------------
+  git config user.name
+  git config user.email
+  
+  Clone a repo
+  ------------
+  git clone "clone url"
+  
+  Check out code at a particular stage
+  ------------------------------------
+  git checkout "commit hash"
+  
+  Open pull request
+  -----------------
+  git remote set-url origin "forked url"
+  git checkout -b test-branch-2
+  git commit --allow-empty -m "opening pr"
+  git push origin test-branch-2
+  On GitHub, click "Compare & pull request" on test-branch-2.
+  Afterwards change base repository to forkked one.
   </code>
 </pre>
 
