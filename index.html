@@ -62,7 +62,8 @@ table, th, td {
     4.9 CS - Version Control
     4.9.1 CS - Version Control - Git
     4.10 CS - Virtual environments 
-    4.10.1 CS - Virtual environments - Conda
+    4.10.1 CS - Virtual environments - conda
+    4.10.2 CS - Virtual environments - venv
     5. Geo Sciences (GS)
     5.1 GS - Communities
     5.2 GS - Tools
@@ -427,7 +428,7 @@ table, th, td {
 
 <H3>4.10 CS - Virtual environments</H3>
 
-<H4>4.10.1 CS - Virtual environments - Conda</H4>
+<H4>4.10.1 CS - Virtual environments - conda</H4>
 <pre>
   <code>
   Create virtual environment (default method)
@@ -457,6 +458,35 @@ table, th, td {
   Remove environment
   ------------------
   conda remove --name "your env name" --all
+  </code>
+</pre>
+
+<H4>4.10.2 CS - Virtual environments - venv</H4>
+<pre>
+  <code>
+  Create environment
+  ------------------
+  python -m venv demo_env
+  
+  Activate environment
+  --------------------
+  demo_env\Scripts\activate
+  
+  Deactivate
+  ----------
+  deactivate
+  
+  Make requirement file
+  ---------------------
+  pip freeze > requirements.txt
+  
+  Run requirement file
+  --------------------
+  pip install -r requirements.txt
+  
+  Remove virtual environment
+  --------------------------
+  delete folder containing the environment
   </code>
 </pre>
 
