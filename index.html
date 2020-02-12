@@ -77,7 +77,8 @@ table, th, td {
     5.4 GS - Tools
     6. Mathematics (M)
     6.1 M - Communities
-    6.2 M - Tools
+    6.2 M - Linear Algebra
+    6.3 M - Tools
     7. Physics (P)
     7.1 P - Communities
   </code>
@@ -710,7 +711,27 @@ C_{31} & C_{32} & C_{33} & 0 & 0 & 0 \\
 <li><a href="http://oeis.org/">On-Line Encyclopedia of Integer Sequences (OEIS)</a></li>
 </ul>
 
-<H3>6.2 M - Tools</H3>
+<H3>6.2 M - Linear Algebra</H3>
+
+Let
+\begin{equation*}
+M =
+\begin{bmatrix}
+A & B \\
+C & D 
+\end{bmatrix}
+\end{equation*}
+and assume that submatrix A is invertible. If the matrix
+\( \Delta = D - CA^{-1}B \) is also invertivle, then we have 
+\begin{equation*}
+M^{-1} =
+\begin{bmatrix}
+(A^{-1}+A^{-1}B\Delta^{-1}CA^{-1}) & -A^{-1}B\Delta^{-1} \\
+-\Delta^{-1}CA^{-1} & \Delta^{-1} 
+\end{bmatrix}
+\end{equation*}
+
+<H3>6.3 M - Tools</H3>
 <ul>
 <li><a href="https://github.com/ingehap/ingehap.github.io/blob/master/Chang%20-%20latexsheet-a4.pdf">LaTeX Cheat Sheet (Chang)</a></li>
 <li><a href="https://github.com/ingehap/ingehap.github.io/blob/master/Hefferon%20-%20LaTeX%20Math%20for%20Undergrads.pdf">LaTeX Math for Undergrads (Hefferon)</a></li>
