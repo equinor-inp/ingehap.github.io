@@ -477,6 +477,42 @@ MathJax.Hub.Config({
 <li><a href="https://docs.python.org/3/library/unittest.html">unittest - homepage</a></li>
 </ul>
 
+<pre>
+  <code>
+#angle.py
+class Angle:
+    def __init__(self, deg):
+        self.deg = deg % 360
+    def is_acute(self):
+        return (self.deg < 90)
+    def add(self, ang):
+        return Angle(self.deg + ang.deg)
+
+#test_angle.py
+class TestAngle(unittest.TestCase):
+    def test_deg(self):
+        small = Angle(60)
+        self.assertEqual(60, small.deg)
+        self.assertTrue(small.is_acute())
+        big = Angle(320)
+        total = small.add(big)
+        self.assertEqual(20, total.deg, 'Adding')
+
+# running
+python -m unittest test_angle.py
+
+# More asserts
+assertNotEqual
+assertIs
+assertIsNot
+assertIn
+assertInInstance
+assertDictEqual
+assertListEqual
+
+  </code>
+</pre>
+
 <H3>4.8 CS - Tools</H3>
 <pre>
   <code>
