@@ -614,48 +614,26 @@ assertListEqual
   </code>
 </pre>
 
-<H3>4.10 CS - Virtual environments</H3>
-
-<H4>4.10.1 CS - Virtual environments - conda</H4>
-<pre>
-  <code>
-  Create virtual environment (default method)
-  -------------------------------------------
-  conda create --name "your env name" python=3.7 -y
-  
-  Create virtual environment from YAML file
-  -----------------------------------------
-  conda env create -f environment.yml
-  
-  Activate virtual environment
-  ----------------------------
-  conda activate "your env name"
-  
-  Deactivate virtual environment
-  ------------------------------
-  conda deactivate
-  
-  Information about current virtual environment
-  ---------------------------------------------
-  conda info --env
-  
-  Duplicate current env to YAML file
-  ----------------------------------
-  conda env export > my_environment.yml
-  
-  Remove environment
-  ------------------
-  conda remove --name "your env name" --all
-  </code>
-</pre>
-
 <ul>
 <li><a href="https://github.com/equinor/welp">github.com/equinor/welp</a></li>
 </ul>
 
-<H4>4.10.2 CS - Virtual environments - venv</H4>
+<H3>4.10 CS - Virtual environments</H3>
+
 <pre>
   <code>
+  Virtual environment = conda
+  
+  Create virtual environment (default method)           conda create --name "your env name" python=3.7 -y
+  Create virtual environment from YAML file             conda env create -f environment.yml
+  Activate virtual environment                          conda activate "your env name"
+  Deactivate virtual environment                        conda deactivate
+  Information about current virtual environment         conda info --env
+  Duplicate current env to YAML file                    conda env export > my_environment.yml
+  Remove environment                                    conda remove --name "your env name" --all
+  
+  Virtual environment = venv
+  
   Create environment             python -m venv demo_env
   Activate environment           demo_env\Scripts\activate
   Deactivate                     deactivate
