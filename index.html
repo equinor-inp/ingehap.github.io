@@ -632,14 +632,15 @@ assertListEqual
   Duplicate current env to YAML file                    conda env export > my_environment.yml
   Remove environment                                    conda remove --name "your env name" --all
   
+  
   Virtual environment = venv
   
-  Create environment             python -m venv demo_env
-  Activate environment           demo_env\Scripts\activate
-  Deactivate                     deactivate
-  Make requirement file          pip freeze > requirements.txt
-  Run requirement file           pip install -r requirements.txt
-  Remove virtual environment     delete folder containing the environment
+  Create environment                                    python -m venv demo_env
+  Activate environment                                  demo_env\Scripts\activate
+  Deactivate                                            deactivate
+  Make requirement file                                 pip freeze > requirements.txt
+  Run requirement file                                  pip install -r requirements.txt
+  Remove virtual environment                            "delete folder containing the environment"
   </code>
 </pre>
 
