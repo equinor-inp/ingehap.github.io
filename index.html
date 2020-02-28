@@ -81,10 +81,14 @@ MathJax.Hub.Config({
     
     5. Geo Sciences (GS)
     5.1 GS - Communities
-    5.2 GS - Inversions
-    5.2 GS - Petrophysics
-    5.3 GS - Rock Physics
-    5.4 GS - Tools
+    5.2 GS - Equinor
+    5.3 GS - Inversions
+    5.4 GS - Maps
+    5.5 GS - Petrophysics
+    5.6 GS - Rock Physics
+    5.6.1 GS - Voigt notation
+    5.6.2 GS - TIV
+    5.7 GS - Tools
     
     6. Mathematics (M)
     6.1 M - Communities
@@ -711,7 +715,15 @@ assertListEqual
 <li><a href="https://sites.utexas.edu/formation/3d-utapwels/">University of Texas, Austin - 3D UTAPWeLS</a></li>
 </ul>
 
-<H3>5.2 GS - Inversion</H3>
+<H3>5.2 GS - Equinor</H3>
+
+<ul>
+<li><a href="https://statoilsrm.sharepoint.com/sites/PETECHUB">Equinor - Petec HUB</a></li>
+<li><a href="https://statoilsrm.sharepoint.com/sites/PETECHUB/SitePages/ReservoirModSim.aspx">Equinor - Petec HUB - Reservoir modelling and simulation</a></li>
+<li><a href="https://www.yammer.com/statoil.com/#/threads/inGroup?type=in_group&feedId=14966652928&view=all">Equinor - Yammer - Reservoir Modelling and Simulation network</a></li>
+</ul>
+
+<H3>5.3 GS - Inversion</H3>
 
 <p>
 J. Hadamard defined a problem ill-posed if not all of the following are true:
@@ -750,21 +762,20 @@ The following are classes of inversion methods:
 <li>Deep Neural </li>
 </ul>
 
-<H3>5.2 GS - Petrophysics</H3>
-
-<ul>
-<li><a href="https://www.bhge.com/upstream/drilling/drilling-services/logging-while-drilling-services">Baker Hughes - LWD</a></li>
-<li><a href="https://www.bhge.com/upstream/evaluation/wireline-logging">Baker Hughes - WL</a></li>
-
-</ul>
-
-<H3>5.3 GS - Maps</H3>
+<H3>5.4 GS - Maps</H3>
 
 <ul>
 <li><a href="http://mapapps2.bgs.ac.uk/geoindex_offshore/home.html?submit=Open+the+offshore+GeoIndex">GeoIndex Offshore (BGS)</a></li>
 </ul>
 
-<H3>5.3 GS - Rock Physics</H3>
+<H3>5.5 GS - Petrophysics</H3>
+
+<ul>
+<li><a href="https://www.bhge.com/upstream/drilling/drilling-services/logging-while-drilling-services">Baker Hughes - LWD</a></li>
+<li><a href="https://www.bhge.com/upstream/evaluation/wireline-logging">Baker Hughes - WL</a></li>
+</ul>
+
+<H3>5.6 GS - Rock Physics</H3>
 
 Classical elastic theory describe materials to first order in the deformation vector \( \vec{u}(\vec{x})\). Hooke's law 
 connects the strain vector \( \sigma_{ij} \) to <br />
@@ -776,7 +787,7 @@ the stress tensor \( \epsilon_{ij} = \frac{1}{2}(\frac{\partial u_{i}}{\partial 
 Due to the symmetriess \( C_{ijkl} = C_{jikl} = C_{klij} \) , there are at most 21 independant component in 
 stead of \( 3^{4} = 81\) components.
 
-<H4>5.3.1 GS - Voigt notation</H4>
+<H4>5.6.1 GS - Voigt notation</H4>
  
 \begin{equation*}
 C =
@@ -790,7 +801,7 @@ C_{31} & C_{32} & C_{33} & 0 & 0 & 0 \\
 \end{bmatrix}
 \end{equation*}
 
-<H4>5.3.2 GS - TIV</H4>
+<H4>5.6.2 GS - TIV</H4>
 
 This section is based on an email from Alex Nicodimou (ANicodimou@slb.com) and the article 
 A. N. Norris and B. K. Sinha 1993, "Weak elastic anisotropy and the tube waves", Geophysics, 
@@ -803,7 +814,7 @@ C55_APP_BH            | C55 stiffness from fast shear slowness
 C66_APP_BH            | C66 stiffness from Stoneley shear slowness
 V_{\mbox{qSV}}        | quasi-shear velocity
 
-<H3>5.4 GS - Tools</H3>
+<H3>5.7 GS - Tools</H3>
 <ul>
 <li><a href="https://git.iws.uni-stuttgart.de/dumux-repositories/dumux">DuMuX</a></li>
 <li><a href="http://www.zib.de/projects/kaskade7-finite-element-toolbox">Kaskade 7</a></li>
