@@ -637,18 +637,25 @@ assertListEqual
 
 <pre>
   <code>
-                                                      Virtual environment = conda                            Virtual environment = venv
+                                                      Virtual environment = conda                           
   
-  Create virtual environment (default method)         conda create --name "your env name" python=3.7 -y      python -m venv demo_env
+  Create virtual environment (default method)         conda create --name "your env name" python=3.7 -y      
   Create virtual environment from YAML file           conda env create -f environment.yml
-  Activate virtual environment                        conda activate "your env name"                         demo_env\Scripts\activate
-  Deactivate virtual environment                      conda deactivate                                       deactivate
+  Activate virtual environment                        conda activate "your env name"                        
+  Deactivate virtual environment                      conda deactivate                                       
   Information about current virtual environment       conda info --env
   Duplicate current env to YAML file                  conda env export > my_environment.yml
-  Remove environment                                  conda remove --name "your env name" --all              "delete folder of envir"
+  Remove environment                                  conda remove --name "your env name" --all              
+                   
+  </code>
+</pre>
 
-  Make requirement file     pip freeze > requirements.txt
-  Run requirement file      pip install -r requirements.txt                       
+<H4>4.10 CS - Requirements</H4>
+
+<pre>
+  <code>
+  Make requirement file       pip freeze > requirements.txt
+  Run requirement file        pip install -r requirements.txt    
   </code>
 </pre>
 
