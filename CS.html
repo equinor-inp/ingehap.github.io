@@ -246,62 +246,6 @@ MathJax.Hub.Config({
   </code>
 </pre>
 
-<H3>4.3 CS - How to document</H3>
-
-<H4>4.3.1 CS - How to document - General</H4>
-
-<table style="width:100%">
-  <caption>Table 4.2.1: Documentation - Activity, Audience, and Guidance</caption>
-  <tr>
-    <th>Activity</th>
-    <th>Audience</th>
-    <th>Guidance</th>
-  </tr>
-  <tr>
-    <td>Coding</td>
-    <td>developers and maintainers</td>
-    <td>How: plan or outline; intent; algorithm; BUG vs TODO vs FIX</td>
-  </tr>
-  <tr>
-    <td>Commenting</td>
-    <td>developers and maintainers</td>
-    <td>Why is code necessary?</td>
-  </tr>
-  <tr>
-    <td>Documenting</td>
-    <td>users</td>
-    <td>What is overall purpose of code?</td>
-  </tr>
-</table>
-
-<H4>4.3.2 CS -How to document - Markdown</H4>
-
-<ul>
-<li><a href="https://cirosantilli.com/markdown-style-guide">Markdown Style Guide (Ciro Santilli)</a></li>
-</ul>
-
-<ul>
-<li><a href="https://www.w3schools.com/python/default.asp">W3Schools - Python</a></li>
-</ul>
-
-<H4>4.3.3 CS - How to document - Python</H4>
-
-<ul>
-<li><a href="https://black.readthedocs.io/en/stable/">Black</a></li>
-<li><a href="https://github.com/python/peps">Python PEPs on GitHub</a></li>
-<li><a href="https://www.python.org/dev/peps/pep-0008/">PEP 8 -- Style Guide for Python Code</a></li>
-<li><a href="https://pep8.org/">Style Guide for Python Code (Kenneth Reitz version, PEP8)</a></li>
-<li><a href="https://www.python.org/dev/peps/pep-0256/">PEP 256 -- Docstring Processing System Framework</a></li>
-<li><a href="https://www.python.org/dev/peps/pep-0257/">PEP 257 -- Docstring Conventions</a></li>
-<li><a href="https://www.python.org/dev/peps/pep-0258/">PEP 258 -- Docutils Design Specification</a></li>
-<li><a href="https://devguide.python.org/">Python Developer’s Guide</a></li>
-<li><a href="https://readthedocs.org/">Read the Docs</a></li>
-<li><a href="https://numpydoc.readthedocs.io/en/latest/">Read the Docs - numpydoc</a></li>
-<li><a href="https://docutils.sourceforge.io/rst.html">reST</a></li>
-<li><a href="https://docutils.sourceforge.io/docs/user/rst/quickref.html">reST - Quick reference</a></li>
-<li><a href="https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html">sphinx-doc - reStructuredText Primer</a></li>
-</ul>
-
 <H3>4.4 CS - Libraries of interest - Python</H3>
 
 <pre>
@@ -377,37 +321,6 @@ MathJax.Hub.Config({
   </code>
 </pre>
 <ul>
-
-<H3>4.5 CS - Project set-ups</H3>
-
-<H4>4.5.1 CS - Project set-ups - Python</H4>
-<pre>
-  <code>
-    Assumed packages
-    - pip install sphinx
-    - pip install pyscaffold[all]
-    
-    Make a project by pyscaffold
-    putup "my_project"
-    cd "my_project"
-    python -m venv .venv
-    source .venv/bin/activate (Linux)
-    mkdir images
-    
-    Make documentation
-    cd doc
-    # 1. edit index.rst and other files
-    # 2. building documentation
-    sphinx-build -b html . ..\build\sphinx\html
-    sphinx-build -b epub . ..\build\sphinx\epub
-    python setup.py docs
-    
-    Make distributions
-    build source distribution         python setup.py sdist
-    build binary distribution         python setup.py bdist
-    build wheel distribution          python setup.py bdist_wheel
-  </code>
-</pre>
 
 <H3>4.6 CS - Testing</H3>
 
@@ -593,12 +506,34 @@ assertListEqual
   </code>
 </pre>
 
-<H2>4.9 CS - How to Do Python Projects</H2>
+<H2>4.9 CS - How to Make A Python Project</H2>
 
-<H4>4.9.1 CS - Set up project</H4>
+<H4>4.9.1 CS - Set up folder structure</H4>
 <pre>
   <code>
-  cookiecutter https://github.com/ingehap/cookiecutter-pypackage.git
+    Assumed packages
+    - pip install sphinx
+    - pip install pyscaffold[all]
+    
+    Make a project by pyscaffold
+    putup "my_project"
+    cd "my_project"
+    python -m venv .venv
+    source .venv/bin/activate (Linux)
+    mkdir images
+    
+    Make documentation
+    cd doc
+    # 1. edit index.rst and other files
+    # 2. building documentation
+    sphinx-build -b html . ..\build\sphinx\html
+    sphinx-build -b epub . ..\build\sphinx\epub
+    python setup.py docs
+    
+    Make distributions
+    build source distribution         python setup.py sdist
+    build binary distribution         python setup.py bdist
+    build wheel distribution          python setup.py bdist_wheel
   </code>
 </pre>
 
@@ -645,11 +580,63 @@ assertListEqual
   </code>
 </pre>
 
+<H3>4.9.4 CS - How to document</H3>
+
+<H4>4.9.4.1 CS - How to document - General</H4>
+
+<table style="width:100%">
+  <caption>Table 4.2.1: Documentation - Activity, Audience, and Guidance</caption>
+  <tr>
+    <th>Activity</th>
+    <th>Audience</th>
+    <th>Guidance</th>
+  </tr>
+  <tr>
+    <td>Coding</td>
+    <td>developers and maintainers</td>
+    <td>How: plan or outline; intent; algorithm; BUG vs TODO vs FIX</td>
+  </tr>
+  <tr>
+    <td>Commenting</td>
+    <td>developers and maintainers</td>
+    <td>Why is code necessary?</td>
+  </tr>
+  <tr>
+    <td>Documenting</td>
+    <td>users</td>
+    <td>What is overall purpose of code?</td>
+  </tr>
+</table>
+
+<H4>4.9.4.2 CS -How to document - Markdown</H4>
+
 <ul>
-<li><a href="https://github.com/equinor/welp">github.com/equinor/welp</a></li>
+<li><a href="https://cirosantilli.com/markdown-style-guide">Markdown Style Guide (Ciro Santilli)</a></li>
 </ul>
 
-<H4>4.9.4 CS - Determine requirements</H4>
+<ul>
+<li><a href="https://www.w3schools.com/python/default.asp">W3Schools - Python</a></li>
+</ul>
+
+<H4>4.9.4.3 CS - How to document - Python</H4>
+
+<ul>
+<li><a href="https://black.readthedocs.io/en/stable/">Black</a></li>
+<li><a href="https://github.com/python/peps">Python PEPs on GitHub</a></li>
+<li><a href="https://www.python.org/dev/peps/pep-0008/">PEP 8 -- Style Guide for Python Code</a></li>
+<li><a href="https://pep8.org/">Style Guide for Python Code (Kenneth Reitz version, PEP8)</a></li>
+<li><a href="https://www.python.org/dev/peps/pep-0256/">PEP 256 -- Docstring Processing System Framework</a></li>
+<li><a href="https://www.python.org/dev/peps/pep-0257/">PEP 257 -- Docstring Conventions</a></li>
+<li><a href="https://www.python.org/dev/peps/pep-0258/">PEP 258 -- Docutils Design Specification</a></li>
+<li><a href="https://devguide.python.org/">Python Developer’s Guide</a></li>
+<li><a href="https://readthedocs.org/">Read the Docs</a></li>
+<li><a href="https://numpydoc.readthedocs.io/en/latest/">Read the Docs - numpydoc</a></li>
+<li><a href="https://docutils.sourceforge.io/rst.html">reST</a></li>
+<li><a href="https://docutils.sourceforge.io/docs/user/rst/quickref.html">reST - Quick reference</a></li>
+<li><a href="https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html">sphinx-doc - reStructuredText Primer</a></li>
+</ul>
+
+<H4>4.9.5 CS - Determine requirements</H4>
 
 <pre>
   <code>
