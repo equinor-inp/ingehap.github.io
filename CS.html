@@ -575,18 +575,19 @@ assertListEqual
 <H4>4.9.1 CS - Set up folder structure</H4>
 <pre>
   <code>
-    Assumed packages
-    - pip install sphinx
-    - pip install pyscaffold[all]
+    # Create project via GitHub
+    cookiecutter https://github.com/ingehap/dsp.git
+    <make github repo, no readme>
+    <cd myproject>
+    git init
+    git add .
+    git commit -m "Initial commit"
+    git remote add origin REMOTE-REPO-URL
+    git remote -v
+    git --set-upstream origin master
+    <iteratively git add/commit/push>
     
-    Make a project by pyscaffold
-    putup "my_project"
-    cd "my_project"
-    python -m venv .venv
-    source .venv/bin/activate (Linux)
-    mkdir images
-    
-    Make documentation
+    # Make documentation
     cd doc
     # 1. edit index.rst and other files
     # 2. building documentation
@@ -594,10 +595,16 @@ assertListEqual
     sphinx-build -b epub . ..\build\sphinx\epub
     python setup.py docs
     
-    Make distributions
+    # Make distributions
     build source distribution         python setup.py sdist
     build binary distribution         python setup.py bdist
     build wheel distribution          python setup.py bdist_wheel
+    install                           python setup.py install
+    develop mode                      python setup.py develop
+    
+    # Security
+    <assume python-dotenv has been installed>
+    <add settings and .env files>
   </code>
 </pre>
 
