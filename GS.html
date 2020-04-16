@@ -22,6 +22,27 @@ table, th, td {
     border: 1px solid black;
     border-collapse: collapse;
 }
+    
+table.f800 {
+    table-layout: fixed;
+    width: 800px;
+}
+	
+table.f1000 {
+    table-layout: fixed;
+    width: 1000px;
+}
+	
+table.f1200 {
+    table-layout: fixed;
+    width: 1200px;
+}
+	
+table.f1400 {
+    table-layout: fixed;
+    width: 1400px;
+}
+    
 .blank_row
 {
     height: 10px !important; /* overwrites any other rules */
@@ -49,61 +70,135 @@ MathJax.Hub.Config({
 </ul>
     
 <H4>6.2 GS - Communities</H4>
-<ul>
-<li><a href="http://archives.datapages.com/data/index.html">AAPG - DataPages</a></li>
-</ul>
-<br />
-<ul>
-<li><a href="https://www.academia.edu/Documents/in/Core_Analysis">Academia - Core Analysis</a></li>
-<li><a href="https://www.academia.edu/grants">Academia - Grants</a></li>
-<li><a href="https://www.academia.edu/Documents/in/Seismic_data_processing">Academia - Seismic data processing</a></li>
-<li><a href="https://www.academia.edu/Documents/in/Seismic_Inversion">Academia - Seismic Inversion</a></li>
-<li><a href="https://www.academia.edu/Documents/in/SPECIAL_CORE_ANALYSIS">Academia - Special Core Analysis</a></li>
-</ul>
-<br />
-<ul>
-<li><a href="https://www.bgs.ac.uk/lexicon/home.cfm?">BGS Lexicon of Named Rock Units</a></li>
-<li><a href="https://drive.google.com/file/d/14dM15BZhpn9AMYeAVJXKOAB7IxbN9CA0/view">Baker - Atlas of Log Responses</a></li>
-<li><a href="https://www.deepdyve.com/">Deepdyve</a></li>
-<li><a href="https://www.eage.org">EAGE (member M2006-0845)</a></li>
-<li><a href="https://www.eage.org/en/events">EAGE - Events</a></li>
-<li><a href="https://eartharxiv.org/">eartharXiv</a></li>
-<li><a href="http://fb.eage.org/publication/allissues?p=100">FirstBreak</a></li>
-<li><a href="https://www.geoexpro.com/articles/2019/05/geological-basin-classification">GeoExpro - Geological Basin Classification</a></li>
-<li><a href="http://gp.eage.org/publication/allissues">Geophysical Prospecting</a></li>
-<li><a href="http://factpages.npd.no/factpages/">NPD - Factpages</a></li>
-<li><a href="https://community.opengroup.org/osdu">Open Subsurface Data Universe Software</a></li>
-<li><a href="https://petrowiki.org/NMR_petrophysics">PetroWiki - NMR Petrophysics</a></li>
-</ul>
-<br />
-<ul>
-<li><a href="https://www.researchgate.net/profile/Alessandro_Amato_Del_Monte">ResearchGate - Profile - Alessandro Amato Del Monte</a></li>
-<li><a href="https://www.researchgate.net/profile/Inge_Pettersen">ResearchGate - Profile - Inge Pettersen</a></li>
-<li><a href="https://www.researchgate.net/profile/Tad_Smith">ResearchGate - Profile - Tad Smith</a></li>
-<li><a href="https://www.researchgate.net/topic/Exploration-Geophysics">ResearchGate - Topic - Exploration Geophysics</a></li>
-<li><a href="https://www.researchgate.net/topic/Inversion">ResearchGate - Topic - Inversion</a></li>
-<li><a href="https://www.researchgate.net/topic/Reservoir-Characterization">ResearchGate - Topic - Reservoir Characterization</a></li>
-<li><a href="https://www.researchgate.net/topic/Rock-Physics">ResearchGate - Topic - Rock-Physics</a></li>
-</ul>
-<br />
-<ul>
-<li><a href="https://library.seg.org/home/book">SEG - Library - Ebooks</a></li>
-<li><a href="https://software.seg.org/">SEG - Software</a></li>
-<li><a href="https://wiki.seg.org/index.php/Open_data">SEG - Wiki - Open data</a></li>
-</ul>
-<br />
-<ul>
-<li><a href="https://www.sintef.no/en/digital/applied-mathematics/computational-geoscience/#/">SINTEF - Computational Geosciences</a></li>
-<li><a href="https://www.spwla.org/SPWLA/Chapters_SIGs/SIGs/Resistivity_/Resistivity.aspx">SPWLA - Resistivity SIG</a></li>
-<li><a href="https://library.stanford.edu/research/stanford-digital-repository">Stanford - Stanford Digital Repository</a></li>
-<li><a href="https://sites.utexas.edu/formation/3d-utapwels/">University of Texas, Austin - 3D UTAPWeLS</a></li>
-<li><a href="https://www.zetaware.com/utilities/bht/horner.html">ZetaWare - Temperature</a></li>
-</ul>
+<table class="f800">
+  <caption>Table 4.2.1 - CS Communities</caption>
+  <tr>
+    <th>Main Topic</th>
+    <th>Sub Topic</th>
+  </tr>
+  <tr>
+    <td>AAPG</td>
+    <td><a href="http://archives.datapages.com/data/index.html">AAPG - DataPages</a></td>
+  </tr>
+  <tr>
+    <td rowspan="5">Academia</td>
+    <td><a href="https://www.academia.edu/Documents/in/Core_Analysis">Academia - Core Analysis</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.academia.edu/grants">Academia - Grants</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.academia.edu/Documents/in/Seismic_data_processing">Academia - Seismic data processing</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.academia.edu/Documents/in/Seismic_Inversion">Academia - Seismic Inversion</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.academia.edu/Documents/in/SPECIAL_CORE_ANALYSIS">Academia - Special Core Analysis</a></td>
+  </tr>
+  <tr>
+    <td>Baker</td>
+    <td><a href="https://drive.google.com/file/d/14dM15BZhpn9AMYeAVJXKOAB7IxbN9CA0/view">Baker - Atlas of Log Responses</a></td>
+  </tr>
+  <tr>
+    <td>BGS Lexicon of Named Rock Units</td>
+    <td><a href="https://www.bgs.ac.uk/lexicon/home.cfm?">BGS Lexicon of Named Rock Units</a></td>
+  </tr>
+  <tr>
+    <td>Deepdyve</td>
+    <td><a href="https://www.deepdyve.com/">Deepdyve</a></td>
+  </tr>
+  <tr>
+    <td rowspan="3">EAGE</td>
+    <td><a href="https://www.eage.org">EAGE (member M2006-0845)</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.eage.org/en/events">EAGE - Events</a></td>
+  </tr>
+  <tr>
+    <td><a href="http://fb.eage.org/publication/allissues?p=100">EAGE - FirstBreak</a></td>
+  </tr>
+  <tr>
+    <td>eartharXiv</td>
+    <td><a href="https://eartharxiv.org/">eartharXiv</a></td>
+  </tr>
+  <tr>
+    <td>GeoExpro</td>
+    <td><a href="https://www.geoexpro.com/articles/2019/05/geological-basin-classification">GeoExpro - Geological Basin Classification</a></td>
+  </tr>
+  <tr>
+    <td>Geophysical Prospecting</td>
+    <td><a href="http://gp.eage.org/publication/allissues">Geophysical Prospecting</a></td>
+  </tr>
+  <tr>
+    <td>NPD</td>
+    <td><a href="http://factpages.npd.no/factpages/">NPD - Factpages</a></td>
+  </tr>
+  <tr>
+    <td>Open Subsurface Data Universe Software</td>
+    <td><a href="https://community.opengroup.org/osdu">Open Subsurface Data Universe Software</a></td>
+  </tr>
+  <tr>
+    <td>PetroWiki</td>
+    <td><a href="https://petrowiki.org/NMR_petrophysics">PetroWiki - NMR Petrophysics</a></td>
+  </tr>
+  <tr>
+    <td rowspan="7">ResearchGate</td>
+    <td><a href="https://www.researchgate.net/profile/Alessandro_Amato_Del_Monte">ResearchGate - Profile - Alessandro Amato Del Monte</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.researchgate.net/profile/Inge_Pettersen">ResearchGate - Profile - Inge Pettersen</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.researchgate.net/profile/Tad_Smith">ResearchGate - Profile - Tad Smith</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.researchgate.net/topic/Exploration-Geophysics">ResearchGate - Topic - Exploration Geophysics</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.researchgate.net/topic/Inversion">ResearchGate - Topic - Inversion</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.researchgate.net/topic/Reservoir-Characterization">ResearchGate - Topic - Reservoir Characterization</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.researchgate.net/topic/Rock-Physics">ResearchGate - Topic - Rock-Physics</a></td>
+  </tr>
+  <tr>
+    <td rowspan="3">SEG</td>
+    <td><a href="https://library.seg.org/home/book">SEG - Library - Ebooks</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://software.seg.org/">SEG - Software</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://wiki.seg.org/index.php/Open_data">SEG - Wiki - Open data</a></td>
+  </tr>
+  <tr>
+    <td>SINTEF</td>
+    <td><a href="https://www.sintef.no/en/digital/applied-mathematics/computational-geoscience/#/">SINTEF - Computational Geosciences</a></td>
+  </tr>
+  <tr>
+    <td>SPWLA</td>
+    <td><a href="https://www.spwla.org/SPWLA/Chapters_SIGs/SIGs/Resistivity_/Resistivity.aspx">SPWLA - Resistivity SIG</a></td>
+  </tr>
+  <tr>
+    <td>Stanford</td>
+    <td><a href="https://library.stanford.edu/research/stanford-digital-repository">Stanford - Stanford Digital Repository</a></td>
+  </tr>
+  <tr>
+    <td>>University of Texas, Austin</td>
+    <td><a href="https://sites.utexas.edu/formation/3d-utapwels/">University of Texas, Austin - 3D UTAPWeLS</a></td>
+  </tr>
+  <tr>
+    <td>>ZetaWare</td>
+    <td><a href="https://www.zetaware.com/utilities/bht/horner.html">ZetaWare - Temperature</a></td>
+  </tr>
+</table>
 
 <H4>6.3 GS - Equinor</H4>
 
 <ul>
-    
 <li><a href="https://account.activedirectory.windowsazure.com/r/#/profile">Account Admin</a></li>
 <li><a href="http://community.statoil.com/sites/cs-1/Pages/default.aspx">Community Site - Data Management</a></li>
 <li><a href="https://www.rfdbase.com/web/Account/Login?ReturnUrl=%2Fweb">GeoMark</a></li>
