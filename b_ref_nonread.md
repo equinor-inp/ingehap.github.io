@@ -1,4 +1,4 @@
 # Books 
 
-Jelbonka, "Evolution in Four Dimensions"
-Morris, "Life's Solutions"
+- Jelbonka, "Evolution in Four Dimensions"
+- Morris, "Life's Solutions"
