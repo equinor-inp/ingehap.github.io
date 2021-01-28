@@ -1,0 +1,5 @@
+Asdal, "Hvordan gjøre dokumentanalyse"
+Bratberg, "Tekstanalyse for samfunnsvitere"
+Levitsky, "How Democraties Die"
+Næss, "Globografi"
+Skrede, "Kritisk diskursanalyse"

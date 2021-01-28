@@ -1,0 +1,13 @@
+Beller, "Quantum Dialogue"
+Bernstein, "Quantum Profiles"
+Binney, "Galactic dynamics"
+Cercignani, "Theory and application or the Boltzmann equation"
+Fine, "The Shaky Guide"
+Gilder, "The Age of Entanglement"
+Lloyd, "Programming the Universe"
+Miller, "Sixty-Two Years of Uncertainty"
+Pais, "Subtle is the Lord"
+Penrose, "The Road to Reality"
+Rees, "Just Six Numbers"
+Villani, "Optimal transport"
+
