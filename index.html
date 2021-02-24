@@ -763,6 +763,51 @@ Equinor - APIs - RocknLog Hub Web API<br>
 </table>
 </p>
 
+<p>
+<table id="t01">
+  <caption>Table 5. Python Numerical Analysis (from scipy import linalg; import numpy as np)</caption>
+  <tr>
+    <th>Numerical Analysis Task</th>
+    <th>Code</th>
+    <th>Comments</th>
+  </tr>
+  <tr>
+    <td>Cayley multiplication</td>
+    <td>c = np.dot(A, x)</td>
+    <td>Calculate A * x</td>
+  </tr>
+  <tr>
+    <td>Compare matrices</td>
+    <td>are_a_b_close = np.close(A, B)</td>
+    <td>Element by element comparision</td>
+  </tr>
+  <tr>
+    <td>Inverse matrix (std)</td>
+    <td>B = linalg.inv(A)</td>
+    <td>Inversion for a nonsingular square matrix</td>
+  </tr>
+  <tr>
+    <td>Least square solution Ax = b</td>
+    <td>p, res, rnk, s = lstsq(A, y)</td>
+    <td>Vector x s. t. |b - Ax| is minimal</td>
+  </tr>
+  <tr>
+    <td>Moore-Penrose pseudoinverse I</td>
+    <td>B = linalg.pinv(A)</td>
+    <td>Least square solver; A is m x n with m > n</td>
+  </tr>
+  <tr>
+    <td>Moore-Penrose pseudoinverse II</td>
+    <td>B = linalg.pinv2(A)</td>
+    <td>SVD convergence; A is m x n with m < n</td>
+  </tr>
+  <tr>
+    <td>QR factorization</td>
+    <td>Q, R = linalg.qr(A)</td>
+    <td>QTQ= I; A = QR; R upper triangular</td>
+  </tr>
+</table>
+</p>
 
 <br><h1> - Q - </h1>
 
