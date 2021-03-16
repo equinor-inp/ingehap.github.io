@@ -1,6 +1,7 @@
 # Files
 
 - index.html
+- Ancient_Near_East.html
 - Equinor.html
 - ML_Papers_-_Classical.html
 - ML_Papers_-_Constraint_Enforcement.html
