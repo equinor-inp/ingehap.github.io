@@ -1,6 +1,6 @@
 # Files
 
-- Educational_Resources.html
+- index.html
 - Equinor.html
 - Python.html
 - README.md
