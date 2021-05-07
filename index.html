@@ -61,16 +61,42 @@ th, td {
 &nbsp&nbsp&nbsp<a href="https://realpython.com/" target="_blank">RealPython</a><br>
 </p>
 
+<br><h2> - conda commands - </h2>
+
 <p>
 <table id="t01">
-  <caption>Table 2. Events</caption>
+  <caption>Table 2. conda commands</caption>
   <tr>
-    <th>Time</th>
-    <th>Event</th>
+    <th>conda command</th>
+    <th>comments</th>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
+    <td>conda create -n my_env python=3.8</td>
+    <td>creates environment my_env based on Python 3.8</td>
+  </tr>
+  <tr>
+    <td>conda env create -f environment.yml</td>
+    <td>create environment based on yml-file</td>
+  </tr>
+  <tr>
+    <td>conda env export > environment.yml</td>
+    <td>export current environment to yml-file</td>
+  </tr>
+  <tr>
+    <td>conda remove -n name --all</td>
+    <td>remove conda environment named name</td>
+  </tr>
+  <tr>
+    <td>conda activate name</td>
+    <td>activate environment named name</td>
+  </tr>
+  <tr>
+    <td>conda deactivate</td>
+    <td>deactivate current active environment</td>
+  </tr>
+  <tr>
+    <td>conda info --envs</td>
+    <td>list up available environments</td>
   </tr>
 </table>
 </p>
@@ -78,20 +104,22 @@ th, td {
 <br><h1> - Events - </h1>
 
 <p>
-<a href="https://www.anaconda.com/events" target="_blank">Anaconda_Events</a>
-&nbsp&nbsp&nbsp<a href="https://carpentries.org/upcoming_workshops/" target="_blank">carpentries_workshops</a>
-&nbsp&nbsp&nbsp<a href="https://www.deeplearning.ai/events/" target="_blank">DeepLearning_Events</a>
-&nbsp&nbsp&nbsp<a href="https://www.npd.no/en/force/events/" target="_blank">FORCE_Events</a>
-&nbsp&nbsp&nbsp<a href="https://www.gshtx.org/" target="_blank">GSH_Events</a>
-&nbsp&nbsp&nbsp<a href="https://www.kaggle.com/competitions" target="_blank">Kaggle_Competitions</a>
-&nbsp&nbsp&nbsp<a href="https://lps.org.uk/events/" target="_blank">LPS_Events</a>
-&nbsp&nbsp&nbsp<a href="https://www.nora.ai/nora-webinars/" target="_blank">NORA_Webinars</a>
-&nbsp&nbsp&nbsp<a href="https://seg.org/Events/Events-Calendar" target="_blank">SEG_Calendar</a>
-&nbsp&nbsp&nbsp<a href="https://seg.org/Events" target="_blank">SEG_Events</a>
-&nbsp&nbsp&nbsp<a href="https://seg.org/Events/SEG-Live/" target="_blank">SEG_Live</a>
-&nbsp&nbsp&nbsp<a href="https://www.software.slb.com/software-news/events/living-digital-webinar-series" target="_blank">SLB_LivingDigital</a>
-&nbsp&nbsp&nbsp<a href="https://www.spwla.org/SPWLA/Events/Event_List/SPWLA/Events/EventListRoster.aspx" target="_blank">SPWLA_Events</a>
-&nbsp&nbsp&nbsp<a href="https://xeek.ai/" target="_blank">Xeek</a><br><br>
+<a href="https://www.aaai.org/Conferences/conferences.php" target="_blank">AAAI - Conferences</a><br>
+<a href="https://aaai.org/Sym2osia/symposia.php" target="_blank">AAAI - Symposia</a><br>
+<a href="https://www.anaconda.com/events" target="_blank">Anaconda_Events</a><br>
+<a href="https://carpentries.org/upcoming_workshops/" target="_blank">carpentries_workshops</a><br>
+<a href="https://www.deeplearning.ai/events/" target="_blank">DeepLearning_Events</a><br>
+<a href="https://www.npd.no/en/force/events/" target="_blank">FORCE_Events</a><br>
+<a href="https://www.gshtx.org/" target="_blank">GSH_Events</a><br>
+<a href="https://www.kaggle.com/competitions" target="_blank">Kaggle_Competitions</a><br>
+<a href="https://lps.org.uk/events/" target="_blank">LPS_Events</a><br>
+<a href="https://www.nora.ai/nora-webinars/" target="_blank">NORA_Webinars</a><br>
+<a href="https://seg.org/Events/Events-Calendar" target="_blank">SEG_Calendar</a><br>
+<a href="https://seg.org/Events" target="_blank">SEG_Events</a><br>
+<a href="https://seg.org/Events/SEG-Live/" target="_blank">SEG_Live</a><br>
+<a href="https://www.software.slb.com/software-news/events/living-digital-webinar-series" target="_blank">SLB_LivingDigital</a><br>
+<a href="https://www.spwla.org/SPWLA/Events/Event_List/SPWLA/Events/EventListRoster.aspx" target="_blank">SPWLA_Events</a><br>
+<a href="https://xeek.ai/" target="_blank">Xeek</a><br>
 </p>
 
 <p>
@@ -149,46 +177,30 @@ th, td {
 </p>
 
 <p>
-<table id="t01">
-  <caption>Table 2. Papers</caption>
-  <tr>
-    <th>Title</th>
-    <th>Year</th>
-    <th>Summary</th>
-    <th>Documentation Link(s)</th>
-    <th>GitHub Link(s)</th>
-  </tr>
-  <tr>
-    <td>Enforcing Analytic Constraints in Neural-Networks Emulating Physical Systems</td>
-    <td>2021</td>
-    <td><a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.098302" target="_blank">PRL</a></td>
-    <td><a href="https://arxiv.org/abs/1909.00912" target="_blank">arXiv</a></td>
-    <td><a href="https://github.com/raspstephan/CBRAIN-CAM" target="_blank">GitHub</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://arxiv.org/abs/1910.10683" target="_blank">"Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer"</a></td>
-    <td>2020</td>
-    <td>a unified framework that converts all text-based language problems into a text-to-text format</td>
-    <td><a href="https://paperswithcode.com/paper/exploring-the-limits-of-transfer-learning#code" target="_blank">Papers with code</a></td>
-    <td><a href="https://github.com/google-research/text-to-text-transfer-transformer" target="_blank">Official GitHub Code</a></td>
-  </tr>
-</table>
+My paper collections are located in my online Mendely manager.
 </p>
 
-<br><h1> - Other - </h1>
+<h1>- Societies -</h1>
+  
 <p>
-<!-- A -->
 <!-- A, AAPG -->
 <a href="http://archives.datapages.com/data/browse/aapg-bulletin/" target="_blank">AAPG - AAPG Bulletin</a><br>
 <a href="https://www.aapg.org/global/europe/blog/currentpage/1" target="_blank">AAPG - Let’s Connect Series</a><br>
 <!-- A, AAAI -->
 <a href="https://www.aaai.org/" target="_blank">AAAI - Home</a><br>
-<a href="https://www.aaai.org/Conferences/conferences.php" target="_blank">AAAI - Conferences</a><br>
-<a href="https://aaai.org/Sym2osia/symposia.php" target="_blank">AAAI - Symposia</a><br>
 <!-- A, ACM -->
 <a href="https://www.acm.org/" target="_blank">ACM - Homepage</a><br>
 <a href="https://learning.acm.org/" target="_blank">ACM - Learning Center</a><br>
 <a href="https://myacm.acm.org/dashboard.cfm" target="_blank">ACM – Dashboard</a><br>
+<!-- A, AGU -->
+<a href="https://www.agu.org/" target="_blank">AGU</a><br>
+<a href="https://eos.org/scientific-disciplines/mathematical-geophysics" target="_blank">AGU - Eos, Mathematical Geophysics</a><br>
+</p>
+  
+<br><h1> - Other - </h1>
+<p>
+<!-- A -->
+<!-- A, AAAI -->
 <!-- A, Adaptavist -->
 <a href="https://www.youtube.com/user/AdaptavistEnterprise/videos" target="_blank">Adaptavist - ScriptRunner</a><br>
 <!-- A, Agile Scientific -->
@@ -196,9 +208,6 @@ th, td {
 <!-- A, Agora -->
 <a href="https://agora.stream/" target="_blank">agora stream</a><br>
 <a href="https://agora.stream/SIG%20on%20Machine%20Learning%20and%20Dynamical%20Systems" target="_blank">agora stream - SIG on Machine Learning and Dynamical Systems</a><br>
-<!-- A, AGU -->
-<a href="https://www.agu.org/" target="_blank">AGU</a><br>
-<a href="https://eos.org/scientific-disciplines/mathematical-geophysics" target="_blank">AGU - Eos, Mathematical Geophysics</a><br>
 <!-- A, AHRS -->
 <a href="https://www.ancient-hebrew.org/" target="_blank">AHRS</a><br>
 <!-- A, AI+ -->
